@@ -597,13 +597,9 @@ Tools
 
    </div>
 
-.. |Screenshot-quick-programme.png| image:: /w/images/7/7c/Screenshot-quick-programme.png
+.. |Screenshot-quick-programme.png| image:: images/Screenshot-quick-programme.png
    :target: /view/File:Screenshot-quick-programme.png
-.. |Screenshot-universal-programme.png| image:: /w/images/d/d9/Screenshot-universal-programme.png
+.. |Screenshot-universal-programme.png| image:: images/Screenshot-universal-programme.png
    :target: /view/File:Screenshot-universal-programme.png
-.. |Screenshot-preheat.png| image:: /w/images/5/5a/Screenshot-preheat.png
+.. |Screenshot-preheat.png| image:: images/Screenshot-preheat.png
    :target: /view/File:Screenshot-preheat.png
-.. |Powered by MediaWiki| image:: /w/resources/assets/poweredby_mediawiki_88x31.png
-   :target: //www.mediawiki.org/
-.. |Powered by Semantic MediaWiki| image:: /w/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png
-   :target: https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki

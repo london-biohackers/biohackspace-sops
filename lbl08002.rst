@@ -701,15 +701,11 @@ Tools
 
    </div>
 
-.. |15271037703 8db97f325a c.jpg| image:: /w/images/thumb/f/f6/15271037703_8db97f325a_c.jpg/120px-15271037703_8db97f325a_c.jpg
+.. |15271037703 8db97f325a c.jpg| image:: images/15271037703_8db97f325a_c.jpg
    :target: /view/File:15271037703_8db97f325a_c.jpg
-.. |15703385860 9b92260b2d c.jpg| image:: /w/images/thumb/c/ca/15703385860_9b92260b2d_c.jpg/120px-15703385860_9b92260b2d_c.jpg
+.. |15703385860 9b92260b2d c.jpg| image:: images/15703385860_9b92260b2d_c.jpg
    :target: /view/File:15703385860_9b92260b2d_c.jpg
-.. |15270736103 bcd3dccf7c c.jpg| image:: /w/images/thumb/f/f3/15270736103_bcd3dccf7c_c.jpg/67px-15270736103_bcd3dccf7c_c.jpg
+.. |15270736103 bcd3dccf7c c.jpg| image:: images/15270736103_bcd3dccf7c_c.jpg
    :target: /view/File:15270736103_bcd3dccf7c_c.jpg
-.. |15890375165 a1b657a202 c.jpg| image:: /w/images/thumb/8/85/15890375165_a1b657a202_c.jpg/120px-15890375165_a1b657a202_c.jpg
+.. |15890375165 a1b657a202 c.jpg| image:: images/15890375165_a1b657a202_c.jpg
    :target: /view/File:15890375165_a1b657a202_c.jpg
-.. |Powered by MediaWiki| image:: /w/resources/assets/poweredby_mediawiki_88x31.png
-   :target: //www.mediawiki.org/
-.. |Powered by Semantic MediaWiki| image:: /w/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png
-   :target: https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki

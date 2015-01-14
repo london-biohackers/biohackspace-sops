@@ -548,7 +548,3 @@ Tools
 
    </div>
 
-.. |Powered by MediaWiki| image:: /w/resources/assets/poweredby_mediawiki_88x31.png
-   :target: //www.mediawiki.org/
-.. |Powered by Semantic MediaWiki| image:: /w/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png
-   :target: https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki

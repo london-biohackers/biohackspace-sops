@@ -582,11 +582,7 @@ Tools
 
    </div>
 
-.. |Screenshot-gentle-programme.png| image:: /w/images/3/3b/Screenshot-gentle-programme.png
+.. |Screenshot-gentle-programme.png| image:: images/Screenshot-gentle-programme.png
    :target: /view/File:Screenshot-gentle-programme.png
-.. |Screenshot-preheat.png| image:: /w/images/5/5a/Screenshot-preheat.png
+.. |Screenshot-preheat.png| image:: images/Screenshot-preheat.png
    :target: /view/File:Screenshot-preheat.png
-.. |Powered by MediaWiki| image:: /w/resources/assets/poweredby_mediawiki_88x31.png
-   :target: //www.mediawiki.org/
-.. |Powered by Semantic MediaWiki| image:: /w/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png
-   :target: https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
