@@ -1,0 +1,652 @@
+================================
+LBL06001 - London Hackspace Wiki
+================================
+
+.. raw:: html
+
+   <div id="globalWrapper">
+
+.. raw:: html
+
+   <div id="column-content">
+
+.. raw:: html
+
+   <div id="content" class="mw-body" role="main">
+
+LBL06001
+========
+
+.. raw:: html
+
+   <div id="bodyContent" class="mw-body-content">
+
+.. raw:: html
+
+   <div id="siteSub">
+
+From London Hackspace Wiki
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="contentSub">
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="jump-to-nav" class="mw-jump">
+
+Jump to: `navigation <#column-one>`__, `search <#searchInput>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+Risk Assessment Procedure for Lab Users Proposing New Projects
+--------------------------------------------------------------
+
++-----------+----------------------------+--------------------+
+| Author:   | Approved by: S. Thompson   | SOP No. LBL06001   |
++-----------+----------------------------+--------------------+
+| Signed:   | Signed:                    | Effective from:    |
++-----------+----------------------------+--------------------+
+| Date:     | Date:                      | Last edited:       |
++-----------+----------------------------+--------------------+
+
+**1. Purpose**
+
+The purpose of this SOP is to highlight the requirements to lab users
+starting new projects in the Biohackspace Laboratory in terms of the
+risks presented by undertaking such work. In particular, risks from the
+use of chemicals, reagents and equipment should be considered along with
+the important considerations that are essentially for working with
+genetically modified organisms.
+
+**2. Scope**
+
+This SOP applies to all users of the Biohackspace Laboratory and all
+projects undertaken within it.
+
+**3. Responsibilities**
+
+Ultimately, the laboratory user who initiates and undertakes the lab
+work (aka The Principal Investigator) is responsible for the health and
+safety considerations and containment requirements involved with their
+project. It is a requirement that they be aware of the risks involved in
+the project and the exposure to these risks by themselves, other lab
+users, the wider community and the environment. Before commencing any
+work the risks involved in the project must be assessed by the the
+principal investigator, they must seek advice from an experienced third
+party and the satisfactory results of this process must be signed off by
+the Biological Safety Officer.
+
+**4. Materials**
+
+| i) Risk assessment checklist.
+|  ii) List of materials and methods for project work.
+
+**5. Related documents**
+
+See also general lab induction LBL02001 based on initial lab risk
+assessment and other SOPs describing the best practice in terms of
+materials and methods to be used.
+
+**6. Definitions**
+
+| GMM - Genetically Modified Microorganism
+|  GMO - Genetically Modified Organism
+|  COSHH - Control of Substances Hazardous to Health
+|  SOP - Standard Operating Procedure
+|  HG - Hazard Group
+|  CL - Containment Level
+|  PI - Principal Investigator
+|  PPE - Personal Protective Equipment
+|  MSDS - Material Safety Data Sheet
+
+**7. Procedures**
+
+::
+
+    7.1 Items for principal investigator to consider in assessing the risks in projects involving GMM.
+
+::
+
+      7.1.1. Consider the potential hazardous properties from your microorganism cross referenced to national categorisation lists,
+                e.g Approved list of biological agents.
+      7.1.1.1 Any microorganisms to be used within the lab must fall within the Hazard Group 1 (HG1) category. Biological agents are categorised 
+              into HG categories based on the following criteria:
+           
+                 i) are they harmful to human health?
+                 ii) are they a hazard to employees/workers within the organisation?
+                 iii) transmissible to the community? 
+                 iv) whether effective treatment and/or prophylaxis (including vaccines) are available?
+
+::
+
+      7.1.2 The PI should condsider how the microorganism is being modified (in the case of GMMs), 
+                e.g are there enhancements of function, altered tropisms and/or altered routes of transmission? 
+                Consideration should be given to impacts on its hazardous properties i.e more pathogenic, attenuated or unchanged.
+
+::
+
+      7.1.3 In handling the organism the PI should consider any risks involved, for example what PPE will be required? What risks are involved in 
+            setting up and running fermentation and growth systems, for example. Particularly, are any non-standard procedures involved?
+
+::
+
+      7.1.4 The PI should consider any special requirements in disposing of the microorganisms, in particular, cultures should be destroyed in the
+            kill bin and any GM material should be autoclaved as well before disposal to ensure destruction.
+
+::
+
+      7.1.5 The PI should consider the storage requirements for the organism, such as whether the organism will be stored frozen, in the fridge 
+            and/or at room temperature and if it requires any other special storage requirements.
+
+::
+
+      7.1.6 Important: If the micro organism is in risk group 1 and will be genetically modified then containment level one procedures must be 
+                       adhered to. 
+                 Note: If it is deemed to be in hazard group 2 or higher then this organism cannot be used in the London biohackspace laboratory. 
+                       The PI should understand the difference between the HG groups and be able to explain why the organism falls into HG1 and 
+                       not higher.
+
+::
+
+      7.1.7 The principal investigator should also assess the risks to the environment involved with the organism. Particularly, genetically 
+            modified organisms developed in the lab should not be allowed to leave the definied containment area in case of the risk of becoming 
+            introduced to the wider environment where they may have an impact on either the ecosystem or health of the community.
+
+::
+
+         7.1.7.1 Consider, for example, the capacity of a GM plant to survive and become established and deseminate. Including its ability to 
+                 compete with or displace other plants.
+                 The PI should consider the hazards associated with inserted genetic elements, particularly if this codes for any toxic products 
+                 that might affect the ecosystem or animal health.
+
+::
+
+         7.1.7.2 The PI should also consider the potential for transfer of genetic material between the GM plant and other organisms.
+
+7.2 Asessing the risks involved in the use of chemicals and reagents.
+
+::
+
+     7.2.1 The principal investigator should check whether a required chemical or reagent for their project is already in use in the laboratory.
+           If not they should locate the relavent MSDS for the substance in question and should pay particular attention to the following factors:
+                
+               i) How should the substance be handled? Is particular PPE required, and is this available?
+              ii) How is the substance stored and can this be accommodated in the laboratory? For example, it may not be practical to store highly
+                  volatile, flammable, corrosive or controlled substances on site.
+             iii) How should the substance be disposed of? Primarily, can this be disposed of down the drain (diluted or undiluted?) or are special 
+                  disposal measures required? If so are these available?
+
+7.3 Assessing the risks involved in the use of instrumentation and
+equipment
+
+::
+
+     7.3.1 The principal investigator should assess any risk presented by instrumentation or equipment brought into the lab for the purpose of
+           carrying out this project.
+           Some examples might be: does it operate at high temperature or pressure, produce wavelengths of light that might be harmful (i.e uses
+           lasers or UV bulbs), does it operate at high voltages (e.g electroporator),produce high frequency sounds that might be damaging to 
+           hearing (e.g sonicators) or might be heavy or awkward to operate.
+
+::
+
+     7.3.2 The principal investigator should check the SOP documentation for information covering similar devices, and the information covering the 
+           laboratory safety induction which should cover most of the installed devices at the time of writing.
+
+**8. Resources**
+
+HSE docs on risk (in general and GMM stuff)
+
+| 
+|  …
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div class="printfooter">
+
+Retrieved from
+"https://wiki.london.hackspace.org.uk/w/index.php?title=LBL06001&oldid=44102\ "
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="catlinks" class="catlinks">
+
+.. raw:: html
+
+   <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+`Category </view/Special:Categories>`__:
+
+-  `Biohacking </view/Category:Biohacking>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div class="visualClear">
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="column-one">
+
+Navigation menu
+---------------
+
+.. raw:: html
+
+   <div id="p-cactions" class="portlet" role="navigation">
+
+Views
+~~~~~
+
+.. raw:: html
+
+   <div class="pBody">
+
+-  
+
+   .. raw:: html
+
+      <div id="ca-nstab-main">
+
+   .. raw:: html
+
+      </div>
+
+   `Page </view/LBL06001>`__
+-  
+
+   .. raw:: html
+
+      <div id="ca-talk">
+
+   .. raw:: html
+
+      </div>
+
+   `Discussion </edit/Talk:LBL06001?redlink=1>`__
+-  
+
+   .. raw:: html
+
+      <div id="ca-viewsource">
+
+   .. raw:: html
+
+      </div>
+
+   `View source </edit/LBL06001>`__
+-  
+
+   .. raw:: html
+
+      <div id="ca-history">
+
+   .. raw:: html
+
+      </div>
+
+   `History </history/LBL06001>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="p-personal" class="portlet" role="navigation">
+
+Personal tools
+~~~~~~~~~~~~~~
+
+.. raw:: html
+
+   <div class="pBody">
+
+-  
+
+   .. raw:: html
+
+      <div id="pt-createaccount">
+
+   .. raw:: html
+
+      </div>
+
+   `Create
+   account </w/index.php?title=Special:UserLogin&returnto=LBL06001&returntoquery=action%3Dview&type=signup>`__
+-  
+
+   .. raw:: html
+
+      <div id="pt-login">
+
+   .. raw:: html
+
+      </div>
+
+   `Log
+   in </w/index.php?title=Special:UserLogin&returnto=LBL06001&returntoquery=action%3Dview>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="p-logo" class="portlet" role="banner">
+
+` </view/London_Hackspace>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="p-navigation" class="generated-sidebar portlet"
+   role="navigation">
+
+Navigation
+~~~~~~~~~~
+
+.. raw:: html
+
+   <div class="pBody">
+
+-  
+
+   .. raw:: html
+
+      <div id="n-mainpage-description">
+
+   .. raw:: html
+
+      </div>
+
+   `Main page </view/London_Hackspace>`__
+-  
+
+   .. raw:: html
+
+      <div id="n-Members.27-projects">
+
+   .. raw:: html
+
+      </div>
+
+   `Members’
+   projects <https://wiki.london.hackspace.org.uk/w/index.php?title=Special:AllPages&namespace=100>`__
+-  
+
+   .. raw:: html
+
+      <div id="n-recentchanges">
+
+   .. raw:: html
+
+      </div>
+
+   `Recent changes </view/Special:RecentChanges>`__
+-  
+
+   .. raw:: html
+
+      <div id="n-randompage">
+
+   .. raw:: html
+
+      </div>
+
+   `Random page </view/Special:Random>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="p-search" class="portlet" role="search">
+
+Search
+~~~~~~
+
+.. raw:: html
+
+   <div id="searchBody" class="pBody">
+
+ 
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="p-tb" class="portlet" role="navigation">
+
+Tools
+~~~~~
+
+.. raw:: html
+
+   <div class="pBody">
+
+-  
+
+   .. raw:: html
+
+      <div id="t-whatlinkshere">
+
+   .. raw:: html
+
+      </div>
+
+   `What links here </view/Special:WhatLinksHere/LBL06001>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-recentchangeslinked">
+
+   .. raw:: html
+
+      </div>
+
+   `Related changes </view/Special:RecentChangesLinked/LBL06001>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-specialpages">
+
+   .. raw:: html
+
+      </div>
+
+   `Special pages </view/Special:SpecialPages>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-print">
+
+   .. raw:: html
+
+      </div>
+
+   `Printable version </view/LBL06001?printable=yes>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-permalink">
+
+   .. raw:: html
+
+      </div>
+
+   `Permanent link </w/index.php?title=LBL06001&oldid=44102>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-info">
+
+   .. raw:: html
+
+      </div>
+
+   `Page information </w/index.php?title=LBL06001&action=info>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-smwbrowselink">
+
+   .. raw:: html
+
+      </div>
+
+   `Browse properties </view/Special:Browse/LBL06001>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div class="visualClear">
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="footer" role="contentinfo">
+
+.. raw:: html
+
+   <div id="f-poweredbyico">
+
+|Powered by MediaWiki| |Powered by Semantic MediaWiki|
+
+.. raw:: html
+
+   </div>
+
+-  
+
+   .. raw:: html
+
+      <div id="lastmod">
+
+   .. raw:: html
+
+      </div>
+
+   This page was last modified on 23 November 2014, at 16:42.
+-  
+
+   .. raw:: html
+
+      <div id="viewcount">
+
+   .. raw:: html
+
+      </div>
+
+   This page has been accessed 75 times.
+-  
+
+   .. raw:: html
+
+      <div id="about">
+
+   .. raw:: html
+
+      </div>
+
+   `About London Hackspace Wiki </view/About>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. |Powered by MediaWiki| image:: /w/resources/assets/poweredby_mediawiki_88x31.png
+   :target: //www.mediawiki.org/
+.. |Powered by Semantic MediaWiki| image:: /w/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png
+   :target: https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki

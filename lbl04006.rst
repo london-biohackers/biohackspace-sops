@@ -1,0 +1,609 @@
+================================
+LBL04006 - London Hackspace Wiki
+================================
+
+.. raw:: html
+
+   <div id="globalWrapper">
+
+.. raw:: html
+
+   <div id="column-content">
+
+.. raw:: html
+
+   <div id="content" class="mw-body" role="main">
+
+LBL04006
+========
+
+.. raw:: html
+
+   <div id="bodyContent" class="mw-body-content">
+
+.. raw:: html
+
+   <div id="siteSub">
+
+From London Hackspace Wiki
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="contentSub">
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="jump-to-nav" class="mw-jump">
+
+Jump to: `navigation <#column-one>`__, `search <#searchInput>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+| 
+
+Using the Autoclave for Waste Deactivation
+------------------------------------------
+
++-------------------+----------------------------+--------------------+
+| Author: Tolland   | Approved by: S. Thompson   | SOP No. LBL04006   |
++-------------------+----------------------------+--------------------+
+| Signed:           | Signed:                    | Effective from:    |
++-------------------+----------------------------+--------------------+
+| Date:             | Date:                      | Last edited:       |
++-------------------+----------------------------+--------------------+
+
+| **1. Purpose** This describes the operation of the Melag EuroKlav
+  29V-S. The autoclave is used for three main procedures with respect to
+  GMO deactivation:
+
+::
+
+       i) sterilization of glassware and equipment for reuse
+      ii) Deactivation of small volumes of liquid and solid media
+     iii) Deactivation of large loads of  liquid and solid media
+
+**2. Scope**
+
+This should be observed every time the autoclave is used within the LBL
+BioLab for GMO waste deactivation.
+
+**3. Responsibilities**
+
+The operator of the autoclave is responsible for their own safety and
+that of others in the vicinity during its use. The particular risks
+presented in using this piece of equipment are primarily due to the high
+temperatures and steam released during evacuation.
+
+Upon removal of items from the autoclave be aware that they will likely
+still be hot, and care should be taken to check that glass or ceramic
+items are intact.
+
+**4. Materials**
+
+The autoclave requires a supply of **RO water**. If the water supply
+level falls below a minimum level, the operator will be required to top
+up the system. The RO water is available from the tank under the
+counter. The autoclave is filled into the tank from the top of the
+machine.
+
+The daily test, and waste deactivation runs of the autoclave require
+**autoclave tape**. If we are out of autoclave tape, please email the
+[mailti:hello@biohackspace.org BSO] and report that we are out of stock.
+
+| 
+|  **5. Related documents**
+
+…
+
+| 
+|  **6. Definitions**
+
+…
+
+| 
+|  **7. Procedures**
+
+7.1 Daily Test procedure
+
+Before using the autoclave for GMO deactivation each day, the operator
+should run a test strip through the autoclave to check that it is
+working to specification.
+
+The test strip should be stapled into the lab book, with a note
+indicating the operator and the date/time the test was run, along with
+any observations.
+
+7.1.1 Unwrapped equipment and glassware with no internal cavities can be
+sterilized using the Quick Programme (28 psi/134 C/3 mins)
+
+|Screenshot-quick-programme.png|
+
+7.1.2 Materials such as a solid and liquid media can be sterilized using
+the Universal Programme (28 psi/134 C/30 mins)
+
+|Screenshot-universal-programme.png|
+
+7.1.3 Large volumes of liquid or solid media should be processed with
+extra care.
+
+The autoclave should be preheated;
+
+|Screenshot-preheat.png|
+
+If possible, the media should be split into several autoclaves sessions.
+The load should be run under the Universal programme
+
+|Screenshot-universal-programme.png|
+
+| 
+
+7.2 Deactivation of liquid and solid GMO waste ==
+
+7.2.1 Transport the waste to the autoclave in a non-drip autoclavable
+tray 7.2.2 Ensure there are no folds or containers which can trap air
+7.2.3 Sterilize the load using the Universal-Programme (2.1 bar/134 C/15
+mins) 7.2.4 once the programme has run, the waste should be transferred
+to the chemical kill bin, for final deactivation
+
+**8. Resources**
+
+::
+
+    - Operating manual: http://www.eickemeyer.nl/images/products/2281/500032_Melag_Euroklav_23VS.pdf
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div class="printfooter">
+
+Retrieved from
+"https://wiki.london.hackspace.org.uk/w/index.php?title=LBL04006&oldid=44377\ "
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="catlinks" class="catlinks">
+
+.. raw:: html
+
+   <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+`Category </view/Special:Categories>`__:
+
+-  `Biohacking </view/Category:Biohacking>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div class="visualClear">
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="column-one">
+
+Navigation menu
+---------------
+
+.. raw:: html
+
+   <div id="p-cactions" class="portlet" role="navigation">
+
+Views
+~~~~~
+
+.. raw:: html
+
+   <div class="pBody">
+
+-  
+
+   .. raw:: html
+
+      <div id="ca-nstab-main">
+
+   .. raw:: html
+
+      </div>
+
+   `Page </view/LBL04006>`__
+-  
+
+   .. raw:: html
+
+      <div id="ca-talk">
+
+   .. raw:: html
+
+      </div>
+
+   `Discussion </edit/Talk:LBL04006?redlink=1>`__
+-  
+
+   .. raw:: html
+
+      <div id="ca-viewsource">
+
+   .. raw:: html
+
+      </div>
+
+   `View source </edit/LBL04006>`__
+-  
+
+   .. raw:: html
+
+      <div id="ca-history">
+
+   .. raw:: html
+
+      </div>
+
+   `History </history/LBL04006>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="p-personal" class="portlet" role="navigation">
+
+Personal tools
+~~~~~~~~~~~~~~
+
+.. raw:: html
+
+   <div class="pBody">
+
+-  
+
+   .. raw:: html
+
+      <div id="pt-createaccount">
+
+   .. raw:: html
+
+      </div>
+
+   `Create
+   account </w/index.php?title=Special:UserLogin&returnto=LBL04006&returntoquery=action%3Dview&type=signup>`__
+-  
+
+   .. raw:: html
+
+      <div id="pt-login">
+
+   .. raw:: html
+
+      </div>
+
+   `Log
+   in </w/index.php?title=Special:UserLogin&returnto=LBL04006&returntoquery=action%3Dview>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="p-logo" class="portlet" role="banner">
+
+` </view/London_Hackspace>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="p-navigation" class="generated-sidebar portlet"
+   role="navigation">
+
+Navigation
+~~~~~~~~~~
+
+.. raw:: html
+
+   <div class="pBody">
+
+-  
+
+   .. raw:: html
+
+      <div id="n-mainpage-description">
+
+   .. raw:: html
+
+      </div>
+
+   `Main page </view/London_Hackspace>`__
+-  
+
+   .. raw:: html
+
+      <div id="n-Members.27-projects">
+
+   .. raw:: html
+
+      </div>
+
+   `Members’
+   projects <https://wiki.london.hackspace.org.uk/w/index.php?title=Special:AllPages&namespace=100>`__
+-  
+
+   .. raw:: html
+
+      <div id="n-recentchanges">
+
+   .. raw:: html
+
+      </div>
+
+   `Recent changes </view/Special:RecentChanges>`__
+-  
+
+   .. raw:: html
+
+      <div id="n-randompage">
+
+   .. raw:: html
+
+      </div>
+
+   `Random page </view/Special:Random>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="p-search" class="portlet" role="search">
+
+Search
+~~~~~~
+
+.. raw:: html
+
+   <div id="searchBody" class="pBody">
+
+ 
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="p-tb" class="portlet" role="navigation">
+
+Tools
+~~~~~
+
+.. raw:: html
+
+   <div class="pBody">
+
+-  
+
+   .. raw:: html
+
+      <div id="t-whatlinkshere">
+
+   .. raw:: html
+
+      </div>
+
+   `What links here </view/Special:WhatLinksHere/LBL04006>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-recentchangeslinked">
+
+   .. raw:: html
+
+      </div>
+
+   `Related changes </view/Special:RecentChangesLinked/LBL04006>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-specialpages">
+
+   .. raw:: html
+
+      </div>
+
+   `Special pages </view/Special:SpecialPages>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-print">
+
+   .. raw:: html
+
+      </div>
+
+   `Printable version </view/LBL04006?printable=yes>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-permalink">
+
+   .. raw:: html
+
+      </div>
+
+   `Permanent link </w/index.php?title=LBL04006&oldid=44377>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-info">
+
+   .. raw:: html
+
+      </div>
+
+   `Page information </w/index.php?title=LBL04006&action=info>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-smwbrowselink">
+
+   .. raw:: html
+
+      </div>
+
+   `Browse properties </view/Special:Browse/LBL04006>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div class="visualClear">
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="footer" role="contentinfo">
+
+.. raw:: html
+
+   <div id="f-poweredbyico">
+
+|Powered by MediaWiki| |Powered by Semantic MediaWiki|
+
+.. raw:: html
+
+   </div>
+
+-  
+
+   .. raw:: html
+
+      <div id="lastmod">
+
+   .. raw:: html
+
+      </div>
+
+   This page was last modified on 11 December 2014, at 18:04.
+-  
+
+   .. raw:: html
+
+      <div id="viewcount">
+
+   .. raw:: html
+
+      </div>
+
+   This page has been accessed 53 times.
+-  
+
+   .. raw:: html
+
+      <div id="about">
+
+   .. raw:: html
+
+      </div>
+
+   `About London Hackspace Wiki </view/About>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. |Screenshot-quick-programme.png| image:: /w/images/7/7c/Screenshot-quick-programme.png
+   :target: /view/File:Screenshot-quick-programme.png
+.. |Screenshot-universal-programme.png| image:: /w/images/d/d9/Screenshot-universal-programme.png
+   :target: /view/File:Screenshot-universal-programme.png
+.. |Screenshot-preheat.png| image:: /w/images/5/5a/Screenshot-preheat.png
+   :target: /view/File:Screenshot-preheat.png
+.. |Powered by MediaWiki| image:: /w/resources/assets/poweredby_mediawiki_88x31.png
+   :target: //www.mediawiki.org/
+.. |Powered by Semantic MediaWiki| image:: /w/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png
+   :target: https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki

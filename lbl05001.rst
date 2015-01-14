@@ -1,0 +1,597 @@
+================================
+LBL05001 - London Hackspace Wiki
+================================
+
+.. raw:: html
+
+   <div id="globalWrapper">
+
+.. raw:: html
+
+   <div id="column-content">
+
+.. raw:: html
+
+   <div id="content" class="mw-body" role="main">
+
+LBL05001
+========
+
+.. raw:: html
+
+   <div id="bodyContent" class="mw-body-content">
+
+.. raw:: html
+
+   <div id="siteSub">
+
+From London Hackspace Wiki
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="contentSub">
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="jump-to-nav" class="mw-jump">
+
+Jump to: `navigation <#column-one>`__, `search <#searchInput>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
+
+Containment Level One For BioLab Users
+--------------------------------------
+
++-----------+----------------------------+--------------------+
+| Author:   | Approved by: S. Thompson   | SOP No. LBL05001   |
++-----------+----------------------------+--------------------+
+| Signed:   | Signed:                    | Effective from:    |
++-----------+----------------------------+--------------------+
+| Date:     | Date:                      | Last edited:       |
++-----------+----------------------------+--------------------+
+
+**1. Purpose**
+
+Generally, under the *Genetically Modified Organisms (Contained Use)
+Regulations 2014* any CL1 project being undertaken in the biolab must
+follow the procedures outlined in this document in conjunction with any
+procedures specified in the risk assessment for that project.
+
+**2. Scope**
+
+This relates to all CL1 projects.
+
+**3. Responsibilities**
+
+This applies to anyone carrying out these procedures as part of a CL1
+project. The user should ensure that others do not inadvertently
+compromise the containment of GMOs.
+
+**5. Related documents**
+
+`LBL06001 </view/LBL06001>`__ Project Risk Assessment Procedure for Lab
+Users Proposing New Projects
+
+`LBL06002 </edit/LBL06002?redlink=1>`__ Risk Assessment Procedure for
+Lab Users Proposing Transport of GMOs Outside the Lab
+
+`LBL04006 </view/LBL04006>`__ Using the Autoclave for Waste Deactivation
+
+`BioLab Usage Guidelines </view/BioLab_Usage_Guidelines>`__
+
+**6. Definitions**
+
+GMO - Genetically Modified Organism
+
+GMM - Genetically Modified Micro-organism
+
+CL1 - Containment Level 1
+
+**7. Procedures**
+
+7.1 Risk Assessment
+
+A written risk assessment must be approved before work can commence on
+any CL1 project (see `BioLab Usage Guidelines#Special GMO
+considerations </view/BioLab_Usage_Guidelines#Special_GMO_considerations>`__
+for guidance on determining what is classed as CL1). The risk assessment
+procedure is detailed in `LBL06001 </view/LBL06001>`__ *Project Risk
+Assessment Procedure for Lab Users Proposing New Projects*.
+
+7.2 Worksite
+
+7.2.1 All work with GMOs as part of a CL1 project must take place within
+the BioLab. The BioLab is equipped with door access control in order to
+enable restriction of access to only trained users when appropriate. An
+observation window is also present.
+
+7.2.2 All work with GMMs as part of a CL1 project must be carried out on
+the wet work workbench (white surface, on the left as one enters the
+lab). This bench is impervious to water, resistant to acids, alkalis,
+solvents, disinfectants and decontamination agents and easy to clean.
+
+7.3 Protective clothing
+
+Suitable protective clothing should be worn. The `BioLab Usage
+Guidelines#Use of PPE </view/BioLab_Usage_Guidelines#Use_of_PPE>`__
+gives guidance on this matter. If suitable PPE is not available, the BSO
+should be informed immediately before any practical work is commenced.
+
+7.4 Inactivation of GMMs
+
+All waste (e.g. disposable gloves, cultures of GMMs) produced during a
+CL1 project must be sterilised using the on-site autoclave according to
+the standard procedure detailed in `LBL04006 </view/LBL04006>`__ *Using
+the Autoclave for Waste Deactivation*. The user should pay special
+attention to ensure the autoclave has undergone the daily test
+procedure.
+
+7.5 Safe storage of GMOs
+
+GMOs should be stored in an appropriate area of the BioLab in such a way
+as to minimise the risk of contamination. The BioLab is equipped with
+door access control in order to enable restriction of access to only
+trained users when appropriate.
+
+7.6 Transporting GMOs Outside the BioLab
+
+A written risk assessment must be approved before any GMO may be
+transported outside the BioLab. The risk assessment procedure is
+detailed in `LBL06002 </edit/LBL06002?redlink=1>`__ *Risk Assessment
+Procedure for Lab Users Proposing Transport of GMOs Outside the Lab*.
+
+**8. Resources**
+
+The Genetically Modified Organisms (Contained Use) Regulations 2014
+Guidance on Regulations (http://www.hse.gov.uk/pubns/books/l29.htm)
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div class="printfooter">
+
+Retrieved from
+"https://wiki.london.hackspace.org.uk/w/index.php?title=LBL05001&oldid=44942\ "
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="catlinks" class="catlinks">
+
+.. raw:: html
+
+   <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+
+`Category </view/Special:Categories>`__:
+
+-  `Biohacking </view/Category:Biohacking>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div class="visualClear">
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="column-one">
+
+Navigation menu
+---------------
+
+.. raw:: html
+
+   <div id="p-cactions" class="portlet" role="navigation">
+
+Views
+~~~~~
+
+.. raw:: html
+
+   <div class="pBody">
+
+-  
+
+   .. raw:: html
+
+      <div id="ca-nstab-main">
+
+   .. raw:: html
+
+      </div>
+
+   `Page </view/LBL05001>`__
+-  
+
+   .. raw:: html
+
+      <div id="ca-talk">
+
+   .. raw:: html
+
+      </div>
+
+   `Discussion </edit/Talk:LBL05001?redlink=1>`__
+-  
+
+   .. raw:: html
+
+      <div id="ca-viewsource">
+
+   .. raw:: html
+
+      </div>
+
+   `View source </edit/LBL05001>`__
+-  
+
+   .. raw:: html
+
+      <div id="ca-history">
+
+   .. raw:: html
+
+      </div>
+
+   `History </history/LBL05001>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="p-personal" class="portlet" role="navigation">
+
+Personal tools
+~~~~~~~~~~~~~~
+
+.. raw:: html
+
+   <div class="pBody">
+
+-  
+
+   .. raw:: html
+
+      <div id="pt-createaccount">
+
+   .. raw:: html
+
+      </div>
+
+   `Create
+   account </w/index.php?title=Special:UserLogin&returnto=LBL05001&returntoquery=action%3Dview&type=signup>`__
+-  
+
+   .. raw:: html
+
+      <div id="pt-login">
+
+   .. raw:: html
+
+      </div>
+
+   `Log
+   in </w/index.php?title=Special:UserLogin&returnto=LBL05001&returntoquery=action%3Dview>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="p-logo" class="portlet" role="banner">
+
+` </view/London_Hackspace>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="p-navigation" class="generated-sidebar portlet"
+   role="navigation">
+
+Navigation
+~~~~~~~~~~
+
+.. raw:: html
+
+   <div class="pBody">
+
+-  
+
+   .. raw:: html
+
+      <div id="n-mainpage-description">
+
+   .. raw:: html
+
+      </div>
+
+   `Main page </view/London_Hackspace>`__
+-  
+
+   .. raw:: html
+
+      <div id="n-Members.27-projects">
+
+   .. raw:: html
+
+      </div>
+
+   `Members’
+   projects <https://wiki.london.hackspace.org.uk/w/index.php?title=Special:AllPages&namespace=100>`__
+-  
+
+   .. raw:: html
+
+      <div id="n-recentchanges">
+
+   .. raw:: html
+
+      </div>
+
+   `Recent changes </view/Special:RecentChanges>`__
+-  
+
+   .. raw:: html
+
+      <div id="n-randompage">
+
+   .. raw:: html
+
+      </div>
+
+   `Random page </view/Special:Random>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="p-search" class="portlet" role="search">
+
+Search
+~~~~~~
+
+.. raw:: html
+
+   <div id="searchBody" class="pBody">
+
+ 
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="p-tb" class="portlet" role="navigation">
+
+Tools
+~~~~~
+
+.. raw:: html
+
+   <div class="pBody">
+
+-  
+
+   .. raw:: html
+
+      <div id="t-whatlinkshere">
+
+   .. raw:: html
+
+      </div>
+
+   `What links here </view/Special:WhatLinksHere/LBL05001>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-recentchangeslinked">
+
+   .. raw:: html
+
+      </div>
+
+   `Related changes </view/Special:RecentChangesLinked/LBL05001>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-specialpages">
+
+   .. raw:: html
+
+      </div>
+
+   `Special pages </view/Special:SpecialPages>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-print">
+
+   .. raw:: html
+
+      </div>
+
+   `Printable version </view/LBL05001?printable=yes>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-permalink">
+
+   .. raw:: html
+
+      </div>
+
+   `Permanent link </w/index.php?title=LBL05001&oldid=44942>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-info">
+
+   .. raw:: html
+
+      </div>
+
+   `Page information </w/index.php?title=LBL05001&action=info>`__
+-  
+
+   .. raw:: html
+
+      <div id="t-smwbrowselink">
+
+   .. raw:: html
+
+      </div>
+
+   `Browse properties </view/Special:Browse/LBL05001>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div class="visualClear">
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <div id="footer" role="contentinfo">
+
+.. raw:: html
+
+   <div id="f-poweredbyico">
+
+|Powered by MediaWiki| |Powered by Semantic MediaWiki|
+
+.. raw:: html
+
+   </div>
+
+-  
+
+   .. raw:: html
+
+      <div id="lastmod">
+
+   .. raw:: html
+
+      </div>
+
+   This page was last modified on 12 January 2015, at 03:28.
+-  
+
+   .. raw:: html
+
+      <div id="viewcount">
+
+   .. raw:: html
+
+      </div>
+
+   This page has been accessed 59 times.
+-  
+
+   .. raw:: html
+
+      <div id="about">
+
+   .. raw:: html
+
+      </div>
+
+   `About London Hackspace Wiki </view/About>`__
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   </div>
+
+.. |Powered by MediaWiki| image:: /w/resources/assets/poweredby_mediawiki_88x31.png
+   :target: //www.mediawiki.org/
+.. |Powered by Semantic MediaWiki| image:: /w/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png
+   :target: https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
