@@ -1,7 +1,7 @@
 LBL biohackspace SOPs
 =====================
 
-To build these you will need a very recent version of Pandoc (Debian unstable doesn't cut it at time of writing). Download an installer for your OS here:
+To build these you will need Pandoc 1.13 or higher (many Linux distros only have 1.12). Download an installer for your OS here:
 
 http://johnmacfarlane.net/pandoc/installing.html
 
