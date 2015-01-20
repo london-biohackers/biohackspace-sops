@@ -1,685 +1,142 @@
-================================
-LBL02001 - London Hackspace Wiki
-================================
+===============================
+LBL02001 - Laboratory Induction
+===============================
 
-.. raw:: html
++----------------+--------------------+
+| Approved by:   | SOP No. LBL02001   |
++----------------+--------------------+
+| Signed:        | Effective from:    |
++----------------+--------------------+
+| Date:          | Last edited:       |
++----------------+--------------------+
 
-   <div id="globalWrapper">
+Purpose
+=======
+This describes the laboratory induction procedure to be carried out by the BSO for all individuals wishing to use the laboratory facility. It is a requirement that individuals complete this induction procedure and confirm their adherence to the requirements mentioned in this induction by signing the appropriate training sheet.
 
-.. raw:: html
+Scope
+=====
+This applies to the BSO for the purposes of training and registering individuals as authorised lab users.
 
-   <div id="column-content">
+Responsibilities
+================
+The BSO is responsible for making sure the induction is itself carried out safely and to ensure that by the end of induction the inductees understand:
 
-.. raw:: html
+- That use of, and access to, the laboratory is subject to agreeing to follow the `London Biohackspace BioLab Rules <biolab-rules>`__ and by extension agreeing to follow the `London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines>`__ and SOPs.
+- That failing to follow the BioLab Rules or acting in a way that endangers others or the environment is grounds for being barred from accessing the laboratory.
+- How to access the lab and who is allowed in the lab.
+- That work with organisms in risk groups 2 and above is strictly forbidden in the lab and how to identify the risk group of an organism.
+- The requirements for beginning work on a project, especially when working with GMOs.
+- How to safely work with micro-organisms to minimise contamination risks.
+- How to safely handle chemicals and reagents and where to seek further information.
+- How to effectively use the PPE provided in the lab.
+- How to handle incidents of spillage, equipment malfunction or injury.
+- How to safely operate the equipment in the lab and where to seek  further information about its operation.
+- That in case of any uncertainty about a procedure the BSO should be sought for further information.
 
-   <div id="content" class="mw-body" role="main">
+| The current BSO is Samantha Thompson.
+| Email: bioscisam@gmail.com
+| Tel.: 07720677678.
 
-LBL02001
-========
+Related documents
+=================
+| `BioLab Training Confirmation Sheet <biolab-training-confirmation-sheet>`__
+| `London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines>`__
+| `London Biohackspace BioLab Rules <biolab-rules>`__
 
-.. raw:: html
+Definitions
+===========
+BSO
+  Biological Safety Officer
+GM
+  Genetically Modified
+GMO
+  Genetically Modified Organism
+GMP
+  Good Microbiological Practice
+MSDS
+  Material Safety Data Sheet
+PPE
+  Personal Protective Equipment
 
-   <div id="bodyContent" class="mw-body-content">
+Procedures
+==========
 
-.. raw:: html
+General Safety Briefing
+-----------------------
+The inductees will all be provided with an information handout consisting of the `BioLab Rules <BioLab-Rules>`__, `BioLab Usage Guidelines <BioLab-Usage-Guidelines>`__, and the `DIYBio EU Code of Ethics <http://diybio.org/codes/draft-diybio-code-of-ethics-from-european-congress/>`__[#]_. These documents cover all the points covered during the induction and gives details of where to find more information about lab procedures.
 
-   <div id="siteSub">
+.. [#] http://diybio.org/codes/draft-diybio-code-of-ethics-from-european-congress/
 
-From London Hackspace Wiki
+The inductees will be informed about the need to be mindful of the potential risks and hazards present within a biological laboratory working to containment level one standards.
 
-.. raw:: html
+The inductees will be informed of the requirements that must be fulfilled before work on a project can commence. This includes:
 
-   </div>
+- Familiarising themselves with the material safety data sheet (MSDS) of any reagent to be used in the project.
+- Being aware of all the SOPs that address the kind of procedures to be carried out in the project.
+- The need to be aware of the safety requirements and skill level necessary when working with reagents and equipment needed in the project.
+- The need to carry out a written risk assessment for projects involving GMOs.
 
-.. raw:: html
+Chemicals and Storage
+---------------------
+The inductees will be informed of need to follow storage requirements for reagents. The inductees will be informed of the need to familiarise themselves with the MSDS of any reagent before working with that reagent and where to find MSDSs.
 
-   <div id="contentSub">
+Use of Personal Protective Equipment (PPE)
+------------------------------------------
+The inductees will be shown the location and the correct use of the PPE provided in the lab. The inductees will be informed that the BSO is to be contacted, before any practical work is commenced if suitable PPE is not available.
 
-.. raw:: html
+The PPE necessary for work with Ethidium Bromide (EtBr) or any other work inside the EtBr contaminated area will be emphasised.
 
-   </div>
+Working with Micro-organisms
+----------------------------
+It will be stressed to the inductees that work in the London Biohackspace BioLab is limited to organisms in hazard group 1 (biological agents unlikely to cause human disease). An explanation of how to identify the hazard group classification of an organism using official databases will be given. 
 
-.. raw:: html
+The inductees will be informed of where further details and resources can be found, and it will be stressed that in the case of uncertainty the BSO should be consulted.
 
-   <div id="jump-to-nav" class="mw-jump">
-
-Jump to: `navigation <#column-one>`__, `search <#searchInput>`__
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div id="mw-content-text" class="mw-content-ltr" lang="en" dir="ltr">
-
-Laboratory Induction
---------------------
-
-+-----------------------+----------------+--------------------+
-| Author: S. Thompson   | Approved by:   | SOP No. LBL02001   |
-+-----------------------+----------------+--------------------+
-| Signed:               | Signed:        | Effective from:    |
-+-----------------------+----------------+--------------------+
-| Date:                 | Date:          | Last edited:       |
-+-----------------------+----------------+--------------------+
-
--  
-
-   -  TODO\*\*: SOP for “storage and recovery of frozen bacterial stocks
-      and procedures” required – ref from section 6.15
-
--  
-
-   -  TODO\*\* SOP for gel visualisation (search ‘gel vis’)
-
--  
-
-   -  TODO\*\*: List of MSDSes (search page)
-
--  
-
-   -  TODO\*\*: List of chemicals (search page)
-
--  
-
-   -  TODO\*\*: PCR docs link for 6.5 PCR Machine
-
-**1. Purpose**
-
-This describes the laboratory induction procedure by the BSO for all
-individuals wishing to use the laboratory facility. It is a requirement
-that individuals complete this induction procedure and confirm their
-adherence to the requirements mentioned in this induction by signing the
-appropriate training sheet.
-
-**2. Scope**
-
-This applies to the BSO for the purposes of training and registering
-individuals as authorised lab users.
-
-**3. Responsibilities**
-
-The BSO is responsible for making sure the induction is itself carried
-out safely and to ensure that by the end of induction the inductees
-understand:
-
--  How to access the lab and who is allowed in the lab.
--  That work with organisms in risk groups 2 and above is strictly
-   forbidden in the lab.
--  The requirements for beginning work on a project, especially when
-   working with GMOs.
--  How to safely work with micro-organisms to minimise contamination
-   risks.
--  How to safely handle chemicals and reagents and where to seek further
-   information.
--  How to effectively use the PPE provided in the lab.
--  How to safely operate the equipment in the lab and where to seek
-   further information about its operation.
--  That in case of any uncertainty about a procedure the BSO should be
-   sought for further information.
--  That use of and access to the laboratory is subject to agreeing to
-   follow the London Biohackspace SOPs
--  That failing to follow the SOPs or acting in a way that endangers
-   others or the environment is grounds from being barred from accessing
-   the laboratory
-
-| The current BSO is Samantha Thompson. Contact: bioscisam@gmail.com ,
-  tel 07720677678.
-
-**4. Related documents**
-
-| `BioLab Training confirmation
-  Sheet </edit/BioLab_Training_confirmation_Sheet?redlink=1>`__
-|  `BioLab Usage Guidelines </view/BioLab_Usage_Guidelines>`__
-|  `BioLab Rules </view/BioLab_Rules>`__
-
-**5. Definitions**
-
-| BSO – Biological Safety Officer
-|  GM – Genetically Modified
-|  GMO – Genetically Modified Organism
-|  GMSC – Genetic Modification Safety Committee
-|  GMP - Good Microbiological Practice
-
-**6. Procedures**
-
-**6.1 General Safety Briefing**
-
-The inductees will all be provided with an information handout
-consisting of the `BioLab Rules </view/BioLab_Rules>`__, `BioLab Usage
-Guidelines </view/BioLab_Usage_Guidelines>`__, and the `DIYBio EU
-Code </edit/DIYBio_EU_Code?redlink=1>`__. These documents cover all the
-points covered during the induction and gives details of where to find
-more information about lab procedures.
-
-The inductees will be informed about the need to be mindful of the
-hazards and risks that are or could potentially be present within a
-biological laboratory working to containment level one standards.
-
-The inductees will be informed of the requirements that must be
-fulfilled before work on a project can commence. This includes:
-
--  Familiarising themselves with the material safety data sheet (MSDS)
-   of any reagent to be used in the project
--  Being aware of all the SOPs that address the kind of procedures to be
-   carried out in the project
--  The need to be aware of the safety requirements and skill level
-   necessary when working with reagents and equipment needed in the
-   project
--  The need to carry out a written risk assessment for projects
-   involving GMOs
-
-**6.4 Chemicals and Storage**
-
-The inductees will be informed of need to follow storage requirements
-for reagents. The inductees will be informed of the need to familiarise
-themselves with the MSDS of any reagent before working with that reagent
-and where to find MSDSs.
-
-**6.5 Use of PPE**
-
-The inductees will be shown the location and the correct use of the PPE
-provided in the lab. The inductees will be informed that the BSO is to
-be contacted, before any practical work is commenced if suitable PPE is
-not available.
-
-The PPE necessary for work with Ethidium Bromide (EtBr) or any other
-work inside the EtBr contaminated area will be emphasised.
-
-**6.6 Working with Micro-organisms**
-
-The importance of GMP during all work with micro-organisms will be
-explained to the inductees: that GMP is essential in order to prevent
-contamination of the laboratory by the organisms being handled and
-prevent contamination of the work with organisms from the environment.
+The importance of GMP during all work with micro-organisms will be explained to the inductees: that GMP is essential in order to prevent contamination of the laboratory by the organisms being handled and prevent contamination of the work with organisms from the environment.
 
 A demonstration of the basic techniques for GMP will be given.
 
-**6.7 Special GMO considerations**
+Special GMO considerations
+--------------------------
+An explanation will be given of what is considered to be a GMO and what sort of projects are classed as containment level 1 (CL1) projects. 
 
-An explanation of what is considered to be a GMO and what sort of
-projects are classed as GMO CL-1 projects will be given. The additional
-measures and procedures necessary for working with genetically modified
-organisms will be explained.
+The additional measures and procedures necessary for working with GMOs will be explained.
 
 These include:
 
--  The need to carry out a written risk assessment before work commences
-   with the GMO(s).
--  That GMOs may not be taken outside the laboratory unless a risk
-   assessment has been approved to do so.
--  The need to deactivate all containment level 1 biomaterial in the
-   autoclave before disposal.
-
-**6.8 Refrigerator, Freezer and Sample Storage**
-
-An explanation will be given of the need to exercise caution when
-working with the refrigerator and freezer due to the presence of
-biomaterial.
-
-**6.9 Operation of Laboratory Equipment**
-
-Explanations of, and where practical short demonstrations of, the SOPs
-for the following equipment:
-
--  Microwave
--  Spectrophotometer
--  PCR Machine
--  Electrophoresis Power Supply
--  Electrophoresis tank and Ethidium Bromide area
--  UV illuminator
--  HEPA flow cabinet/area
--  Autoclave
--  Sink area
--  Incubator
--  Centrifuges
-
-**6.10 Laboratory Access Control**
-
-Once the above procedures have been completed the inductee and their
-confirmation will be added to the list of authorised lab users by the
-BSO.The inductees will be instructed on the operation of the number lock
-and card sensor which provide access control for the laboratory.
-
-| 
-
-**7. Resources**
-
-`GMO Project Risk Assessment
-Form </view/GMO_Project_Risk_Assessment_Form>`__
-
-…
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="printfooter">
-
-Retrieved from
-"https://wiki.london.hackspace.org.uk/w/index.php?title=LBL02001&oldid=44874\ "
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div id="catlinks" class="catlinks">
-
-.. raw:: html
-
-   <div id="mw-normal-catlinks" class="mw-normal-catlinks">
-
-`Category </view/Special:Categories>`__:
-
--  `Biohacking </view/Category:Biohacking>`__
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="visualClear">
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div id="column-one">
-
-Navigation menu
----------------
-
-.. raw:: html
-
-   <div id="p-cactions" class="portlet" role="navigation">
-
-Views
-~~~~~
-
-.. raw:: html
-
-   <div class="pBody">
-
--  
-
-   .. raw:: html
-
-      <div id="ca-nstab-main">
-
-   .. raw:: html
-
-      </div>
-
-   `Page </view/LBL02001>`__
--  
-
-   .. raw:: html
-
-      <div id="ca-talk">
-
-   .. raw:: html
-
-      </div>
-
-   `Discussion </edit/Talk:LBL02001?redlink=1>`__
--  
-
-   .. raw:: html
-
-      <div id="ca-viewsource">
-
-   .. raw:: html
-
-      </div>
-
-   `View source </edit/LBL02001>`__
--  
-
-   .. raw:: html
-
-      <div id="ca-history">
-
-   .. raw:: html
-
-      </div>
-
-   `History </history/LBL02001>`__
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div id="p-personal" class="portlet" role="navigation">
-
-Personal tools
-~~~~~~~~~~~~~~
-
-.. raw:: html
-
-   <div class="pBody">
-
--  
-
-   .. raw:: html
-
-      <div id="pt-createaccount">
-
-   .. raw:: html
-
-      </div>
-
-   `Create
-   account </w/index.php?title=Special:UserLogin&returnto=LBL02001&returntoquery=action%3Dview&type=signup>`__
--  
-
-   .. raw:: html
-
-      <div id="pt-login">
-
-   .. raw:: html
-
-      </div>
-
-   `Log
-   in </w/index.php?title=Special:UserLogin&returnto=LBL02001&returntoquery=action%3Dview>`__
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div id="p-logo" class="portlet" role="banner">
-
-` </view/London_Hackspace>`__
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div id="p-navigation" class="generated-sidebar portlet"
-   role="navigation">
-
-Navigation
-~~~~~~~~~~
-
-.. raw:: html
-
-   <div class="pBody">
-
--  
-
-   .. raw:: html
-
-      <div id="n-mainpage-description">
-
-   .. raw:: html
-
-      </div>
-
-   `Main page </view/London_Hackspace>`__
--  
-
-   .. raw:: html
-
-      <div id="n-Members.27-projects">
-
-   .. raw:: html
-
-      </div>
-
-   `Members’
-   projects <https://wiki.london.hackspace.org.uk/w/index.php?title=Special:AllPages&namespace=100>`__
--  
-
-   .. raw:: html
-
-      <div id="n-recentchanges">
-
-   .. raw:: html
-
-      </div>
-
-   `Recent changes </view/Special:RecentChanges>`__
--  
-
-   .. raw:: html
-
-      <div id="n-randompage">
-
-   .. raw:: html
-
-      </div>
-
-   `Random page </view/Special:Random>`__
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div id="p-search" class="portlet" role="search">
-
-Search
-~~~~~~
-
-.. raw:: html
-
-   <div id="searchBody" class="pBody">
-
- 
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div id="p-tb" class="portlet" role="navigation">
-
-Tools
-~~~~~
-
-.. raw:: html
-
-   <div class="pBody">
-
--  
-
-   .. raw:: html
-
-      <div id="t-whatlinkshere">
-
-   .. raw:: html
-
-      </div>
-
-   `What links here </view/Special:WhatLinksHere/LBL02001>`__
--  
-
-   .. raw:: html
-
-      <div id="t-recentchangeslinked">
-
-   .. raw:: html
-
-      </div>
-
-   `Related changes </view/Special:RecentChangesLinked/LBL02001>`__
--  
-
-   .. raw:: html
-
-      <div id="t-specialpages">
-
-   .. raw:: html
-
-      </div>
-
-   `Special pages </view/Special:SpecialPages>`__
--  
-
-   .. raw:: html
-
-      <div id="t-print">
-
-   .. raw:: html
-
-      </div>
-
-   `Printable version </view/LBL02001?printable=yes>`__
--  
-
-   .. raw:: html
-
-      <div id="t-permalink">
-
-   .. raw:: html
-
-      </div>
-
-   `Permanent link </w/index.php?title=LBL02001&oldid=44874>`__
--  
-
-   .. raw:: html
-
-      <div id="t-info">
-
-   .. raw:: html
-
-      </div>
-
-   `Page information </w/index.php?title=LBL02001&action=info>`__
--  
-
-   .. raw:: html
-
-      <div id="t-smwbrowselink">
-
-   .. raw:: html
-
-      </div>
-
-   `Browse properties </view/Special:Browse/LBL02001>`__
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="visualClear">
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div id="footer" role="contentinfo">
-
-.. raw:: html
-
-   <div id="f-poweredbyico">
-
-|Powered by MediaWiki| |Powered by Semantic MediaWiki|
-
-.. raw:: html
-
-   </div>
-
--  
-
-   .. raw:: html
-
-      <div id="lastmod">
-
-   .. raw:: html
-
-      </div>
-
-   This page was last modified on 9 January 2015, at 17:39.
--  
-
-   .. raw:: html
-
-      <div id="viewcount">
-
-   .. raw:: html
-
-      </div>
-
-   This page has been accessed 172 times.
--  
-
-   .. raw:: html
-
-      <div id="about">
-
-   .. raw:: html
-
-      </div>
-
-   `About London Hackspace Wiki </view/About>`__
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
+- The need to carry out a written risk assessment before work commences with the GMO(s).
+- That GMOs may not be taken outside the laboratory unless a risk assessment has been approved to do so.
+- The need to deactivate all containment level 1 biomaterial in the autoclave before disposal.
+
+The inductees will be informed of where further details and resources can be found, and it will be stressed that in the case of uncertainty the BSO should be consulted.
+
+Refrigerator, Freezer and Sample Storage
+----------------------------------------
+An explanation will be given of the need to exercise caution when working with the refrigerator and freezer due to the presence of biomaterial.
+
+Operation of Laboratory Equipment
+---------------------------------
+Explanations and, where practical, short demonstrations of the SOPs for the following equipment:
+
+- Microwave
+- Spectrophotometer
+- PCR Machine
+- Electrophoresis Power Supply
+- Electrophoresis tank and Ethidium Bromide area
+- UV illuminator
+- HEPA flow cabinet/area
+- Autoclave
+- Sink area
+- Incubator
+- Centrifuges
+
+Documentation of Training
+-------------------------
+Each inductee that has successfully completed will sign the appropriate section of the `BioLab Training Confirmation Sheet <biolab-training-confirmation-sheet>`__ to confirm their adherence to the requirements explained during the induction. 
+
+The BSO will also sign the appropriate section of the document to confirm the successful completion of the induction for each inductee.
+
+Laboratory Access Control
+-------------------------
+Once the above procedures have been completed the inductee and their confirmation will be added to the list of authorised lab users by the BSO. The inductees will be instructed on the operation of the number lock and card sensor which provide access control for the laboratory.

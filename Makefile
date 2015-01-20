@@ -10,7 +10,7 @@ cl1: $(addsuffix .pdf,$(DOCS))
 donotuse_redownload: $(addsuffix .rst,$(DOCS))
 
 %.pdf: %.rst
-	pandoc $< -o $@
+	pandoc --number-sections $< -o $@
 
 %.rst:
 	pandoc -s -S -t mediawiki https://wiki.london.hackspace.org.uk/view/$(call towikiname,$@) -t rst -o $@
