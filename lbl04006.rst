@@ -1,9 +1,6 @@
-================================
-LBL04006 - London Hackspace Wiki
-================================
-
-LBL04006: Using the Autoclave for Waste Deactivation
-====================================================
+=====================================================
+LBL04006 - Using the Autoclave for Waste Deactivation
+=====================================================
 
 
 +-------------------+----------------------------+--------------------+
@@ -15,25 +12,22 @@ LBL04006: Using the Autoclave for Waste Deactivation
 +-------------------+----------------------------+--------------------+
 
 Purpose
--------
-
+=======
 This describes the operation of the Melag EuroKlav
 29V-S. The autoclave is used for three main procedures with respect to
 GMO deactivation:
 
-       i) sterilization of glassware and equipment for reuse
-      ii) Deactivation of small volumes of liquid and solid media
-     iii) Deactivation of large loads of  liquid and solid media
+i) sterilization of glassware and equipment for reuse
+ii) Deactivation of small volumes of liquid and solid media
+iii) Deactivation of large loads of  liquid and solid media
 
 Scope
------
-
+=====
 This should be observed every time the autoclave is used within the LBL
 BioLab for GMO waste deactivation.
 
 Responsibilities
-----------------
-
+================
 The operator of the autoclave is responsible for their own safety and
 that of others in the vicinity during its use. The particular risks
 presented in using this piece of equipment are primarily due to the high
@@ -44,8 +38,7 @@ still be hot, and care should be taken to check that glass or ceramic
 items are intact.
 
 Materials
----------
-
+=========
 The autoclave requires a supply of **RO water**. If the water supply
 level falls below a minimum level, the operator will be required to top
 up the system. The RO water is available from the tank under the
@@ -56,21 +49,11 @@ The daily test, and waste deactivation runs of the autoclave require
 **autoclave tape**. If we are out of autoclave tape, please email the
 [mailti:hello@biohackspace.org BSO] and report that we are out of stock.
 
-Related documents
------------------
-
-…
-
-Definitions
------------
-
-…
-
 Procedures
-----------
+==========
 
 Daily Test procedure
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 Before using the autoclave for GMO deactivation each day, the operator
 should run a test strip through the autoclave to check that it is
@@ -103,17 +86,16 @@ The load should be run under the Universal programme
 |Screenshot-universal-programme.png|
 
 Deactivation of liquid and solid GMO waste
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-    - Transport the waste to the autoclave in a non-drip autoclavable tray
-    - Ensure there are no folds or containers which can trap air
-    - Sterilize the load using the Universal-Programme (2.1 bar/134 C/15 mins)
-    - once the programme has run, the waste should be transferred to the chemical kill bin, for final deactivation
+------------------------------------------
+- Transport the waste to the autoclave in a non-drip autoclavable tray
+- Ensure there are no folds or containers which can trap air
+- Sterilize the load using the Universal-Programme (2.1 bar/134 C/15 mins)
+- once the programme has run, the waste should be transferred to the chemical kill bin, for final deactivation
 
 Resources
----------
-
-    - Operating manual: http://www.eickemeyer.nl/images/products/2281/500032_Melag_Euroklav_23VS.pdf
+=========
+| Melag EuroKlav Operating manual:
+| http://www.eickemeyer.nl/images/products/2281/500032_Melag_Euroklav_23VS.pdf
 
 .. |Screenshot-quick-programme.png| image:: images/Screenshot-quick-programme.png
    :target: /view/File:Screenshot-quick-programme.png

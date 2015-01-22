@@ -1,9 +1,6 @@
-================================
-LBL04003 - London Hackspace Wiki
-================================
-
-LBL04003: The BioLab Centrifuges and Their Usage
-================================================
+=================================================
+LBL04003 - The BioLab Centrifuges and Their Usage
+=================================================
 
 +-----------+----------------------------+--------------------+
 | Author:   | Approved by: S. Thompson   | SOP No. LBL04003   |
@@ -14,65 +11,39 @@ LBL04003: The BioLab Centrifuges and Their Usage
 +-----------+----------------------------+--------------------+
 
 Purpose
--------
-
-   -  general description of the SOP purpose
+=======
+-  general description of the SOP purpose
 
 Scope
------
-
-   -  the extent of the SOP in terms of to what equipment and procedures
-      it applies, also when and where (which will always be at all times
-      in the LBL lab).
+=====
+- the extent of the SOP in terms of to what equipment and procedures it applies, also when and where (which will always be at all times in the LBL lab).
 
 Responsibilities
-----------------
-
-   -  for who is the procedure relevant, typically the operator and
-      anyone present while it’s carried out, it’s also worth mentioning
-      the risks here and that the operator is responsible for their
-      health and safety and that of anyone else present during the
-      procedure.
+================
+- for who is the procedure relevant, typically the operator and anyone present while it’s carried out, it’s also worth mentioning the risks here and that the operator is responsible for their health and safety and that of anyone else present during the procedure.
 
 Materials
----------
-
-   -  Are there any extra materials required, in the case of operating
-      an instrument, peice of equipment or in a molecular biology
-      procedure this might be consumables, reagents, chemicals or other
-      instrumentation, e.g pipets. Any special PPE can be mentioned
-      here.
+=========
+- Are there any extra materials required, in the case of operating an instrument, peice of equipment or in a molecular biology procedure this might be consumables, reagents, chemicals or other instrumentation, e.g pipets. Any special PPE can be mentioned here.
 
 Related documents
------------------
-
-   -  Are other SOPs (or other documents within our framework) related
-      to this procedure. If so then listing them here can be useful, for
-      example the media prep SOP might be relevant when carrying out the
-      transformation procedures and it saves time to link it here rather
-      than describe the preparation of media in every procedure where it
-      is used (bit like an include/import/use lol).
+=================
+- Are other SOPs (or other documents within our framework) related to this procedure. If so then listing them here can be useful, for example the media prep SOP might be relevant when carrying out the transformation procedures and it saves time to link it here rather than describe the preparation of media in every procedure where it is used (bit like an include/import/use lol).
 
 Definitions
------------
-
-   -  Any useful glossary stuff
+===========
+- Any useful glossary stuff
 
 e.g: SOP = Standard Operating Procedure
 
 Procedures
-----------
+==========
+- 7.1 The actual steps of the procedure go here …
 
-   -  7.1 The actual steps of the procedure go here …
-   -    7.1.1 They can be embeded/indented as much as is reasonably helpful to describe the procedure step by step
-   -  7.2 It should be written in such a way that it would help anyone
-      new to the lab to perform the procedure without having prior
-      expertise.
+- - 7.1.1 They can be embeded/indented as much as is reasonably helpful to describe the procedure step by step
+
+- 7.2 It should be written in such a way that it would help anyone new to the lab to perform the procedure without having prior expertise.
 
 Resources
----------
-
-   -  This is where eternal useful documention can be linked, much like
-      the references section in any academic paper.
-
-
+=========
+- This is where eternal useful documention can be linked, much like the references section in any academic paper.

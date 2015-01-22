@@ -1,9 +1,6 @@
-================================
-LBL04007 - London Hackspace Wiki
-================================
-
-LBL04007: Using the Kill Bin
-============================
+=============================
+LBL04007 - Using the Kill Bin
+=============================
 
 
 +----------------+----------------------------+--------------------+
@@ -15,22 +12,19 @@ LBL04007: Using the Kill Bin
 +----------------+----------------------------+--------------------+
 
 Purpose
--------
-
+=======
 This describes the protocol for use of the Kill Bin, which is a
 beach-filled container, located under or near the sink, used for the
 inactivation and disposal of biological waste and disposable lab
 plastics which may have become biologically contaminated.
 
 Scope
------
-
+=====
 This document should be consulted prior to use of the Kill Bin for waste
 disposal.
 
 Responsibilities
-----------------
-
+================
 The operator of the Kill Bin is responsible for his or her own safety,
 and the safety of others, while disposing of waste. The major danger to
 health is the large quantity of bleach contained in the bin. Spilled
@@ -40,27 +34,14 @@ the surfaces of the bin may have been contaminated by waste from a
 previous disposal, the bin should used with gloved hands.
 
 Materials
----------
-
-The bin requires a 60/40 bleach/water mix. See section 7.3, “Refilling
-the Kill Bin”, for more details.
-
-Related documents
------------------
-
-[Bleach MSDS]
-
-Definitions
------------
-
-None.
+=========
+The bin requires a 60/40 bleach/water mix. See the `Refilling the Kill Bin <#emptying-the-kill-bin>`__ section below for more details.
 
 Procedures
-----------
+==========
 
 Disposing of waste in the Kill Bin
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+----------------------------------
 While wearing gloves, carefully open the lid of the bin. It is opened by
 turning the handle anticlockwise and pulling upwards. Place the items to
 be disposed of in the bin, and ensure that they are submerged. Replace
@@ -69,23 +50,16 @@ lid is properly closed by gently pulling on the lid, which should not
 open.
 
 Emptying the Kill Bin
-~~~~~~~~~~~~~~~~~~~~~
-
+---------------------
 The bin consists of kill liquid (the water/bleach mix) and solid matter.
 The liquid can be disposed of down the sink. The solid matter can be
-disposed of …
+disposed of.
 
 TODO: More on how to pour the liquid down the sink, more on where to put
 the solids (Outside bin?)
 
-7.3 Refilling the Kill Bin
-
+Refilling the Kill Bin
+----------------------
 The bin should contain a mixture of 60% bleach and 40% water.
 
 TODO: More on location of bleach and mixing the right concentration.
-
-Resources
----------
-
-[Bleach MSDS]
-

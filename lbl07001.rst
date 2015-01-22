@@ -1,9 +1,6 @@
-================================
-LBL07001 - London Hackspace Wiki
-================================
-
-LBL07001: Preparation of competent E. coli (chemical method)
-============================================================
+===============================================================
+LBL07001 - Preparation of competent *E. coli* (chemical method)
+===============================================================
 
 
 +-----------------------+----------------+--------------------+
@@ -15,69 +12,53 @@ LBL07001: Preparation of competent E. coli (chemical method)
 +-----------------------+----------------+--------------------+
 
 Purpose
--------
-
+=======
 This describes the procedure for preparing aliquots of competent E. Coli
 lab strains such as DH5alpha for subsequent transformation.
 
 Scope
------
-
+=====
 This should be observed for all such E. Coli preparation within the LBL
 lab but does not include variations for other species or preparations
 for other transformation methods e.g electroporation.
 
 Responsibilities
-----------------
-
+================
 The operator performing the transformation is responsible for their own
 safety and that of others in the vicinity during the procedure.
 
 Materials
----------
-
-| E. Coli. (plate colony or glycerol stock)
-|  Ice bucket.
-|  0.1M CaCl.
-|  0.1M MgCl.
-|  50mL centrifuge tubes.
-|  15mL centrifuge tubes.
-|  1.5-2.0mL eppendorf tubes.
-|  LB broth (100mL in sterile erhlenmeyer flask)
-|  Incubator (shaking) 37C
+=========
+- *E. Coli* (plate colony or glycerol stock)
+- Ice bucket.
+- 0.1M CaCl.
+- 0.1M MgCl.
+- 50mL centrifuge tubes.
+- 15mL centrifuge tubes.
+- 1.5-2.0mL eppendorf tubes.
+- LB broth (100mL in sterile erhlenmeyer flask)
+- Incubator (shaking) 37C
 
 Related documents
------------------
-
-| LB broth preparation
-|  LB Agar selection media preparation
-|  E. coli heat shock tranformation
-|  Rapid transformation
-
-Definitions
------------
-
-…
+=================
+| `LBL04002 - Using the Autoclave for Media Preparation <lbl04002.rst>`__  
+| `LBL07002 - Heat shock transformation of *E. coli* <lbl07002.rst>`__
 
 Procedures
-----------
+==========
 
 Note: all procedures to be performed under aseptic conditions.
 
-    #. Innoculate 5mL LB in 15mL tubes and incubate overnight (or until cloudy) at 37C.
-    #. Innoculate 100mL LB in conical flask using 2mL over the overnight culture.
-    #. Incubate at 37C (preferably with shaking) until an O.D600 of 0.2 to 0.4 is reached (without shaking incubator or if inoculating from a colony this may longer to achieve).
-    #. Incubate on ice for 30 minutes (from this point on care sure be taken to keep all samples on ice at every step).
-    #. Divide amongst 50mL tubes and centrifuge at 5000rpm for 10 mins to pellet the cells.
-    #. Decant supernatant and resuspend by pipeting with 5mL ice cold 0.1M CaCl2.
-    #. Incubate on ice for 20 mins.
-    #. Spin down again and remove supernatant.
-    #. Resuspend by pipeting with 5mL ice cold 0.1M MgCl2 (this step can be skipped or replaced with CaCl2).
-    #. Incubate on ice for 20 mins.
-    #. Spin down and resuspend with 0.1M CaCl2 (with 15% glycerol if storing aliquots frozen).
-    #. Snap freeze aliquots with EtOH and dry ice, or LN2, or proceed directly to heat shock transformation protocol.
-    #. Competent aliquots can stored frozen at -80 (storage at -20 has not yet been validated).
-
-Resources
----------
-
+#. Inoculate 5mL LB in 15mL tubes and incubate overnight (or until cloudy) at 37C.
+#. Inoculate 100mL LB in conical flask using 2mL over the overnight culture.
+#. Incubate at 37C (preferably with shaking) until an O.D600 of 0.2 to 0.4 is reached (without shaking incubator or if inoculating from a colony this may longer to achieve).
+#. Incubate on ice for 30 minutes (from this point on care sure be taken to keep all samples on ice at every step).
+#. Divide amongst 50mL tubes and centrifuge at 5000rpm for 10 mins to pellet the cells.
+#. Decant supernatant and resuspend by pipetting with 5mL ice cold 0.1M CaCl2.
+#. Incubate on ice for 20 mins.
+#. Spin down again and remove supernatant.
+#. Resuspend by pipetting with 5mL ice cold 0.1M MgCl2 (this step can be skipped or replaced with CaCl2).
+#. Incubate on ice for 20 mins.
+#. Spin down and resuspend with 0.1M CaCl2 (with 15% glycerol if storing aliquots frozen).
+#. Snap freeze aliquots with EtOH and dry ice, or LN2, or proceed directly to heat shock transformation protocol.
+#. Competent aliquots can stored frozen at -80 (storage at -20 has not yet been validated).

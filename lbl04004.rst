@@ -1,9 +1,6 @@
-================================
-LBL04004 - London Hackspace Wiki
-================================
-
-LBL04004: Using The Incubator
-=============================
+==============================
+LBL04004 - Using The Incubator
+==============================
 
 
 +-----------------------+----------------------------+--------------------+
@@ -15,39 +12,32 @@ LBL04004: Using The Incubator
 +-----------------------+----------------------------+--------------------+
 
 Purpose
------
+=======
 
 This describes the usage of the BioLab incubator.
 
 Scope
------
-
+=====
 This relates only to the small black bench top incubator.
 
 Responsibilities
------
-
+================
 This applies to anyone using this piece of equipment. The user should
 avoid contaminating the work of others when operating the incubator.
 
 Related documents
------
-
+=================
 Several other procedures require the use of the incubator, see SOP
 contents for further details.
 
 Procedures
------
+==========
 
 The incubator consists of a front door, a digital temperature indicator and 4 buttons.
 
-    - The top left button powers on and off.
-    - The digital temperature display is in the top middle and gives a temperature approximately 2 degrees higher than the typical temperature measured within the incubator's chamber.
-    - At the top right of the front of the incubator are 3 buttons. The first of
-      these on the left has an up arrow and increases the temperature setting.
-      The next has a down arrow and decreases the temperature setting. The
-      furthest to the right has a bulb symbol and switches the internal light
-      on and off.
+- The top left button powers on and off.
+- The digital temperature display is in the top middle and gives a temperature approximately 2 degrees higher than the typical temperature measured within the incubator's chamber.
+- At the top right of the front of the incubator are 3 buttons. The first of these on the left has an up arrow and increases the temperature setting. The next has a down arrow and decreases the temperature setting. The furthest to the right has a bulb symbol and switches the internal light on and off.
 
 When opening the door of the incubator it is likely that the
 temperature inside the chamber drops significantly (when set above room
@@ -64,8 +54,9 @@ Raspberry Pi controller. Currently the temperature value can be obtained
 from the BioBot on FreeNode IRC, channel #london-biohackers by typing
 “.incubator” (without quotes) in the channel.
 
-**7. Resources**
+Resources
+=========
 
-The general hackspace wiki for the incubator:
-https://wiki.london.hackspace.org.uk/view/Incubator
+| London Hackspace Wiki - Incubator:
+| https://wiki.london.hackspace.org.uk/view/Incubator
 

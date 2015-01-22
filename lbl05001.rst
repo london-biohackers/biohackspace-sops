@@ -1,9 +1,6 @@
-================================
-LBL05001 - London Hackspace Wiki
-================================
-
-LBL05001: Containment Level One For BioLab Users
-================================================
+=================================================
+LBL05001 - Containment Level One For BioLab Users
+=================================================
 
 
 +-----------+----------------------------+--------------------+
@@ -15,112 +12,67 @@ LBL05001: Containment Level One For BioLab Users
 +-----------+----------------------------+--------------------+
 
 Purpose
--------
+========
+In order to satisfy the `Genetically Modified Organisms (Contained Use) Regulations 2014 <http://www.hse.gov.uk/pubns/books/l29.htm>`__ [#]_, any CL1 project being undertaken in the BioLab should follow the procedures outlined in this document in conjunction with any procedures specified in the risk assessment for that project .
 
-Generally, under the *Genetically Modified Organisms (Contained Use)
-Regulations 2014* any CL1 project being undertaken in the biolab must
-follow the procedures outlined in this document in conjunction with any
-procedures specified in the risk assessment for that project.
+.. [#] http://www.hse.gov.uk/pubns/books/l29.htm
 
 Scope
------
-
+=====
 This relates to all CL1 projects.
 
 Responsibilities
-----------------
-
-This applies to anyone carrying out these procedures as part of a CL1
-project. The user should ensure that others do not inadvertently
-compromise the containment of GMOs.
+================
+This applies to anyone carrying out these procedures as part of a CL1 project. The user should ensure that others do not inadvertently compromise the containment of GMOs.
 
 Related documents
------------------
-
-`LBL06001 </view/LBL06001>`__ Project Risk Assessment Procedure for Lab
-Users Proposing New Projects
-
-`LBL06002 </edit/LBL06002?redlink=1>`__ Risk Assessment Procedure for
-Lab Users Proposing Transport of GMOs Outside the Lab
-
-`LBL04006 </view/LBL04006>`__ Using the Autoclave for Waste Deactivation
-
-`BioLab Usage Guidelines </view/BioLab_Usage_Guidelines>`__
+=================
+|`London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines>`__
+|`LBL04006 - Using the Autoclave for Waste Deactivation <lbl04006.rst>`__ 
+|`LBL06001 - Project Risk Assessment Procedure for Lab Users Proposing New Projects <lbl06001.rst>`__
+|`LBL06002 - Risk Assessment Procedure for Lab Users Proposing Transport of GMOs Outside the Lab <lbl06002.rst>`__ 
 
 Definitions
------------
+===========
+GMO
+	Genetically Modified Organism
 
-GMO - Genetically Modified Organism
+GMM
+	Genetically Modified Micro-organism
 
-GMM - Genetically Modified Micro-organism
-
-CL1 - Containment Level 1
+CL1
+	Containment Level 1
 
 Procedures
-----------
+==========
 
 Risk Assessment
-~~~~~~~~~~~~~~~
-
-A written risk assessment must be approved before work can commence on
-any CL1 project (see `BioLab Usage Guidelines#Special GMO
-considerations </view/BioLab_Usage_Guidelines#Special_GMO_considerations>`__
-for guidance on determining what is classed as CL1). The risk assessment
-procedure is detailed in `LBL06001 </view/LBL06001>`__ *Project Risk
-Assessment Procedure for Lab Users Proposing New Projects*.
+---------------
+A written risk assessment must be approved before work can commence on any CL1 project (see `BioLab Usage Guidelines <biolab-usage-guidelines>`__ for guidance on determining what is classed as CL1). The risk assessment procedure is detailed in `LBL06001 <lbl06001.rst>`__ .
 
 Worksite
-~~~~~~~~
+--------
+All work with GMOs as part of a CL1 project must take place within the BioLab. The BioLab is equipped with door access control in order to enable restriction of access to only trained users when appropriate. An observation window is also present.
 
-All work with GMOs as part of a CL1 project must take place within
-the BioLab. The BioLab is equipped with door access control in order to
-enable restriction of access to only trained users when appropriate. An
-observation window is also present.
-
-All work with GMMs as part of a CL1 project must be carried out on
-the wet work workbench (white surface, on the left as one enters the
-lab). This bench is impervious to water, resistant to acids, alkalis,
-solvents, disinfectants and decontamination agents and easy to clean.
+All work with GMMs as part of a CL1 project must be carried out on the wet work workbench (white surface, on the left as one enters the lab). This bench is impervious to water, resistant to acids, alkalis, solvents, disinfectants and decontamination agents and easy to clean.
 
 Protective clothing
-~~~~~~~~~~~~~~~~~~~
-
-Suitable protective clothing should be worn. The `BioLab Usage
-Guidelines#Use of PPE </view/BioLab_Usage_Guidelines#Use_of_PPE>`__
-gives guidance on this matter. If suitable PPE is not available, the BSO
-should be informed immediately before any practical work is commenced.
+-------------------
+Suitable protective clothing should be worn. The `BioLab Usage Guidelines <biolab-usage-guidelines>`__ give guidance on this matter. If suitable PPE is not available, the BSO should be informed immediately before any practical work is commenced.
 
 Inactivation of GMMs
-~~~~~~~~~~~~~~~~~~~~
-
-All waste (e.g. disposable gloves, cultures of GMMs) produced during a
-CL1 project must be sterilised using the on-site autoclave according to
-the standard procedure detailed in `LBL04006 </view/LBL04006>`__ *Using
-the Autoclave for Waste Deactivation*. The user should pay special
-attention to ensure the autoclave has undergone the daily test
-procedure.
+--------------------
+All waste (e.g. disposable gloves, cultures of GMMs) produced during a CL1 project must be sterilised using the on-site autoclave according to the standard procedure detailed in `LBL04006 <lbl04006.rst>`__. The user should pay special attention to ensure the autoclave has undergone the daily test procedure.
 
 Safe storage of GMOs
-~~~~~~~~~~~~~~~~~~~~
-
-GMOs should be stored in an appropriate area of the BioLab in such a way
-as to minimise the risk of contamination. The BioLab is equipped with
-door access control in order to enable restriction of access to only
-trained users when appropriate.
+--------------------
+GMOs should be stored in an appropriate area of the BioLab in such a way as to minimise the risk of contamination. The BioLab is equipped with door access control in order to enable restriction of access to only trained users when appropriate.
 
 Transporting GMOs Outside the BioLab
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-A written risk assessment must be approved before any GMO may be
-transported outside the BioLab. The risk assessment procedure is
-detailed in `LBL06002 </edit/LBL06002?redlink=1>`__ *Risk Assessment
-Procedure for Lab Users Proposing Transport of GMOs Outside the Lab*.
+------------------------------------
+A written risk assessment must be approved before any GMO may be transported outside the BioLab. The risk assessment procedure is detailed in `LBL06002 <lbl06002.rst>`__.
 
 Resources
----------
-
-The Genetically Modified Organisms (Contained Use) Regulations 2014
-Guidance on Regulations (http://www.hse.gov.uk/pubns/books/l29.htm)
-
-`GMO Project Risk Assessment Form <GMO_Project_Risk_Assessment_Form>`__
-
+=========
+| The Genetically Modified Organisms (Contained Use) Regulations 2014 Guidance on Regulations:
+| http://www.hse.gov.uk/pubns/books/l29.htm

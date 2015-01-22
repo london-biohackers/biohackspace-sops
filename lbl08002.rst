@@ -2,12 +2,6 @@
 LBL08002 - Topping up RO water in the Autoclave
 ===============================================
 
-LBL08002
-========
-
-Topping up the RO water level in the Autoclave
-----------------------------------------------
-
 +----------------------+----------------------------+--------------------+
 | Author: Tom Hodder   | Approved by: S. Thompson   | SOP No. LBL04007   |
 +----------------------+----------------------------+--------------------+
@@ -16,60 +10,47 @@ Topping up the RO water level in the Autoclave
 | Date:                | Date:                      | Last edited:       |
 +----------------------+----------------------------+--------------------+
 
-**1. Purpose** This describes a user maintainance procedure for the
-Melag EuroKlav 29V-S.
+Purpose 
+=======
+This describes a user maintainance procedure for the Melag EuroKlav 29V-S.
 
-**2. Scope**
+Scope
+=====
+This should be observed every time the autoclave indicates it requires a water fill top up.
 
-This should be observed every time the autoclave indicates it requires a
-water fill top up.
-
-**3. Responsibilities**
-
+Responsibilities
+================
 Care should be taken to not splash water when filling.
 
-**4. Materials**
+Materials
+=========
+The autoclave requires a supply of **RO water**. If the water supply level falls below a minimum level, the operator will be required to top up the system. The RO water is available from the tank under the counter. The autoclave is filled into the tank from the top of the machine.
 
-The autoclave requires a supply of **RO water**. If the water supply
-level falls below a minimum level, the operator will be required to top
-up the system. The RO water is available from the tank under the
-counter. The autoclave is filled into the tank from the top of the
-machine.
+If there are any problems, please email for `biolab support <mailto:hello@biohackspace.org>`__
 
-If there are any problems, please email for `biolab
-support <mailto:hello@biohackspace.org>`__
+Procedures
+==========
 
-**5. Related documents**
-
-None
-
-**6. Definitions**
-
-None
-
-**7. Procedures**
-
-7.1 Top up water level
-
+Top up water level
+------------------
 If the water level falls below a particular level, a message will
 indicate that a fill is required
 
 |15271037703 8db97f325a c.jpg|
 |15703385860 9b92260b2d c.jpg|
 
-7.1.1 Obtain water from the RO tank using a Duran flask, or water carrier
+#. Obtain water from the RO tank using a Duran flask, or water carrier
 
-|15270736103 bcd3dccf7c c.jpg|
+   |15270736103 bcd3dccf7c c.jpg|
 
-7.1.2 Water is added into the port on the top
+#. Water is added into the port on the top
 
-|15890375165 a1b657a202 c.jpg|
+   |15890375165 a1b657a202 c.jpg|
 
-**8. Resources**
-
-::
-
-- Operating manual: http://www.eickemeyer.nl/images/products/2281/500032_Melag_Euroklav_23VS.pdf
+Resources
+=========
+| Melag EuroKlav Operating manual:
+| http://www.eickemeyer.nl/images/products/2281/500032_Melag_Euroklav_23VS.pdf
 
 .. |15271037703 8db97f325a c.jpg| image:: images/15271037703_8db97f325a_c.jpg
    :target: /view/File:15271037703_8db97f325a_c.jpg

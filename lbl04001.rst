@@ -2,11 +2,6 @@
 LBL04001 - Operating the Spectrophotometer
 ==========================================
 
-LBL04001
-========
-
-Operating the Spectrophotometer
--------------------------------
 
 +----------------------+----------------------------+--------------------+
 | Author: Tom Hodder   | Approved by: S. Thompson   | SOP No. LBL04001   |
@@ -16,21 +11,21 @@ Operating the Spectrophotometer
 | Date:                | Date:                      | Last edited:       |
 +----------------------+----------------------------+--------------------+
 
-**1. Purpose**
-
+Purpose
+=======
 The following document describes the procedure for the operation
 of the UNICAM Helios Beta Spectrophometer.
 
 |14794946891_a616cdbabe_z.jpg|
 
-**2. Scope**
-
+Scope
+=====
 This instrument is used to meaure how much light is absorbed by a
 liquid sample. In full working condition this instrument supports
 a range of visible and UV wavelengths of light.
 
-**3. Responsibilities**
-
+Responsibilities
+================
 -  It is the responsibility of lab users to use this equipment in the
    manner described in this SOP.
 -  It is the responsibility of lab users to report any incidents or
@@ -39,32 +34,35 @@ a range of visible and UV wavelengths of light.
    training, technical support and to ensure compliance with the
    operating procedures.
 
-**4. Materials**
-
+Materials
+=========
 -  Quartz or plastic cuvettes with a optical path of 12mm
 -  The equipment has replaceable UV and visible light bulbs
 
-**5. Related documents**
+Definitions
+===========
+Cuvette
+	A small, transparent quartz vessel into which a sample is placed for testing in the UV - Visible Spectrophotometer.
 
--  https://wiki.london.hackspace.org.uk/view/Spectrophotometer
--  Software manual: http://www.vtpup.cz/common/manual/PrF_biofyz_ThermoSpectronic_UV500_manual_EN.pdf
--  User Guide: https://extranet.fisher.co.uk/webfiles/fr/Pjointes/Mdemploi/UNI050_EN%202203_%20HELIOS%20SERIES_%20USER.pdf
-
-**6. Definitions**
-
--  Cuvette: A small, transparent quartz vessel. This is what a sample
-   is put into for testing in the UV - Visible Spectrophotometer.
-
-**7. Procedures**
-
--  The spectrophotometer should be started with good time before it's
-   required as the initialization procedure takes ~15 mins
--  The user should ensure that the sample cuvette is clean before it
-   is inserted into the device.
--  For OD600 select a wavelength for 600nm.
--  run a reference sample of media only sample
--  run the sample cuvette
--  ensure the machine is switched off after use
+Procedures
+==========
+#. The spectrophotometer should be started with good time before it's required as the initialization procedure takes ~15 mins.
+#. The user should ensure that the sample cuvette is clean before it is inserted into the device.
+#. For OD600 select a wavelength for 600nm.
+#. run a reference sample of media only sample.
+#. run the sample cuvette.
+#. ensure the machine is switched off after use.
 
 .. |14794946891_a616cdbabe_z.jpg| image:: images/14794946891_a616cdbabe_z.jpg
    :target: /view/File:14794946891 a616cdbabe z.jpg
+
+Resources
+=========
+| London Hackspace wiki - Spectrophotometer:
+| https://wiki.london.hackspace.org.uk/view/Spectrophotometer
+
+| Unicam UV Series Software manual:
+| http://www.vtpup.cz/common/manual/PrF_biofyz_ThermoSpectronic_UV500_manual_EN.pdf
+
+| Thermo Scientific - Spectrophotometer User Guide:
+| https://extranet.fisher.co.uk/webfiles/fr/Pjointes/Mdemploi/UNI050_EN%202203_%20HELIOS%20SERIES_%20USER.pdf

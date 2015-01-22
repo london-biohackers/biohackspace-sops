@@ -1,9 +1,6 @@
-================================
-LBL04008 - London Hackspace Wiki
-================================
-
-LBL04008: Using The Microwave
-=============================
+==============================
+LBL04008 - Using The Microwave
+==============================
 
 
 +----------------+----------------------------+--------------------+
@@ -15,18 +12,18 @@ LBL04008: Using The Microwave
 +----------------+----------------------------+--------------------+
 
 Purpose
--------
+=======
 
 This describes the usage of the BioLab microwave.
 
 Scope
------
+=====
 
 This SOP describes usage of the white microwave near the BioLab door and
 should be consulted prior to using the microwave.
 
 Responsibilities
-----------------
+================
 
 This applies to anyone using this piece of equipment.
 
@@ -43,21 +40,16 @@ splashes. However users should not assume that the microwave is clean
 prior to using it. Items which are susceptible to contamination should
 be covered.
 
-Related documents
------------------
-
-None.
-
 Procedures
-----------
+==========
 
 General microwave use
-~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 TODO. For a template, see LBL04004.
 
 Using the microwave to prepare agarose gels
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------------
 
 The microwave is useful for dissolving agarose powder in water for the
 preparation of agarose gels. Note that this procedure requires boiling
@@ -72,7 +64,7 @@ gels, the molten gel should be moved to the Ethidium Bromide area prior
 to application of Ethidium Bromide.
 
 Resources
----------
+=========
 
 TODO.
 

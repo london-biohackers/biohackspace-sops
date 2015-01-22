@@ -1,9 +1,6 @@
-================================
-LBL06001 - London Hackspace Wiki
-================================
-
-LBL06001: Risk Assessment Procedure for Lab Users Proposing New Projects
-========================================================================
+=========================================================================
+LBL06001 - Risk Assessment Procedure for Lab Users Proposing New Projects
+=========================================================================
 
 
 +-----------+----------------------------+--------------------+
@@ -15,112 +12,117 @@ LBL06001: Risk Assessment Procedure for Lab Users Proposing New Projects
 +-----------+----------------------------+--------------------+
 
 Purpose
--------
-
-The purpose of this SOP is to highlight the requirements to lab users
-starting new projects in the Biohackspace Laboratory in terms of the
-risks presented by undertaking such work. In particular, risks from the
-use of chemicals, reagents and equipment should be considered along with
-the important considerations that are essentially for working with
-genetically modified organisms.
+=======
+The purpose of this SOP is to highlight the requirements to lab users starting new projects in the London Biohackspace BioLab in terms of the risks presented by undertaking such work. In particular, risks from the use of chemicals, reagents and equipment should be considered along with the important considerations that are essentially for working with genetically modified organisms.
 
 Scope
------
-
-This SOP applies to all users of the Biohackspace Laboratory and all
-projects undertaken within it.
+=====
+This SOP applies to all users of the London Biohackspace BioLab proposing a CL1 project.
 
 Responsibilities
-----------------
-
-Ultimately, the laboratory user who initiates and undertakes the lab
-work (aka The Principal Investigator) is responsible for the health and
-safety considerations and containment requirements involved with their
-project. It is a requirement that they be aware of the risks involved in
-the project and the exposure to these risks by themselves, other lab
-users, the wider community and the environment. Before commencing any
-work the risks involved in the project must be assessed by the the
-principal investigator, they must seek advice from an experienced third
-party and the satisfactory results of this process must be signed off by
-the Biological Safety Officer.
+================
+Ultimately, the laboratory user who initiates and undertakes the lab work (i.e. the principal investigator) is responsible for the health and safety considerations and containment requirements involved with their project. It is a requirement that they be aware of the risks involved in the project and the exposure to these risks by themselves, other lab users, the wider community and the environment. Before commencing any work the risks involved in the project must be assessed by the the principal investigator, they must seek advice from an experienced third party and the satisfactory results of this process must be signed off by the Biological Safety Officer.
 
 Materials
----------
-
-    i) Risk assessment checklist.
-
-    ii) List of materials and methods for project work.
+=========
+- Risk assessment checklist.
+- List of materials and methods for project work.
 
 Related documents
------------------
-
-See also general lab induction LBL02001 based on initial lab risk
-assessment and other SOPs describing the best practice in terms of
-materials and methods to be used.
+=================
+See also general lab induction LBL02001 based on initial lab risk assessment and other SOPs describing the best practice in terms of materials and methods to be used.
 
 Definitions
------------
+===========
+GMM
+  Genetically Modified Micro-organism
 
-| GMM - Genetically Modified Microorganism
-|  GMO - Genetically Modified Organism
-|  COSHH - Control of Substances Hazardous to Health
-|  SOP - Standard Operating Procedure
-|  HG - Hazard Group
-|  CL - Containment Level
-|  PI - Principal Investigator
-|  PPE - Personal Protective Equipment
-|  MSDS - Material Safety Data Sheet
+GMO
+  Genetically Modified Organism
+
+COSHH
+  Control of Substances Hazardous to Health
+
+SOP
+  Standard Operating Procedure
+
+HG
+  Hazard Group
+
+CL
+  Containment Level
+
+PI
+  Principal Investigator
+
+PPE
+  Personal Protective Equipment
+
+MSDS
+  Material Safety Data Sheet
 
 Procedures
-----------
+==========
 
 Items for principal investigator to consider in assessing the risks in projects involving GMM
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------------------------------------------------
+#. Consider the potential hazardous properties from your micro-organism cross referenced to national categorisation lists, e.g `Approved List of Biological Agents <http://www.hse.gov.uk/pubns/misc208.pdf>`__ [#]_.
 
-  #. Consider the potential hazardous properties from your microorganism cross referenced to national categorisation lists, e.g Approved list of biological agents.
+#. Any micro-organisms to be used within the lab must fall within the hazard group 1 (HG1) category. Biological agents are categorised into HG categories based on the following criteria:
+   
+   #. are they harmful to human health?
+   #. are they a hazard to employees/workers within the organisation?
+   #. transmissible to the community? 
+   #. whether effective treatment and/or prophylaxis (including vaccines) are available?
 
-      #. Any microorganisms to be used within the lab must fall within the Hazard Group 1 (HG1) category. Biological agents are categorised into HG categories based on the following criteria:
+#. The PI should consider how the micro-organism is being modified (in the case of GMMs), e.g are there enhancements of function, altered tropisms and/or altered routes of transmission?  Consideration should be given to impacts on its hazardous properties i.e. more pathogenic, attenuated or unchanged.
 
-         i) are they harmful to human health?
-         ii) are they a hazard to employees/workers within the organisation?
-         iii) transmissible to the community? 
-         iv) whether effective treatment and/or prophylaxis (including vaccines) are available?
+#. In handling the organism the PI should consider any risks involved, for example what PPE will be required? What risks are involved in setting up and running fermentation and growth systems, for example. Particularly, are any non-standard procedures involved?
 
-  #. The PI should condsider how the microorganism is being modified (in the case of GMMs), e.g are there enhancements of function, altered tropisms and/or altered routes of transmission?  Consideration should be given to impacts on its hazardous properties i.e more pathogenic, attenuated or unchanged.
-  #. In handling the organism the PI should consider any risks involved, for example what PPE will be required? What risks are involved in setting up and running fermentation and growth systems, for example. Particularly, are any non-standard procedures involved?
-  #. The PI should consider any special requirements in disposing of the microorganisms, in particular, cultures should be destroyed in the kill bin and any GM material should be autoclaved as well before disposal to ensure destruction.
-  #. The PI should consider the storage requirements for the organism, such as whether the organism will be stored frozen, in the fridge and/or at room temperature and if it requires any other special storage requirements.
-  #. Important: If the micro organism is in risk group 1 and will be genetically modified then containment level one procedures must be adhered to.  **Note**: If it is deemed to be in hazard group 2 or higher then this organism cannot be used in the London biohackspace laboratory.  The PI should understand the difference between the HG groups and be able to explain why the organism falls into HG1 and not higher.
-  #. The principal investigator should also assess the risks to the environment involved with the organism. Particularly, genetically modified organisms developed in the lab should not be allowed to leave the definied containment area in case of the risk of becoming introduced to the wider environment where they may have an impact on either the ecosystem or health of the community.
+#. The PI should consider any special requirements in disposing of the micro-organisms, in particular, cultures should be destroyed in the kill bin and any GM material should be autoclaved as well before disposal to ensure destruction.
 
-        #. Consider, for example, the capacity of a GM plant to survive and become established and deseminate. Including its ability to compete with or displace other plants.  The PI should consider the hazards associated with inserted genetic elements, particularly if this codes for any toxic products that might affect the ecosystem or animal health.
-        #. The PI should also consider the potential for transfer of genetic material between the GM plant and other organisms.
+#. The PI should consider the storage requirements for the organism, such as whether the organism will be stored frozen, in the fridge and/or at room temperature and if it requires any other special storage requirements.
 
-Asessing the risks involved in the use of chemicals and reagents
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#. Important: If the micro organism is in risk group 1 and will be genetically modified then containment level one procedures must be adhered to.  
+   
+   **Note**: If it is deemed to be in hazard group 2 or higher then this organism cannot be used in the BioLab.  The PI should understand the difference between the HG groups and be able to explain why the organism falls into HG1 and not higher.
 
-The principal investigator should check whether a required chemical or reagent for their project is already in use in the laboratory.  If not they should locate the relavent MSDS for the substance in question and should pay particular attention to the following factors:
+#. The principal investigator should also assess the risks to the environment involved with the organism. Particularly, genetically modified organisms developed in the lab should not be allowed to leave the defined containment area in case of the risk of becoming introduced to the wider environment where they may have an impact on either the ecosystem or health of the community.
+
+   #. Consider, for example, the capacity of a GM plant to survive and become established and disseminate. Including its  ability to compete with or displace other plants.  The PI should consider the hazards associated with inserted genetic  elements, particularly if this codes for any toxic products that might affect the ecosystem or animal health.
+   #. The PI should also consider the potential for transfer of genetic material between the GM plant and other organisms.
+
+.. [#] http://www.hse.gov.uk/pubns/misc208.pdf
+
+Assessing the risks involved in the use of chemicals and reagents
+----------------------------------------------------------------
+The principal investigator should check whether a required chemical or reagent for their project is already in use in the laboratory.  If not they should locate the relevant MSDS for the substance in question and should pay particular attention to the following factors:
                 
-    #. How should the substance be handled? Is particular PPE required, and is this available?
-    #. How is the substance stored and can this be accommodated in the laboratory? For example, it may not be practical to store highly volatile, flammable, corrosive or controlled substances on site.
-    #. How should the substance be disposed of? Primarily, can this be disposed of down the drain (diluted or undiluted?) or are special disposal measures required? If so are these available?
+#. How should the substance be handled? Is particular PPE required, and is this available?
+#. How is the substance stored and can this be accommodated in the laboratory? For example, it may not be practical to store highly volatile, flammable, corrosive or controlled substances on site.
+#. How should the substance be disposed of? Primarily, can this be disposed of down the drain (diluted or undiluted?) or are special disposal measures required? If so are these available?
 
 Assessing the risks involved in the use of instrumentation and equipment
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------------------------
+The principal investigator should assess any risk presented by instrumentation or equipment brought into the lab for the purpose of carrying out this project.
 
-The principal investigator should assess any risk presented by instrumentation or equipment brought into the lab for the purpose of
-carrying out this project.
-
-Some examples might be: does it operate at high temperature or pressure, produce wavelengths of light that might be harmful (i.e uses
-lasers or UV bulbs), does it operate at high voltages (e.g electroporator),produce high frequency sounds that might be damaging to 
-hearing (e.g sonicators) or might be heavy or awkward to operate.
+Some examples might be: does it operate at high temperature or pressure, produce wavelengths of light that might be harmful (i.e uses lasers or UV bulbs), does it operate at high voltages (e.g electroporator),produce high frequency sounds that might be damaging to hearing (e.g sonicators) or might be heavy or awkward to operate.
 
 The principal investigator should check the SOP documentation for information covering similar devices, and the information covering the laboratory safety induction which should cover most of the installed devices at the time of writing.
 
 Resources
----------
+=========
+| Approved List of Biological Agents:
+| http://www.hse.gov.uk/pubns/misc208.pdf
 
-HSE docs on risk (in general and GMM stuff)
+| DSMZ Catalogue of micro-organisms:
+| http://www.dsmz.de/catalogues/catalogue-microorganisms.html
 
-…
+| HSE GMO Regulations index page:
+| http://www.hse.gov.uk/biosafety/GMO/index.htm
 
+| The Genetically Modified Organisms (Contained Use) Regulations 2014 Guidance on Regulations:
+| http://www.hse.gov.uk/pubns/books/l29.htm
+
+| The Genetically Modified Organisms (Contained Use) Regulations 2014:
+| http://www.legislation.gov.uk/uksi/2014/1663/contents/made

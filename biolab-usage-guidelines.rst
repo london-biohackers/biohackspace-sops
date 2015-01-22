@@ -241,14 +241,20 @@ For more information on the use of the centrifuges, refer to `LBL04003 <lbl04003
 
 Resources
 =========
-London Biohackspace SOPs: http://github.com/london-biohackers/biohackspace-sops/blob/master/index.rst
+| London Biohackspace SOPs:
+| http://github.com/london-biohackers/biohackspace-sops/blob/master/index.rst
 
-Approved List of Biological Agents: http://www.hse.gov.uk/pubns/misc208.pdf
+| Approved List of Biological Agents:
+| http://www.hse.gov.uk/pubns/misc208.pdf
 
-DSMZ Catalogue of micro-organisms: http://www.dsmz.de/catalogues/catalogue-microorganisms.html
+| DSMZ Catalogue of micro-organisms:
+| http://www.dsmz.de/catalogues/catalogue-microorganisms.html
 
-HSE GMO Regulations index page: http://www.hse.gov.uk/biosafety/GMO/index.htm
+| HSE GMO Regulations index page:
+| http://www.hse.gov.uk/biosafety/GMO/index.htm
 
-The Genetically Modified Organisms (Contained Use) Regulations 2014 Guidance on Regulations: http://www.hse.gov.uk/pubns/books/l29.htm
+| The Genetically Modified Organisms (Contained Use) Regulations 2014 Guidance on Regulations:
+| http://www.hse.gov.uk/pubns/books/l29.htm
 
-The Genetically Modified Organisms (Contained Use) Regulations 2014: http://www.legislation.gov.uk/uksi/2014/1663/contents/made
+| The Genetically Modified Organisms (Contained Use) Regulations 2014:
+| http://www.legislation.gov.uk/uksi/2014/1663/contents/made

@@ -1,9 +1,6 @@
-================================
-LBL07002 - London Hackspace Wiki
-================================
-
-LBL07002: Heat shock transformation of E. coli
-==============================================
+================================================
+LBL07002 - Heat shock transformation of *E. coli*
+================================================
 
 
 +-----------------------+----------------+--------------------+
@@ -15,63 +12,46 @@ LBL07002: Heat shock transformation of E. coli
 +-----------------------+----------------+--------------------+
 
 Purpose
--------
-
+=======
 This describes the procedure for heat shock transformation in E. Coli
 lab strains such as DH5alpha.
 
 Scope
------
-
+=====
 This should be observed for all such transformations within the LBL lab
 but does not include variations of other species or other transformation
 methods e.g electroporation.
 
 Responsibilities
-----------------
-
+================
 The operator performing the transformation is responsible for their own
 safety and that of others in the vicinity during the procedure.
 
 Materials
----------
-
-    - Chemically competent E. Coli.
-    - Ice bucket.
-    - Water bath, 42C.
-    - Plasmid suitable for E. Coli with antibiotic selection marker
-    - LB broth (0.5 to 1mL per sample)
-    - LB Agar plates containing antibiotic matching selection marker
-    - Incubator, 37C
+=========
+- Chemically competent *E. coli*.
+- Ice bucket.
+- Water bath, 42C.
+- Plasmid suitable for *E. coli* with antibiotic selection marker
+- LB broth (0.5 to 1mL per sample)
+- LB Agar plates containing antibiotic matching selection marker
+- Incubator, 37C
 
 Related documents
------------------
+=================
+| `LBL04002 - Using the Autoclave for Media Preparation <lbl04002.rst>`__
+| `LBL07001 - Preparation of competent *E. coli* (chemical method) <lbl07001.rst>`__
 
-    - LB broth preparation
-    - LB Agar selection media preparation
-    - E. coli chemical competence
-    - Rapid transformation
-
-Definitions
------------
-
-…
 
 Procedures
-----------
-
-    #. Take frozen chemically competent aliquots and thaw on ice.
-    #. Add an appropriate amount of plasmid DNA (based on initial plasmid concentration). Mix carefully by pipeting or flicking the tube. **Note:** Also remember to use a negative control such as sterile water for at least one of the samples.
-    #. Incubate on ice for 20 to 30 minutes.
-    #. Heat shock by placing the sample tubes into a 42C water bath for 60 seconds.
-    #. Incubate on ice again for 2 minutes.
-    #. Add 250 to 500ul of LB medium without antibiotic (recovery step).
-    #. Incubate at 37C for 45 minutes (this can vary from 30 to 60 minutes, allow longer times for tranformations with ligation mixtures).
-    #. Plate onto LB agar plates containing suitable antibiotic and incubate at 37C overnight.
-    #. Check for colonies and compare with colony formation on negative controls.
-
-Resources
----------
-
-…
+==========
+#. Take frozen chemically competent aliquots and thaw on ice.
+#. Add an appropriate amount of plasmid DNA (based on initial plasmid concentration). Mix carefully by pipeting or flicking the tube. **Note:** Also remember to use a negative control such as sterile water for at least one of the samples.
+#. Incubate on ice for 20 to 30 minutes.
+#. Heat shock by placing the sample tubes into a 42C water bath for 60 seconds.
+#. Incubate on ice again for 2 minutes.
+#. Add 250 to 500ul of LB medium without antibiotic (recovery step).
+#. Incubate at 37C for 45 minutes (this can vary from 30 to 60 minutes, allow longer times for tranformations with ligation mixtures).
+#. Plate onto LB agar plates containing suitable antibiotic and incubate at 37C overnight.
+#. Check for colonies and compare with colony formation on negative controls.
 

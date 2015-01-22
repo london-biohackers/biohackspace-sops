@@ -1,9 +1,6 @@
-================================
-LBL04002 - London Hackspace Wiki
-================================
-
-LBL04002: Using the Autoclave for Media Preparation
-===================================================
+====================================================
+LBL04002 - Using the Autoclave for Media Preparation
+====================================================
 
 +-------------------+----------------------------+--------------------+
 | Author: Tolland   | Approved by: S. Thompson   | SOP No. LBL04002   |
@@ -14,59 +11,40 @@ LBL04002: Using the Autoclave for Media Preparation
 +-------------------+----------------------------+--------------------+
 
 Purpose
--------
+=======
    
 This describes the operation of the Melag EuroKlav 29V-S. The autoclave is used for two main procedures:
 
-   i) sterilization of media, glassware and autoclavable equipment prior to another protocol
-  ii) Deactivation of GMOs, and GMO exposed waste and equipment.
+i) sterilization of media, glassware and autoclavable equipment prior to another protocol
+ii) Deactivation of GMOs, and GMO exposed waste and equipment.
 
 Scope
------
+=====
 
-This should be observed every time the autoclave is used within the LBL
-BioLab.
+This should be observed every time the autoclave is used within the LBL BioLab.
 
 Responsibilities
-----------------
+================
+The operator of the autoclave is responsible for their own safety and that of others in the vicinity during its use. The particular risks presented in using this piece of equipment are primarily due to the high temperatures generated, steam and high pressures.
 
-The operator of the autoclave is responsible for their own safety and
-that of others in the vicinity during its use. The particular risks
-presented in using this piece of equipment are primarily due to the high
-temperatures generated, steam and high pressures.
-
-The operator is responsible for ensuring complete sterilization of
-containers, glassware, tubes, media and equipment. To ensure
-environmental microbes do not contaminate the target microbe strain.
+The operator is responsible for ensuring complete sterilization of containers, glassware, tubes, media and equipment. To ensure environmental microbes do not contaminate the target microbe strain.
 
 Materials
----------
+=========
 
 The main consumables for the autoclave are RO water and autoclave tape.
 
-RO water needs to be regularly topped up, into the hatch on the top of
-the machine.
+RO water needs to be regularly topped up, into the hatch on the top of the machine.
 
-The autoclave tape should be used to seal items to be sterilized and is
-stored on the shelf nearby. Order replacement from
-`Sigma <https://www.sigmaaldrich.com/catalog/product/aldrich/br61750?lang=en&region=GB>`__
-or appropriate similar product.
+The autoclave tape should be used to seal items to be sterilized and is stored on the shelf nearby. Order replacement from `Sigma <https://www.sigmaaldrich.com/catalog/product/aldrich/br61750?lang=en&region=GB>`__ [#]_ or appropriate similar product.
 
-Related documents
------------------
-
-http://www.phytotechlab.com/pdf/SterilizingNutrientMedia.pdf
-
-Definitions
------------
-
-None given
+.. [#] https://www.sigmaaldrich.com/catalog/product/aldrich/br61750?lang=en&region=GB
 
 Procedures
-----------
+==========
 
 Sterilization of liquid media
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------
 
 For sterilization of liquid media up to 1 litre, that requires 15 minutes @ 15 psi and 121 C, please use the “Gentle Programme”;
 
@@ -85,17 +63,21 @@ Then run for 15 minutes @ 15 psi and 121 C using the "Gentle Programme":
 |Screenshot-gentle-programme.png|
 
 Deactivation of liquid and solid GMO waste
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------
 
-    1. Transport the waste to the autoclave in a non-drip autoclavable tray
-    2. Ensure there are no folds or containers which can trap air
-    3. Sterilize the load using the Universal-Programme (2.1 bar/134 C/15 mins)
-    4. Once the programme has run, the waste should be transferred to the chemical kill bin, for final deactivation
+1. Transport the waste to the autoclave in a non-drip autoclavable tray
+2. Ensure there are no folds or containers which can trap air
+3. Sterilize the load using the Universal-Programme (2.1 bar/134 C/15 mins)
+4. Once the programme has run, the waste should be transferred to the chemical kill bin, for final deactivation
 
 Resources
-~~~~~~~~~
+=========
 
-    - Operating manual: http://www.eickemeyer.nl/images/products/2281/500032_Melag_Euroklav_23VS.pdf
+| Melag EuroKlav Operating manual:
+| http://www.eickemeyer.nl/images/products/2281/500032_Melag_Euroklav_23VS.pdf
+
+| PhytoTechnology Laboratories - Sterilizing Nutrient Media:
+| http://www.phytotechlab.com/pdf/SterilizingNutrientMedia.pdf
 
 .. |Screenshot-gentle-programme.png| image:: images/Screenshot-gentle-programme.png
    :target: /view/File:Screenshot-gentle-programme.png
