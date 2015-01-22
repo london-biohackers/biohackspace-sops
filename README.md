@@ -77,7 +77,7 @@ Refering to other sections within a different SOP:
 
 Refering to external sources:
 
-	`External Source <http://external.com/source>`__[#]_
+	`External Source <http://external.com/source>`__ [#]_
 
 	then below that paragraph:
 

@@ -64,7 +64,7 @@ Procedures
 
 General Safety Briefing
 -----------------------
-The inductees will all be provided with an information handout consisting of the `BioLab Rules <BioLab-Rules>`__, `BioLab Usage Guidelines <BioLab-Usage-Guidelines>`__, and the `DIYBio EU Code of Ethics <http://diybio.org/codes/draft-diybio-code-of-ethics-from-european-congress/>`__[#]_. These documents cover all the points covered during the induction and gives details of where to find more information about lab procedures.
+The inductees will all be provided with an information handout consisting of the `BioLab Rules <BioLab-Rules>`__, `BioLab Usage Guidelines <BioLab-Usage-Guidelines>`__, and the `DIYBio EU Code of Ethics <http://diybio.org/codes/draft-diybio-code-of-ethics-from-european-congress/>`__ [#]_. These documents cover all the points covered during the induction and gives details of where to find more information about lab procedures.
 
 .. [#] http://diybio.org/codes/draft-diybio-code-of-ethics-from-european-congress/
 
