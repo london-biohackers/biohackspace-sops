@@ -22,7 +22,7 @@ Responsibilities
 ================
 The BSO is responsible for making sure the induction is itself carried out safely and to ensure that by the end of induction the inductees understand:
 
-- That use of, and access to, the laboratory is subject to agreeing to follow the `London Biohackspace BioLab Rules <biolab-rules>`__ and by extension agreeing to follow the `London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines>`__ and SOPs.
+- That use of, and access to, the laboratory is subject to agreeing to follow the `London Biohackspace BioLab Rules <biolab-rules.rst>`__ and by extension agreeing to follow the `London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__ and SOPs.
 - That failing to follow the BioLab Rules or acting in a way that endangers others or the environment is grounds for being barred from accessing the laboratory.
 - How to access the lab and who is allowed in the lab.
 - That work with organisms in risk groups 2 and above is strictly forbidden in the lab and how to identify the risk group of an organism.
@@ -40,9 +40,9 @@ The BSO is responsible for making sure the induction is itself carried out safel
 
 Related documents
 =================
-| `BioLab Training Confirmation Sheet <biolab-training-confirmation-sheet>`__
-| `London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines>`__
-| `London Biohackspace BioLab Rules <biolab-rules>`__
+| `BioLab Training Confirmation Sheet <biolab-training-confirmation-sheet.rst>`__
+| `London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__
+| `London Biohackspace BioLab Rules <biolab-rules.rst>`__
 
 Definitions
 ===========
@@ -64,7 +64,7 @@ Procedures
 
 General Safety Briefing
 -----------------------
-The inductees will all be provided with an information handout consisting of the `BioLab Rules <BioLab-Rules>`__, `BioLab Usage Guidelines <BioLab-Usage-Guidelines>`__, and the `DIYBio EU Code of Ethics <http://diybio.org/codes/draft-diybio-code-of-ethics-from-european-congress/>`__ [#]_. These documents cover all the points covered during the induction and gives details of where to find more information about lab procedures.
+The inductees will all be provided with an information handout consisting of the `BioLab Rules <biolab-rules.rst>`__, `BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__, and the `DIYBio EU Code of Ethics <http://diybio.org/codes/draft-diybio-code-of-ethics-from-european-congress/>`__ [#]_. These documents cover all the points covered during the induction and gives details of where to find more information about lab procedures.
 
 .. [#] http://diybio.org/codes/draft-diybio-code-of-ethics-from-european-congress/
 
