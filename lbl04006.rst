@@ -3,21 +3,21 @@ LBL04006 - Using the Autoclave for Waste Deactivation
 =====================================================
 
 
-+-------------------+----------------------------+--------------------+
-| Author: Tolland   | Approved by: S. Thompson   | SOP No. LBL04006   |
-+-------------------+----------------------------+--------------------+
-| Signed:           | Signed:                    | Effective from:    |
-+-------------------+----------------------------+--------------------+
-| Date:             | Date:                      | Last edited:       |
-+-------------------+----------------------------+--------------------+
++----------------------+----------------------------+--------------------+
+| Author: Tom Hodder   | Approved by: S. Thompson   | SOP No. LBL04006   |
++----------------------+----------------------------+--------------------+
+| Signed:              | Signed:                    | Effective from:    |
++----------------------+----------------------------+--------------------+
+| Date:                | Date:                      | Last edited:       |
++----------------------+----------------------------+--------------------+
 
 Purpose
 =======
 This describes the operation of the Melag EuroKlav
 29V-S. The autoclave is used for three main procedures with respect to
-GMO deactivation:
+equipment and waste that has been GMO exposed and the subsequent deactivation of the GMO by heat/pressure sterilization:
 
-i) sterilization of glassware and equipment for reuse
+i) Sterilization of glassware and equipment for reuse
 ii) Deactivation of small volumes of liquid and solid media
 iii) Deactivation of large loads of  liquid and solid media
 
@@ -31,11 +31,18 @@ Responsibilities
 The operator of the autoclave is responsible for their own safety and
 that of others in the vicinity during its use. The particular risks
 presented in using this piece of equipment are primarily due to the high
-temperatures and steam released during evacuation.
+temperatures and steam released during evacuation. There is also a risk
+of the shattering of sealed glass containers.
 
 Upon removal of items from the autoclave be aware that they will likely
 still be hot, and care should be taken to check that glass or ceramic
 items are intact.
+
+Suitable hand and eye protection should be worn.
+
+Related documents
+=================
+| `lbl08002 - Topping up the RO water level in the Autoclave <lbl08002.rst>`__ 
 
 Materials
 =========
@@ -43,11 +50,12 @@ The autoclave requires a supply of **RO water**. If the water supply
 level falls below a minimum level, the operator will be required to top
 up the system. The RO water is available from the tank under the
 counter. The autoclave is filled into the tank from the top of the
-machine.
+machine. Please see `lbl08002 <lbl08002.rst>`__ 
+for details of this procedure.
 
 The daily test, and waste deactivation runs of the autoclave require
-**autoclave tape**. If we are out of autoclave tape, please email the
-[mailti:hello@biohackspace.org BSO] and report that we are out of stock.
+**autoclave tape**. If we are out of autoclave tape, please email 
+`BSO <hello@biohackspace.org>`__ and report that we are out of stock.
 
 Procedures
 ==========
@@ -55,7 +63,7 @@ Procedures
 Daily Test procedure
 --------------------
 
-Before using the autoclave for GMO deactivation each day, the operator
+Before using the autoclave for GMO deactivation, the operator
 should run a test strip through the autoclave to check that it is
 working to specification.
 
@@ -63,33 +71,53 @@ The test strip should be stapled into the lab book, with a note
 indicating the operator and the date/time the test was run, along with
 any observations.
 
+Sterilization of Glassware
+--------------------------
+
 Unwrapped equipment and glassware with no internal cavities can be
 sterilized using the Quick Programme (28 psi/134 C/3 mins)
 
 |Screenshot-quick-programme.png|
 
-Materials such as a solid and liquid media can be sterilized using
+- Transport the equipment to the autoclave in a non-drip autoclavable tray
+- Ensure there are no sealed containers which can trap air and present an explosion risk
+- Sterilize the load using the Quick Programme (28 psi/134 C/3 mins)
+- once the programme has run, the waste should be transferred to storage
+
+Small volume batches
+--------------------
+
+Materials such as a solid and liquid media and plastic consumables, 
+gloves and other waste for disposal can be sterilized using
 the Universal Programme (28 psi/134 C/30 mins)
 
 |Screenshot-universal-programme.png|
 
-Large volumes of liquid or solid media should be processed with
-extra care.
+- Transport the waste to the autoclave in a non-drip autoclavable tray
+- Ensure there are no folds in cloth materials
+- Ensure there aer no sealed containers which can trap air and present an explosion risk
+- Sterilize the load using the Universal Programme (28 psi/134 C/30 mins)
+- once the programme has run, the waste should be transferred to the chemical kill bin, for final deactivation
 
-The autoclave should be preheated;
+Large batches by weight or volume
+---------------------------------
+
+Large volumes of liquid or solid media should be processed with
+extra care. Typically if a large batch greater than 1kg or 1L should be
+separated into smaller batches for sterilization using the procedure above.
+
+If this is not possible, the autoclave should be preheated using the following steps;
 
 |Screenshot-preheat.png|
 
-If possible, the media should be split into several autoclaves sessions.
 The load should be run under the Universal programme
 
 |Screenshot-universal-programme.png|
 
-Deactivation of liquid and solid GMO waste
-------------------------------------------
 - Transport the waste to the autoclave in a non-drip autoclavable tray
-- Ensure there are no folds or containers which can trap air
-- Sterilize the load using the Universal-Programme (2.1 bar/134 C/15 mins)
+- Ensure there are no folds in cloth materials
+- Ensure there aer no sealed containers which can trap air and present an explosion risk
+- Sterilize the load using the Universal Programme (28 psi/134 C/30 mins)
 - once the programme has run, the waste should be transferred to the chemical kill bin, for final deactivation
 
 Resources
