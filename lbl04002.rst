@@ -2,32 +2,40 @@
 LBL04002 - Using the Autoclave for Media Preparation
 ====================================================
 
-+-------------------+----------------------------+--------------------+
-| Author: Tolland   | Approved by: S. Thompson   | SOP No. LBL04002   |
-+-------------------+----------------------------+--------------------+
-| Signed:           | Signed:                    | Effective from:    |
-+-------------------+----------------------------+--------------------+
-| Date:             | Date:                      | Last edited:       |
-+-------------------+----------------------------+--------------------+
++----------------------+----------------------------+--------------------+
+| Author: Tom Hodder   | Approved by: S. Thompson   | SOP No. LBL04002   |
++----------------------+----------------------------+--------------------+
+| Signed:              | Signed:                    | Effective from:    |
++----------------------+----------------------------+--------------------+
+| Date:                | Date:                      | Last edited:       |
++----------------------+----------------------------+--------------------+
 
 Purpose
 =======
    
-This describes the operation of the Melag EuroKlav 29V-S. The autoclave is used for two main procedures:
+This describes the operation of the Melag EuroKlav 29V-S with regard to 
+the preparation of microbial culture media.
 
-i) sterilization of media, glassware and autoclavable equipment prior to another protocol
-ii) Deactivation of GMOs, and GMO exposed waste and equipment.
+|16350312215_9f5655c920_z.jpg|
 
 Scope
 =====
 
-This should be observed every time the autoclave is used within the LBL BioLab.
+
+This should be observed every time the autoclave is used within the LBL 
+BioLab for media preparation.
 
 Responsibilities
 ================
-The operator of the autoclave is responsible for their own safety and that of others in the vicinity during its use. The particular risks presented in using this piece of equipment are primarily due to the high temperatures generated, steam and high pressures.
+
+The operator of the autoclave is responsible for their own safety and that of others in the vicinity during its use. The particular risks presented in using this piece of equipment are primarily due to the high temperatures generated, steam and high pressures.  There is also a risk
+of the shattering of sealed glass containers.
 
 The operator is responsible for ensuring complete sterilization of containers, glassware, tubes, media and equipment. To ensure environmental microbes do not contaminate the target microbe strain.
+
+Related documents
+=================
+| `lbl08002 - Topping up the RO water level in the Autoclave <lbl08002.rst>`__ 
 
 Materials
 =========
@@ -43,12 +51,15 @@ The autoclave tape should be used to seal items to be sterilized and is stored o
 Procedures
 ==========
 
-Sterilization of liquid media
------------------------------
+Sterilization of liquid media <1L
+---------------------------------
 
 For sterilization of liquid media up to 1 litre, that requires 15 minutes @ 15 psi and 121 C, please use the “Gentle Programme”;
 
 |Screenshot-gentle-programme.png|
+
+Sterilization of liquid media volume >1L
+----------------------------------------
 
 For sterilization of liquid media of greater volumes than 1 litre, you need to
 preheat the autoclave and place the material to be sterilized in the autoclave
@@ -62,13 +73,6 @@ Then run for 15 minutes @ 15 psi and 121 C using the "Gentle Programme":
 
 |Screenshot-gentle-programme.png|
 
-Deactivation of liquid and solid GMO waste
-------------------------------------------
-
-1. Transport the waste to the autoclave in a non-drip autoclavable tray
-2. Ensure there are no folds or containers which can trap air
-3. Sterilize the load using the Universal-Programme (2.1 bar/134 C/15 mins)
-4. Once the programme has run, the waste should be transferred to the chemical kill bin, for final deactivation
 
 Resources
 =========
@@ -79,6 +83,8 @@ Resources
 | PhytoTechnology Laboratories - Sterilizing Nutrient Media:
 | http://www.phytotechlab.com/pdf/SterilizingNutrientMedia.pdf
 
+.. |16350312215_9f5655c920_z.jpg| image:: images/16350312215_9f5655c920_z.jpg
+   :target: /view/File:16350312215_9f5655c920_z.jpg
 .. |Screenshot-gentle-programme.png| image:: images/Screenshot-gentle-programme.png
    :target: /view/File:Screenshot-gentle-programme.png
 .. |Screenshot-preheat.png| image:: images/Screenshot-preheat.png
