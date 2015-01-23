@@ -14,6 +14,8 @@ Purpose
 =======
 This describes a user maintainance procedure for the Melag EuroKlav 29V-S.
 
+|16350312215_9f5655c920_z.jpg|
+
 Scope
 =====
 This should be observed every time the autoclave indicates it requires a water fill top up.
@@ -36,27 +38,31 @@ Top up water level
 If the water level falls below a particular level, a message will
 indicate that a fill is required
 
-|15271037703 8db97f325a c.jpg|
 |15703385860 9b92260b2d c.jpg|
 
 #. Obtain water from the RO tank using a Duran flask, or water carrier
 
-   |15270736103 bcd3dccf7c c.jpg|
+.. image:: images/15270736103_bcd3dccf7c_z.jpg
+   :height: 300px
+   :width: 200px
+   :alt: alternate text
+   :align: right
 
 #. Water is added into the port on the top
 
    |15890375165 a1b657a202 c.jpg|
+
 
 Resources
 =========
 | Melag EuroKlav Operating manual:
 | http://www.eickemeyer.nl/images/products/2281/500032_Melag_Euroklav_23VS.pdf
 
+.. |16350312215_9f5655c920_z.jpg| image:: images/16350312215_9f5655c920_z.jpg
+   :target: /view/File:16350312215_9f5655c920_z.jpg
 .. |15271037703 8db97f325a c.jpg| image:: images/15271037703_8db97f325a_c.jpg
    :target: /view/File:15271037703_8db97f325a_c.jpg
 .. |15703385860 9b92260b2d c.jpg| image:: images/15703385860_9b92260b2d_c.jpg
    :target: /view/File:15703385860_9b92260b2d_c.jpg
-.. |15270736103 bcd3dccf7c c.jpg| image:: images/15270736103_bcd3dccf7c_c.jpg
-   :target: /view/File:15270736103_bcd3dccf7c_c.jpg
 .. |15890375165 a1b657a202 c.jpg| image:: images/15890375165_a1b657a202_c.jpg
    :target: /view/File:15890375165_a1b657a202_c.jpg
