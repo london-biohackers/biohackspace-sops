@@ -13,18 +13,23 @@ LBL04007 - Using the Kill Bin
 
 Purpose
 =======
-This describes the protocol for use of the Kill Bin, which is a
-beach-filled container, located under or near the sink. This bin used for the
-chemical inactivation of GMO contaminating waste media and consumables 
-such as disposable lab plastics.
+
+This describes the protocol for use of the Kill Bin, which is a beach-filled
+container, located under or near the sink. This bin used for the chemical
+inactivation of waste media and consumables such as disposable lab plastics.
 
 Scope
 =====
-- This document should be consulted prior to use of the Kill Bin for waste
-disposal.
 
-- Bleach is not effective for the deactivation of bacterial spores. Waste that
-possibly contains spores should be autoclaved prior to being placed in the kill bin.
+- This document should be consulted prior to use of the Kill Bin for waste
+  disposal.
+
+- The kill bin **is not suitable** for inactivation of GMOs, or plastics and
+  consumables which may have come into contact with GMOs. The autoclave should
+  be used instead. See LBL04006, "Using the autoclave for waste deactivation".
+
+- The bin is also not effective for the deactivation of bacterial spores. Waste
+  that possibly contains spores should be autoclaved.
 
 
 Responsibilities
@@ -66,7 +71,7 @@ lid is properly closed by gently pulling on the lid, which should not
 open.
 
 Material in the Kill Bin should be fully immersed for at least 30 minutes 
-to ensure full inactivation of GMO.
+to ensure full inactivation.
 
 Emptying the Kill Bin
 ---------------------
@@ -86,8 +91,6 @@ The bleach bin should be emptied into the toilet or into an external open
 drain. Gloves and eye protection should be worn at all times.
 
 
-
-
 Refilling the Kill Bin
 ----------------------
 
@@ -95,12 +98,11 @@ Typical household bleach contains 5.25% Sodium Hypochlorite. The solution
 in the bin should be diluted from household bleach so that it contains a
  mixture of 10% bleach and 90% water. 
  
-Bleach decomposes over time when exposed to air and so fresh bleach solution should be added to the kill
-bin daily.
+Bleach decomposes over time when exposed to air and so fresh bleach solution
+should be added to the kill bin daily.
 
-**WARNING:** Do not mix chemicals such as acids into the kill bin solution
-as they will release chlorine gas
-
+**WARNING:** Do not mix chemicals such as acids into the kill bin solution as
+they will release chlorine gas.
 
 
 Resources
