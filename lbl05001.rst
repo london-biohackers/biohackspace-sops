@@ -27,10 +27,10 @@ This applies to anyone carrying out these procedures as part of a CL1 project. T
 
 Related documents
 =================
-|`London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines>`__
-|`LBL04006 - Using the Autoclave for Waste Deactivation <lbl04006.rst>`__ 
-|`LBL06001 - Project Risk Assessment Procedure for Lab Users Proposing New Projects <lbl06001.rst>`__
-|`LBL06002 - Risk Assessment Procedure for Lab Users Proposing Transport of GMOs Outside the Lab <lbl06002.rst>`__ 
+    - `London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines>`__
+    - `LBL04006 - Using the Autoclave for Waste Deactivation <lbl04006.rst>`__ 
+    - `LBL06001 - Project Risk Assessment Procedure for Lab Users Proposing New Projects <lbl06001.rst>`__
+    - `LBL06002 - Risk Assessment Procedure for Lab Users Proposing Transport of GMOs Outside the Lab <lbl06002.rst>`__ 
 
 Definitions
 ===========
