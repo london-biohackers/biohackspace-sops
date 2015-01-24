@@ -14,9 +14,7 @@ Purpose
 =======
 
 Even under ideal conditions it is inevitable that accidents will happen.
-However if the correct procedure is followed, then spillage incidents should
-be handled in a calm and sensible manner, and there should be no increased
-risk to safety or containment of microbes.
+However if the correct procedure is followed, and spillage incidents handled in a calm and sensible manner, there should be no risk of loss of containment of microbes and no impact on biosafety risk to users of the lab.
 
 Scope
 =====
@@ -24,9 +22,9 @@ Scope
 This procedure is relevant for all users working with micro organisms in the biolab.
 This procedure is applicable to both non-GMO and GMO scenarios.
 
-The microbes that are in use in the biolab are categorized as being unlikely to 
-cause human disease in hazard group 1 as Biological Agents, and in the GMO context, of no or negligible risk to 
-human health and the environment.
+The microbes that are in use in the biolab are categorized as Biological Agents as being unlikely to 
+cause human disease (hazard group 1). In the GMO context, the microbes are considered 
+to be of no or negligible risk to human health and the environment.
 
 Therefore the primary immediate risk  from spillage are as follows:
 
@@ -35,7 +33,7 @@ Therefore the primary immediate risk  from spillage are as follows:
 - Slipping and falling on wet patches.
 
 It is however imperative that the lab user maintain containment of microbes
-particularly GMO, during a spillage, and this document describes the equipment
+particularly GMO during a spillage, and this document describes the equipment
 and procedure available to ensure this is the case.
 
 Responsibilities
