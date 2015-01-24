@@ -48,9 +48,16 @@ refilling the kill bin with bleach.
 Bleach is corrosive to stainless steel, therefore bleach should not be left
 in contact with utensils or sink surfaces.
 
+**WARNING:** Do not mix chemicals such as acids into the kill bin solution as
+they will release chlorine gas.
+
+Related documents
+=================
+| `lbl04006 - Using the Autoclave for Waste Deactivation <lbl04006.rst>`__ 
+
 Materials
 =========
-The bin requires a 60/40 bleach/water mix. See the `Refilling the Kill Bin <#emptying-the-kill-bin>`__ section below for more details.
+The bin requires a mix of tap water/household bleach. See the `Refilling the Kill Bin <#emptying-the-kill-bin>`__ section below for more details.
 
 Definitions
 ===========
@@ -73,36 +80,51 @@ open.
 Material in the Kill Bin should be fully immersed for at least 30 minutes 
 to ensure full inactivation.
 
-Emptying the Kill Bin
----------------------
+Emptying the Kill Bin (Solid waste)
+-----------------------------------
 
-The bleach bin **should not** be emptied into the sink in the lab as it does
-not exit directly to the waste pipe, but instead to a storage tank.
+The bleach solution decomposes over time at an exponential rate and this 
+process is accelerated if the waste is left sitting in the kill bin longer 
+than is required for microbial inactivation.
 
-The bin consists of kill liquid (the water/bleach mix) and solid matter.
-The liquid can be disposed of down the drain. The solid matter can be
-disposed of into the general waste after the bleach has been removed.
+Once waste has been fully immersed in the kill bin for a minimum of 30 mins
+it should be drained and removed to the general waste. Waste should **not be
+left standing overnight** as this reduces the effectiveness of the bleach.
+
+
+
+Emptying the Kill Bin (Bleach)
+------------------------------
+
+The bleach bin **should not** be emptied into the sink in the biolab as it does
+not exit directly to the waste pipe, but instead to a storage tank where 
+gases can form.
+
+The bin consists of kill liquid (the water/bleach mix) and solid matter. 
+The solid matter should be disposed of into the general waste before 
+the bleach is removed.
 
 Bleach is considered a hazardous substance under COSHH and therefore the
-container contains a warning label. The warnings should be adhered to for
+container is marked with a warning label. The warnings should be adhered to for
 all use of household bleach in the biolab.
 
-The bleach bin should be emptied into the toilet or into an external open
+The bleach bin should be emptied into a toilet or into an external open
 drain. Gloves and eye protection should be worn at all times.
 
 
 Refilling the Kill Bin
 ----------------------
 
+The bleach in the Kill Bin should be replaced weekly.
+
 Typical household bleach contains 5.25% Sodium Hypochlorite. The solution 
-in the bin should be diluted from household bleach so that it contains a
- mixture of 10% bleach and 90% water. 
+in the bin should be diluted from household bleach at a ratio of 40/60 water
+bleach to achieve a bleach concentration of >2% v/v. 
  
 Bleach decomposes over time when exposed to air and so fresh bleach solution
-should be added to the kill bin daily.
-
-**WARNING:** Do not mix chemicals such as acids into the kill bin solution as
-they will release chlorine gas.
+should be added to the kill bin before use. The use should check the log to see when
+the kill bin solution was last changed and add 250-500ml depending on how
+fresh the solution is.
 
 
 Resources
