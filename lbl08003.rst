@@ -51,12 +51,12 @@ vicinity during any protocol or procecure they are carrying out.
 
 Materials
 =========
-The Spill kit is maintained in the lab for use in containing spills. A lab user dealing with a spills should find gloves and eyewear available from lab stock.
+The Spill kit is maintained in the lab for use in containing spills. A lab user dealing with a spills should find disposable gloves and eyewear available from stock.
 
 The spill kit contains
 
 - A bag of absorbent material such as sand
-- Spare gloves
+- Spare gloves, plastic apron, plastic over-shoe protectors
 - 2 autoclave bags
 - A disinfectant agent such as Dettol
 - Household bleach
