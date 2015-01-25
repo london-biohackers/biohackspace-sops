@@ -28,8 +28,7 @@ BioLab for media preparation.
 Responsibilities
 ================
 
-The operator of the autoclave is responsible for their own safety and that of others in the vicinity during its use. The particular risks presented in using this piece of equipment are primarily due to the high temperatures generated, steam and high pressures.  There is also a risk
-of the shattering of sealed glass containers.
+The operator of the autoclave is responsible for their own safety and that of others in the vicinity during its use. The particular risks presented in using this piece of equipment are primarily due to the high temperatures generated, steam and high pressures.  There is also a risk of the shattering of sealed glass containers if air is trapped.
 
 The operator is responsible for ensuring complete sterilization of containers, glassware, tubes, media and equipment. To ensure environmental microbes do not contaminate the target microbe strain.
 
