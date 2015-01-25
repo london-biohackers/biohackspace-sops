@@ -123,7 +123,11 @@ The load should be run under the Universal programme
 Resources
 =========
 | Melag EuroKlav Operating manual:
+| http://www.frankshospitalworkshop.com/equipment/documents/autoclaves/user_manuals/Melag_29-S_-_User_manual.pdf
+| Melag EuroKlav Reference manual:
 | http://www.eickemeyer.nl/images/products/2281/500032_Melag_Euroklav_23VS.pdf
+| Melag EuroKlav Fault Diagnosis flow:
+| http://www.frankshospitalworkshop.com/equipment/documents/autoclaves/service_manuals/Melag_EuroV-S_-_Fault_diagnosis.pdf
 
 .. |Screenshot-quick-programme.png| image:: images/Screenshot-quick-programme.png
    :target: /view/File:Screenshot-quick-programme.png
