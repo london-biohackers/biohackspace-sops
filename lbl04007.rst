@@ -26,7 +26,7 @@ Scope
 
 - The kill bin **is not suitable** for inactivation of GMOs, or plastics and
   consumables which may have come into contact with GMOs. The autoclave should
-  be used instead. See LBL04006, "Using the autoclave for waste deactivation".
+  be used instead. See `lbl04006 <lbl04006.rst>`__, "Using the autoclave for waste deactivation".
 
 - The bin is also not effective for the deactivation of bacterial spores. Waste
   that possibly contains spores should be autoclaved.
@@ -78,13 +78,14 @@ lid is properly closed by gently pulling on the lid, which should not
 open.
 
 Material in the Kill Bin should be fully immersed for at least 30 minutes 
-to ensure full inactivation.
+to ensure full inactivation. Solid waste should then be transferred to the
+general waste disposal.
 
 Emptying the Kill Bin (Solid waste)
 -----------------------------------
 
 The bleach solution decomposes over time at an exponential rate and this 
-process is accelerated if the waste is left sitting in the kill bin longer 
+process is accelerated if organic waste is left sitting in the kill bin longer 
 than is required for microbial inactivation.
 
 Once waste has been fully immersed in the kill bin for a minimum of 30 mins
@@ -115,14 +116,14 @@ drain. Gloves and eye protection should be worn at all times.
 Refilling the Kill Bin
 ----------------------
 
-The bleach in the Kill Bin should be replaced weekly.
+The bleach in the Kill Bin should be replaced weekly. This should be logged
+in the biolab day book.
 
 Typical household bleach contains 5.25% Sodium Hypochlorite. The solution 
-in the bin should be diluted from household bleach at a ratio of 40/60 water
-bleach to achieve a bleach concentration of >2% v/v. 
+in the bin should be diluted from household bleach at a ratio of 40/60 bleach/water to achieve a bleach concentration of ~2% v/v. 
  
 Bleach decomposes over time when exposed to air and so fresh bleach solution
-should be added to the kill bin before use. The use should check the log to see when
+should be added to the kill bin before use each day. The user should check the log to see when
 the kill bin solution was last changed and add 250-500ml depending on how
 fresh the solution is.
 
@@ -135,3 +136,5 @@ Resources
 | http://www.hse.gov.uk/pubns/indg136.pdf
 | Biohard safety proecures relating to bleach
 | https://extranet.fhcrc.org/EN/sections/ehs/hamm/chap5/section4.html
+| Inactivation (disinfection) processes
+| http://www.who.int/water_sanitation_health/dwq/en/watreatpath3.pdf
