@@ -58,18 +58,17 @@ Procedures
 |14981898526_ba6f7f597e_z.jpg|
 
 4. Set the wavelength for 600nm.
-5. Run a reference sample containing a media-only sample.
-6. run the sample cuvette.
+5. Run a sample containing a media only, this is used as a reference value.
+6. Run the sample that contains the sample to be tested.
 
-|15039312002_d6c95e29b8_k.jpg|
+|14853897630_c32b19fbe5_k.jpg|
 
 7. ensure the machine is switched off after use.
 
-.. |15039312002_d6c95e29b8_k.jpg| image:: images/15039312002_d6c95e29b8_k.jpg
+.. |14853897630_c32b19fbe5_k.jpg| image:: images/14853897630_c32b19fbe5_k.jpg
    :width: 200px
-   :target: /view/File:15039312002_d6c95e29b8_k.jpg
+   :target: /view/File:14853897630_c32b19fbe5_k.jpg
 .. |14848339375_cbdc28a2e6_z.jpg| image:: images/14848339375_cbdc28a2e6_z.jpg
-   :width: 200px
    :target: /view/File:14848339375_cbdc28a2e6_z.jpg
 .. |14981898526_ba6f7f597e_z.jpg| image:: images/14981898526_ba6f7f597e_z.jpg
    :width: 200px
