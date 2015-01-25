@@ -12,39 +12,110 @@ LBL08001 - Maintenance and Cleaning
 
 Purpose
 =======
-- general description of the SOP purpose
+
+Maintenance and Cleaning are fundemental to the operation of a safe and successful biolab.
+This document provides the daily, weekly and ad-hoc procedures that are in place.
 
 Scope
 =====
-- the extent of the SOP in terms of to what equipment and procedures it applies, also when and where (which will always be at all times in the LBL lab).
+- This SOP applies to all users and circumstances in the LBL biolab without exception.
+- In the case of specific instructions for Maintenance and Cleaning of equipment the user should defer to the relevant SOP for that particular piece of equipment.
 
 Responsibilities
 ================
-- for who is the procedure relevant, typically the operator and anyone present while it’s carried out, it’s also worth mentioning the risks here and that the operator is responsible for their health and safety and that of anyone else present during the procedure.
+
+- All users of the biolab are responsible for ensuring the clean and safe operation of equipment, lab furniture and tools.
+- The Biological Safety Officer has oversight and responsilibity to make final decisions regarding maintenance and cleaning.
+
+There are risks associated with certain cleaning products. Bleach is considered a hazardous sunstance and care must be taken to follow the instructions on the label.
+
+It is the user's responsibility to check the MSDS for any chemical or cleaning products they are using.
 
 Materials
 =========
-- Are there any extra materials required, in the case of operating an instrument, peice of equipment or in a molecular biology procedure this might be consumables, reagents, chemicals or other instrumentation, e.g pipets. Any special PPE can be mentioned here.
+
+The following items should be available in the lab
+
+- Nitrile gloves
+- plastic aprons
+- Eye protection from splashes
+- Plastic over-shoe protection
+- Cleaning products are available under the sink
+- A bucket and mops is available
+- Blue roll
 
 Related documents
 =================
-- Are other SOPs (or other documents within our framework) related to this procedure. If so then listing them here can be useful, for example the media prep SOP might be relevant when carrying out the transformation procedures and it saves time to link it here rather than describe the preparation of media in every procedure where it is used (bit like an include/import/use lol).
+| `lbl08003 - Handling spillage of micro-organisms <lbl08003.rst>`__ 
+| `lbl04007 - Using the Kill Bin <lbl04007.rst>`__ 
 
 Definitions
 ===========
-- Any useful glossary stuff
 
-e.g: SOP = Standard Operating Procedure
+BSO
+  Biological Safety Officer
+
+SOP
+  Standard Operating Procedure
 
 Procedures
 ==========
-- 7.1 The actual steps of the procedure go here …
 
-- - 7.1.1 They can be embeded/indented as much as is reasonably helpful to describe the procedure step by step
+Daily Maintenance and Cleaning procedures
+-----------------------------------------
 
-- 7.2 It should be written in such a way that it would help anyone new to the lab to perform the procedure without having prior expertise.
+Before starting work
+~~~~~~~~~~~~~~~~~~~~
+
+#. At the beginning of daily sessions the worktops should be cleared and any washing done and cleaned items returned to the shelves.
+#. Any unlabeled liquid media should be emptied into the kill bin
+#. Unknown/unlabeled and dirty glsasware should be autoclaved if in doubt.
+#. Work areas should be disinfected with Surgical spirit before work commences
+#. Bins should be emptied.
+
+After Completing work
+~~~~~~~~~~~~~~~~~~~~~
+
+#. All media and cultures should be labeled
+#. The Kill bin should be emptied of solid materials such as petri dishes. see `Emptying the kill bin <lbl04007.rst>`__ 
+#. Empty the geneal waste bins to the outside non-recyclables bin
+#. Do the washing up
+#. Make a record of the procedures and protocols in the lab day book.
+#. Ensure that electrical equipment is turned off, such as autoclave and RO pump
+
+
+
+Weekly cleaning and maintenance procedures
+------------------------------------------
+
+#. Mop the floor with a 10% bleach solution
+#. Refill the Bleach solution in the kill bin. See section `Refuilling the kill bin <lbl04007.rst>`__
+#. Stock check the levels of consumables
+   - nitrile gloves
+   - the spill kit
+   - bleach
+   
+#. 
+
+
+Ah-Hoc cleaning and maintenance procedures
+------------------------------------------
+
+Disposal of equipment
+~~~~~~~~~~~~~~~~~~~~~
+
+Equipment that is disposed of, due to obsoletion or damage etc, will need to be cleaned and decontaminated if it has come into contact with GMO. This procdure must be assessed and carried out on a case by case basis.
+
+Please contact the BSO if you plan to remove any equipment from the biolab.
+
+
+
+
+
+
 
 Resources
 =========
-- This is where eternal useful documention can be linked, much like the references section in any academic paper.
+| The SACGM Compendium of guidance Part 3: Containment and control of activities involving genetically modified microorganisms
+| http://www.hse.gov.uk/biosafety/gmo/acgm/acgmcomp/part3.pdf
 
