@@ -3,7 +3,7 @@ LBL08002 - Topping up RO water in the Autoclave
 ===============================================
 
 +----------------------+----------------------------+--------------------+
-| Author: Tom Hodder   | Approved by: S. Thompson   | SOP No. LBL04007   |
+| Author: Tom Hodder   | Approved by: S. Thompson   | SOP No. LBL08002   |
 +----------------------+----------------------------+--------------------+
 | Signed:              | Signed:                    | Effective from:    |
 +----------------------+----------------------------+--------------------+
@@ -23,6 +23,10 @@ This should be observed every time the autoclave indicates it requires a water f
 Responsibilities
 ================
 Care should be taken to not splash water when filling.
+
+The machine itself may be hot and steam released when opening the top vent.
+Gloves and eye protection should be worn when performing maintenance on the autoclave.
+
 
 Materials
 =========
@@ -48,7 +52,7 @@ indicate that a fill is required
    :alt: alternate text
    :align: right
 
-#. Water is added into the port on the top
+#. Water is added into the port on the top up to the fill level.
 
    |15890375165 a1b657a202 c.jpg|
 
