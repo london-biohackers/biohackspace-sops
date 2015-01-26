@@ -10,57 +10,63 @@ LBL03001 - Role of the BSO
 | Date:     | Date:                      | Last edited:       |
 +-----------+----------------------------+--------------------+
 
-1. Purpose
-==========
+Purpose
+=======
 
 The purpose here is to highlight the role that a BSO plays in maintaining and implementing the rules and guidelines laid out in the SOPs and associated documentation, including the government regulations on the use, disposal and containment of chemicals, biological organisms and waste.
 
 
-2. Scope
-========
+Scope
+=====
 
 All users of the LBL BioLab facility need to be aware of the BSO's role and be able to locate and communicate with the BSO should any queries regarding safe and correct lab usage arise.
 
-3. Responsibilities
-===================
+Responsibilities
+================
 
 It is the BSO's responsibility to carry out the roles outlined in this document and the Bio Lab user's responsibility to conform to the best practice as described within the SOPs and associated documentation and to follow any advice that the BSO gives where it pertains to safe and correct usage of the laboratory facility.
 
 
-4. Related documents
-====================
+Related documents
+=================
 
 All other SOPs documented here reflect the best practice approach to using the Bio Lab facility, if in any doubt please contact the BSO for clarification.
 
-5. Definitions
-==============
+Definitions
+===========
 
-BSO = Biological Safety Officer
-SOP = Standard Operating Procedure
-GMO = Genetically Modified Organism
-PPE = Personal Protective Equipment
+BSO
+  Biological Safety Officer
+SOP
+  Standard Operating Procedure
+GMO
+  Genetically Modified Organism
+PPE
+  Personal Protective Equipment
 
-6. Requirements
-===============
-
-6.1 The BSO exists to ensure that the SOPs described here are adhered to by users of the Bio Lab. The SOPs have been defined based on relevant regulations and advice sort from qualified third parties and reflect correct and safe lab usage.
-
-6.2 It is the BSO's responsibility to induct new users into the laboratory (as per [LBL02001]) so that other Bio Lab users are aware of the risks and correct approach involved in all typical Bio Lab procedures.
-
-6.3 It is the BSO's responsibility to maintain the SOP documentation by validating any edits and additions to these procedures for the purposes of clarity and consistency.
-
-6.4 Once a Bio Lab user has been inducted as in 6.2 above he/she becomes responsible for their own health and safety within the lab, and also that of other's who may also be working within the vicinity of his/her experiments/equipment. However, the BSO must ensure that appropriate PPE is available as required and that any request for further information or assistance is reasonably met.
-
-6.5 The BSO will seek confirmation that any work carried out involving the genetic modification of organisms within the lab conforms to the standards laid out in the HSE regulations for the use, disposal and containment of genetically modified organisms. For anyone undertaking this kind of work the SOPs covering correct handling and disposal of GMOs must be followed and the BSO will ensure that any projects involving GMOs will only commence if an adequate risk assessment has been completed and approved by the BSO and any external/third party GM advisors.
-
-6.5 The BSO should make sure that supply of consumables such as spill kit and first aid kit contents are maintained.
-
-6.6 Any breach of correct and safe behaviour within the lab should be communicated directly to the BSO.
-
-6.7 Ultimately, the BSO must determine whether a lab user is using the laboratory facility in a correct and safe manner and intervene when further advice or assistance is required. It is the BSO's responsibility to restrict access to the laboratory facility for any potential lab user until that potential lab user can consistently demonstrate knowledge of correct and safe laboratory usage.
-
-
-7. Resources
+Requirements
 ============
 
+#. The BSO exists to ensure that the SOPs described here are adhered to by users of the Bio Lab. The SOPs have been defined based on relevant regulations and advice sort from qualified third parties and reflect correct and safe lab usage.
+
+#. It is the BSO's responsibility to induct new users into the laboratory (as per `lbl02001 <lbl02001.pdf>`__) so that other Bio Lab users are aware of the risks and correct approach involved in all typical Bio Lab procedures.
+
+#.  It is the BSO's responsibility to maintain the SOP documentation by validating any edits and additions to these procedures for the purposes of clarity and consistency.
+
+#.  Once a Bio Lab user has been inducted as in 6.2 above he/she becomes responsible for their own health and safety within the lab, and also that of other's who may also be working within the vicinity of his/her experiments/equipment. However, the BSO must ensure that appropriate PPE is available as required and that any request for further information or assistance is reasonably met.
+
+#.  The BSO will seek confirmation that any work carried out involving the genetic modification of organisms within the lab conforms to the standards laid out in the HSE regulations for the use, disposal and containment of genetically modified organisms. For anyone undertaking this kind of work the SOPs covering correct handling and disposal of GMOs must be followed and the BSO will ensure that any projects involving GMOs will only commence if an adequate risk assessment has been completed and approved by the BSO and any external/third party GM advisors.
+
+#.  The BSO should make sure that supply of consumables such as spill kit and first aid kit contents are maintained.
+
+#.  Any breach of correct and safe behaviour within the lab should be communicated directly to the BSO.
+
+#.  Ultimately, the BSO must determine whether a lab user is using the laboratory facility in a correct and safe manner and intervene when further advice or assistance is required. It is the BSO's responsibility to restrict access to the laboratory facility for any potential lab user until that potential lab user can consistently demonstrate knowledge of correct and safe laboratory usage.
+
+
+Resources
+=========
+
+|  HSE: SACGM Compendium of guidance - Biological Safety Officers
+| http://www.hse.gov.uk/biosafety/gmo/acgm/acgmcomp/part1.pdf
 
