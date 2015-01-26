@@ -79,6 +79,7 @@ Before starting work
 After Completing work
 ~~~~~~~~~~~~~~~~~~~~~
 
+#. Clear the work surfaces of equipment and consumables. Don't leave things out.
 #. All media and cultures should be labeled.
 #. The Kill bin should be emptied of solid materials such as petri dishes. see `Emptying the kill bin <lbl04007.rst>`__ 
 #. Empty the geneal waste bins to the outside non-recyclables bin.
