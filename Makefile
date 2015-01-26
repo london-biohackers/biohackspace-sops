@@ -7,9 +7,17 @@ towikiname = $(basename $(shell echo $(1) | tr '[:lower:]' '[:upper:]'))
 
 cl1: $(addsuffix .pdf,$(DOCS))
 
+wiki: dirs $(addsuffix .wiki,$(DOCS))
+
 index.pdf: index.rst
 	pandoc $< -o $@
 
 %.pdf: %.rst
 	pandoc --number-sections $< -o $@
+	
+	
+%.wiki: %.rst	
+	pandoc -t mediawiki --number-sections $< -o mwiki/$@
 
+dirs:
+	mkdir -p mwiki
