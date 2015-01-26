@@ -2,13 +2,13 @@
 LBL08001 - Maintenance and Cleaning
 ===================================
 
-+-----------+----------------------------+--------------------+
-| Author:   | Approved by: S. Thompson   | SOP No. LBL08001   |
-+-----------+----------------------------+--------------------+
-| Signed:   | Signed:                    | Effective from:    |
-+-----------+----------------------------+--------------------+
-| Date:     | Date:                      | Last edited:       |
-+-----------+----------------------------+--------------------+
++----------------------+----------------------------+--------------------+
+| Author: Tom Hodder   | Approved by: S. Thompson   | SOP No. LBL08001   |
++----------------------+----------------------------+--------------------+
+| Signed:              | Signed:                    | Effective from:    |
++----------------------+----------------------------+--------------------+
+| Date:                | Date:                      | Last edited:       |
++----------------------+----------------------------+--------------------+
 
 Purpose
 =======
@@ -18,7 +18,7 @@ This document provides the daily, weekly and ad-hoc procedures that are in place
 
 Scope
 =====
-- This SOP applies to all users and circumstances in the LBL biolab without exception.
+- This SOP applies to all users in all circumstances in the LBL biolab without exception.
 - In the case of specific instructions for Maintenance and Cleaning of equipment the user should defer to the relevant SOP for that particular piece of equipment.
 
 Responsibilities
@@ -27,7 +27,7 @@ Responsibilities
 - All users of the biolab are responsible for ensuring the clean and safe operation of equipment, lab furniture and tools.
 - The Biological Safety Officer has oversight and responsilibity to make final decisions regarding maintenance and cleaning.
 
-There are risks associated with certain cleaning products. Bleach is considered a hazardous sunstance and care must be taken to follow the instructions on the label.
+There are risks associated with certain cleaning products. Bleach is considered a hazardous substance and care must be taken to follow the instructions on the label.
 
 It is the user's responsibility to check the MSDS for any chemical or cleaning products they are using.
 
@@ -36,13 +36,15 @@ Materials
 
 The following items should be available in the lab
 
-- Nitrile gloves
-- plastic aprons
-- Eye protection from splashes
+- Disposable Nitrile gloves in various sizes
+- Plastic aprons
+- Eye protection
 - Plastic over-shoe protection
 - Cleaning products are available under the sink
-- A bucket and mops is available
+- A Mop and bucket
 - Blue roll
+- Disinfectant
+- Sterilzing Spray
 
 Related documents
 =================
@@ -68,18 +70,19 @@ Before starting work
 ~~~~~~~~~~~~~~~~~~~~
 
 #. At the beginning of daily sessions the worktops should be cleared and any washing done and cleaned items returned to the shelves.
-#. Any unlabeled liquid media should be emptied into the kill bin
-#. Unknown/unlabeled and dirty glsasware should be autoclaved if in doubt.
-#. Work areas should be disinfected with Surgical spirit before work commences
 #. Bins should be emptied.
+#. Any unlabeled liquid media should be emptied into the kill bin.
+#. Unknown/unlabeled and dirty glassware left out should be autoclaved, washed and returned to shelves.
+#. Work areas should be disinfected with Surgical spirit before work commences.
+
 
 After Completing work
 ~~~~~~~~~~~~~~~~~~~~~
 
-#. All media and cultures should be labeled
+#. All media and cultures should be labeled.
 #. The Kill bin should be emptied of solid materials such as petri dishes. see `Emptying the kill bin <lbl04007.rst>`__ 
-#. Empty the geneal waste bins to the outside non-recyclables bin
-#. Do the washing up
+#. Empty the geneal waste bins to the outside non-recyclables bin.
+#. Do the washing up.
 #. Make a record of the procedures and protocols in the lab day book.
 #. Ensure that electrical equipment is turned off, such as autoclave and RO pump
 
@@ -91,11 +94,11 @@ Weekly cleaning and maintenance procedures
 #. Mop the floor with a 10% bleach solution
 #. Refill the Bleach solution in the kill bin. See section `Refuilling the kill bin <lbl04007.rst>`__
 #. Stock check the levels of consumables
-   - nitrile gloves
-   - the spill kit
-   - bleach
+   - Nitrile gloves
+   - The spill kit
+   - Bleach
+   - Sterilizing Spray
    
-#. 
 
 
 Ah-Hoc cleaning and maintenance procedures
