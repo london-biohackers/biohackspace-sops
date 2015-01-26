@@ -10,27 +10,30 @@ LBL03001 - Role of the BSO
 | Date:     | Date:                      | Last edited:       |
 +-----------+----------------------------+--------------------+
 
-== Role of the BSO ==
-
 1. Purpose
+==========
 
 The purpose here is to highlight the role that a BSO plays in maintaining and implementing the rules and guidelines laid out in the SOPs and associated documentation, including the government regulations on the use, disposal and containment of chemicals, biological organisms and waste.
 
 
 2. Scope
+========
 
 All users of the LBL BioLab facility need to be aware of the BSO's role and be able to locate and communicate with the BSO should any queries regarding safe and correct lab usage arise.
 
 3. Responsibilities
+===================
 
 It is the BSO's responsibility to carry out the roles outlined in this document and the Bio Lab user's responsibility to conform to the best practice as described within the SOPs and associated documentation and to follow any advice that the BSO gives where it pertains to safe and correct usage of the laboratory facility.
 
 
 4. Related documents
+====================
 
 All other SOPs documented here reflect the best practice approach to using the Bio Lab facility, if in any doubt please contact the BSO for clarification.
 
 5. Definitions
+==============
 
 BSO = Biological Safety Officer
 SOP = Standard Operating Procedure
@@ -38,6 +41,7 @@ GMO = Genetically Modified Organism
 PPE = Personal Protective Equipment
 
 6. Requirements
+===============
 
     6.1 The BSO exists to ensure that the SOPs described here are adhered to by users of the Bio Lab. The SOPs have been defined based on 
         relevant regulations and advice sort from qualified third parties and reflect correct and safe lab usage.
@@ -68,5 +72,6 @@ PPE = Personal Protective Equipment
 
 
 7. Resources
+============
 
 
