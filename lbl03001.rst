@@ -43,32 +43,21 @@ PPE = Personal Protective Equipment
 6. Requirements
 ===============
 
-    6.1 The BSO exists to ensure that the SOPs described here are adhered to by users of the Bio Lab. The SOPs have been defined based on 
-        relevant regulations and advice sort from qualified third parties and reflect correct and safe lab usage.
+6.1 The BSO exists to ensure that the SOPs described here are adhered to by users of the Bio Lab. The SOPs have been defined based on relevant regulations and advice sort from qualified third parties and reflect correct and safe lab usage.
 
-    6.2 It is the BSO's responsibility to induct new users into the laboratory (as per [LBL02001]) so that other Bio Lab users are aware of 
-        the risks and correct approach involved in all typical Bio Lab procedures.
+6.2 It is the BSO's responsibility to induct new users into the laboratory (as per [LBL02001]) so that other Bio Lab users are aware of the risks and correct approach involved in all typical Bio Lab procedures.
 
-    6.3 It is the BSO's responsibility to maintain the SOP documentation by validating any edits and additions to these procedures for the 
-        purposes of clarity and consistency.
+6.3 It is the BSO's responsibility to maintain the SOP documentation by validating any edits and additions to these procedures for the purposes of clarity and consistency.
 
-    6.4 Once a Bio Lab user has been inducted as in 6.2 above he/she becomes responsible for their own health and safety within    
-        the lab, and also that of other's who may also be working within the vicinity of his/her experiments/equipment. However, the BSO must
-        ensure that appropriate PPE is available as required and that any request for further information or assistance is reasonably met.
+6.4 Once a Bio Lab user has been inducted as in 6.2 above he/she becomes responsible for their own health and safety within the lab, and also that of other's who may also be working within the vicinity of his/her experiments/equipment. However, the BSO must ensure that appropriate PPE is available as required and that any request for further information or assistance is reasonably met.
 
-    6.5 The BSO will seek confirmation that any work carried out involving the genetic modification of organisms within the lab conforms to
-        the standards laid out in the HSE regulations for the use, disposal and containment of genetically modified organisms. For anyone
-        undertaking this kind of work the SOPs covering correct handling and disposal of GMOs must be followed and the BSO will ensure that 
-        any projects involving GMOs will only commence if an adequate risk assessment has been completed and approved by the BSO and any
-        external/third party GM advisors.
+6.5 The BSO will seek confirmation that any work carried out involving the genetic modification of organisms within the lab conforms to the standards laid out in the HSE regulations for the use, disposal and containment of genetically modified organisms. For anyone undertaking this kind of work the SOPs covering correct handling and disposal of GMOs must be followed and the BSO will ensure that any projects involving GMOs will only commence if an adequate risk assessment has been completed and approved by the BSO and any external/third party GM advisors.
 
-    6.5 The BSO should make sure that supply of consumables such as spill kit and first aid kit contents are maintained.
+6.5 The BSO should make sure that supply of consumables such as spill kit and first aid kit contents are maintained.
 
-    6.6 Any breach of correct and safe behaviour within the lab should be communicated directly to the BSO.
+6.6 Any breach of correct and safe behaviour within the lab should be communicated directly to the BSO.
 
-    6.7 Ultimately, the BSO must determine whether a lab user is using the laboratory facility in a correct and safe manner and intervene when
-        further advice or assistance is required. It is the BSO's responsibility to restrict access to the laboratory facility for any
-        potential lab user until that potential lab user can consistently demonstrate knowledge of correct and safe laboratory usage.
+6.7 Ultimately, the BSO must determine whether a lab user is using the laboratory facility in a correct and safe manner and intervene when further advice or assistance is required. It is the BSO's responsibility to restrict access to the laboratory facility for any potential lab user until that potential lab user can consistently demonstrate knowledge of correct and safe laboratory usage.
 
 
 7. Resources
