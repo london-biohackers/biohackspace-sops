@@ -14,12 +14,12 @@ LBL03001 - Role of the BSO
 
 1. Purpose
 
-**  The purpose here is to highlight the role that a BSO plays in maintaining and implementing the rules and guidelines laid out in the SOPs and associated documentation, including the government regulations on the use, disposal and containment of chemicals, biological organisms and waste.
+The purpose here is to highlight the role that a BSO plays in maintaining and implementing the rules and guidelines laid out in the SOPs and associated documentation, including the government regulations on the use, disposal and containment of chemicals, biological organisms and waste.
 
 
 2. Scope
 
-**  All users of the LBL BioLab facility need to be aware of the BSO's role and be able to locate and communicate with the BSO should any queries regarding safe and correct lab usage arise.
+All users of the LBL BioLab facility need to be aware of the BSO's role and be able to locate and communicate with the BSO should any queries regarding safe and correct lab usage arise.
 
 3. Responsibilities
 
