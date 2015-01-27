@@ -69,7 +69,7 @@ Refering to other sections within the same SOP:
 
 Refering to other SOPs (all other SOPs referenced should be listed in the related documents section):
 
-	`LBLXXXXX <LBLXXXXX.rst>`__
+	`LBLXXXXX <lblXXXXX.rst>`__
 
 Refering to other sections within a different SOP:
 

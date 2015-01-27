@@ -96,7 +96,7 @@ Items for principal investigator to consider in assessing the risks in projects 
 .. [#] http://www.hse.gov.uk/pubns/misc208.pdf
 
 Assessing the risks involved in the use of chemicals and reagents
-----------------------------------------------------------------
+-----------------------------------------------------------------
 The principal investigator should check whether a required chemical or reagent for their project is already in use in the laboratory.  If not they should locate the relevant MSDS for the substance in question and should pay particular attention to the following factors:
                 
 #. How should the substance be handled? Is particular PPE required, and is this available?
@@ -119,7 +119,7 @@ The BSO should propose an advisor with expertise in risk assessment relating to 
 
 Finalising a Written Risk Assessment
 ------------------------------------
-Once a risk assessment has been appropriately carried out according to the previous steps in this SOP and written up in a suitable manner, a copy should be submitted to the BSO for approval. On approval from the BSO physical and electronic copies of the written risk assessment should be filed in the appropriate places.
+Once a risk assessment has been appropriately carried out according to the previous steps in this SOP and written up in a suitable manner, a copy should be submitted to the BSO for approval. On approval from the BSO, physical and electronic copies of the written risk assessment should be filed in the appropriate places.
 
 Resources
 =========

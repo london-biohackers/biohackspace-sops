@@ -24,13 +24,13 @@ All users of the LBL BioLab facility need to be aware of the BSO's role and be a
 Responsibilities
 ================
 
-It is the BSO's responsibility to carry out the roles outlined in this document and the Bio Lab user's responsibility to conform to the best practice as described within the SOPs and associated documentation and to follow any advice that the BSO gives where it pertains to safe and correct usage of the laboratory facility.
+It is the BSO's responsibility to carry out the roles outlined in this document and the BioLab user's responsibility to conform to the best practice as described within the SOPs and associated documentation and to follow any advice that the BSO gives where it pertains to safe and correct usage of the laboratory facility.
 
 
 Related documents
 =================
 
-All other SOPs documented here reflect the best practice approach to using the Bio Lab facility, if in any doubt please contact the BSO for clarification.
+All other SOPs documented here reflect the best practice approach to using the BioLab facility, if in any doubt please contact the BSO for clarification.
 
 Definitions
 ===========
@@ -47,9 +47,9 @@ PPE
 Requirements
 ============
 
-#. The BSO exists to ensure that the SOPs described here are adhered to by users of the Bio Lab. The SOPs have been defined based on relevant regulations and advice sort from qualified third parties and reflect correct and safe lab usage.
+#. The BSO exists to ensure that the SOPs described here are adhered to by users of the BioLab. The SOPs have been defined based on relevant regulations and advice sort from qualified third parties and reflect correct and safe lab usage.
 
-#. It is the BSO's responsibility to induct new users into the laboratory (as per `lbl02001 <lbl02001.pdf>`__) so that other Bio Lab users are aware of the risks and correct approach involved in all typical Bio Lab procedures.
+#. It is the BSO's responsibility to induct new users into the laboratory (as per `LBL02001 <lbl02001.rst>`__) so that other Bio Lab users are aware of the risks and correct approach involved in all typical Bio Lab procedures.
 
 #.  It is the BSO's responsibility to maintain the SOP documentation by validating any edits and additions to these procedures for the purposes of clarity and consistency.
 
