@@ -42,7 +42,7 @@ Suitable hand and eye protection should be worn.
 
 Related documents
 =================
-| `lbl08002 - Topping up the RO water level in the Autoclave <lbl08002.rst>`__ 
+| `LBL08002 - Topping up the RO water level in the Autoclave <lbl08002.rst>`__ 
 
 Materials
 =========
@@ -50,7 +50,7 @@ The autoclave requires a supply of **RO water**. If the water supply
 level falls below a minimum level, the operator will be required to top
 up the system. The RO water is available from the tank under the
 counter. The autoclave is filled into the tank from the top of the
-machine. Please see `lbl08002 <lbl08002.rst>`__ 
+machine. Please see `LBL08002 <lbl08002.rst>`__ 
 for details of this procedure.
 
 The daily test, and waste deactivation runs of the autoclave require
@@ -95,7 +95,7 @@ the Universal Programme (28 psi/134 C/30 mins)
 
 - Transport the waste to the autoclave in a non-drip autoclavable tray
 - Ensure there are no folds in cloth materials
-- Ensure there aer no sealed containers which can trap air and present an explosion risk
+- Ensure there are no sealed containers which can trap air and present an explosion risk
 - Sterilize the load using the Universal Programme (28 psi/134 C/30 mins)
 - once the programme has run, the waste should be transferred to the chemical kill bin, for final deactivation
 

@@ -56,11 +56,11 @@ Biolab Rules and Guidelines
 
 6. Risk Assessments and requirements for PIs
 ============================================
-+------------------------------+-------------------------------------------------------------------------------------+
-| `LBL06001 <lbl06001.rst>`__: | Project Risk Assessment Procedure for Lab Users Proposing New Projects              |
-+------------------------------+-------------------------------------------------------------------------------------+
-| `LBL06002 <lbl06002.rst>`__: | Risk Assessment Procedure for Lab Users Proposing Transport of GMOs Outside the Lab |
-+------------------------------+-------------------------------------------------------------------------------------+
++------------------------------+------------------------------------------------------------------------+
+| `LBL06001 <lbl06001.rst>`__: | Project Risk Assessment Procedure for Lab Users Proposing New Projects |
++------------------------------+------------------------------------------------------------------------+
+| `LBL06002 <lbl06002.rst>`__: | Risk Assessment Procedure for Transport of GMOs Outside the Lab        |
++------------------------------+------------------------------------------------------------------------+
 
 7. Molecular Biology Procedures
 ===============================

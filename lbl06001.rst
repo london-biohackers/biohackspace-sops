@@ -3,13 +3,13 @@ LBL06001 - Risk Assessment Procedure for Lab Users Proposing New Projects
 =========================================================================
 
 
-+-----------+----------------------------+--------------------+
-| Author:   | Approved by: S. Thompson   | SOP No. LBL06001   |
-+-----------+----------------------------+--------------------+
-| Signed:   | Signed:                    | Effective from:    |
-+-----------+----------------------------+--------------------+
-| Date:     | Date:                      | Last edited:       |
-+-----------+----------------------------+--------------------+
++----------------------------+--------------------+
+| Approved by: S. Thompson   | SOP No. LBL06001   |
++----------------------------+--------------------+
+| Signed:                    | Effective from:    |
++----------------------------+--------------------+
+| Date:                      | Last edited:       |
++----------------------------+--------------------+
 
 Purpose
 =======
@@ -25,12 +25,13 @@ Ultimately, the laboratory user who initiates and undertakes the lab work (i.e. 
 
 Materials
 =========
-- Risk assessment checklist.
-- List of materials and methods for project work.
+List of materials and methods for project work.
 
 Related documents
 =================
-See also general lab induction LBL02001 based on initial lab risk assessment and other SOPs describing the best practice in terms of materials and methods to be used.
+| `London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__
+| SOPs relating to procedures used within the proposed project
+| `London Biohackspace CL1 Project Risk Assessment Template <cl1-risk-assessment-template.rst>`__
 
 Definitions
 ===========
@@ -79,7 +80,7 @@ Items for principal investigator to consider in assessing the risks in projects 
 
 #. In handling the organism the PI should consider any risks involved, for example what PPE will be required? What risks are involved in setting up and running fermentation and growth systems, for example. Particularly, are any non-standard procedures involved?
 
-#. The PI should consider any special requirements in disposing of the micro-organisms, in particular, cultures should be destroyed in the kill bin and any GM material should be autoclaved as well before disposal to ensure destruction.
+#. The PI should consider any special requirements in disposing of the micro-organisms, in particular, to ensure destruction of viable organisms, any GMO contaminated waste should be inactivated by autoclaving as detailed in `LBL04006 <lbl04006.rst>`__.
 
 #. The PI should consider the storage requirements for the organism, such as whether the organism will be stored frozen, in the fridge and/or at room temperature and if it requires any other special storage requirements.
 
@@ -109,6 +110,16 @@ The principal investigator should assess any risk presented by instrumentation o
 Some examples might be: does it operate at high temperature or pressure, produce wavelengths of light that might be harmful (i.e uses lasers or UV bulbs), does it operate at high voltages (e.g electroporator),produce high frequency sounds that might be damaging to hearing (e.g sonicators) or might be heavy or awkward to operate.
 
 The principal investigator should check the SOP documentation for information covering similar devices, and the information covering the laboratory safety induction which should cover most of the installed devices at the time of writing.
+
+Obtaining Advice on the Risk Assessment
+---------------------------------------
+It is required that the PI carrying out the risk assessment seek advice on the risk assessment from a person with expertise in risk assessment relating to contained use. The PI should consult the BSO about finding an appropriate advisor for advising on the risk assessment at hand.
+
+The BSO should propose an advisor with expertise in risk assessment relating to contained use from which the PI can obtain advice on the risk assessment. The advisor will likely be an individual selected from a register of individuals who have agreed to advise on projects taking place at the London Biohackspace BioLab.
+
+Finalising a Written Risk Assessment
+------------------------------------
+Once a risk assessment has been appropriately carried out according to the previous steps in this SOP and written up in a suitable manner, a copy should be submitted to the BSO for approval. On approval from the BSO physical and electronic copies of the written risk assessment should be filed in the appropriate places.
 
 Resources
 =========
