@@ -14,7 +14,7 @@ LBL04007 - Using the Kill Bin
 Purpose
 =======
 
-This describes the protocol for use of the Kill Bin, which is a beach-filled
+This describes the protocol for use of the Kill Bin, which is a bleach-filled
 container, located under or near the sink. This bin used for the chemical
 inactivation of waste media and consumables such as disposable lab plastics.
 
