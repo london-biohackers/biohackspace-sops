@@ -66,6 +66,8 @@ Requirements
 
 #. The BSO will seek confirmation that any work carried out involving the genetic modification of organisms within the lab conforms to `The Genetically Modified Organisms (Contained Use) Regulations 2014 <http://www.legislation.gov.uk/uksi/2014/1663/contents/made>`__ [#]_. For anyone undertaking this kind of work, the SOPs covering correct handling and disposal of GMOs must be followed and the BSO will ensure that any projects involving GMOs will only commence if an adequate risk assessment has been completed and approved by the BSO and any external/third party GM advisors.
 
+#. The BSO will maintain a record of all risk assessments carried out for projects in the BioLab. This record will be kept for at least ten years.
+
 #. The BSO should make sure that supply of consumables such as spill kit and first aid kit contents are maintained.
 
 #. Any breach of correct and safe behaviour within the lab should be communicated directly to the BSO or via the PI that has done the specific risk assessment in the case of GM containtment and handling issues for that project.
