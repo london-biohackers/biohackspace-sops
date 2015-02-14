@@ -26,7 +26,7 @@ Scope
 
 - The kill bin **is not suitable** for inactivation of GMOs, or plastics and
   consumables which may have come into contact with GMOs. The autoclave should
-  be used instead. See `lbl04006 <lbl04006.rst>`__, "Using the autoclave for waste deactivation".
+  be used instead. See `LBL04006 <lbl04006.rst>`__, "Using the autoclave for waste deactivation".
 
 - The bin is also not effective for the deactivation of bacterial spores. Waste
   that possibly contains spores should be autoclaved.
@@ -53,7 +53,7 @@ they will release chlorine gas.
 
 Related documents
 =================
-| `lbl04006 - Using the Autoclave for Waste Deactivation <lbl04006.rst>`__ 
+| `LBL04006 - Using the Autoclave for Waste Deactivation <lbl04006.rst>`__ 
 
 Materials
 =========
@@ -70,12 +70,9 @@ Procedures
 
 Disposing of waste in the Kill Bin
 ----------------------------------
-While wearing gloves, carefully open the lid of the bin. It is opened by
-turning the handle anticlockwise and pulling upwards. Place the items to
-be disposed of in the bin, and ensure that they are submerged. Replace
-the lid and close it by turning the handle clockwise. Ensure that the
-lid is properly closed by gently pulling on the lid, which should not
-open.
+#. While wearing gloves, carefully open the lid of the bin. It is opened by turning the handle anticlockwise and pulling upwards.
+#. Place the items to be disposed of in the bin, and ensure that they are submerged. 
+#. Replace the lid and close it by turning the handle clockwise. Ensure that the lid is properly closed by gently pulling on the lid, which should not open.
 
 Material in the Kill Bin should be fully immersed for at least 30 minutes 
 to ensure full inactivation. Solid waste should then be transferred to the

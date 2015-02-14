@@ -48,8 +48,8 @@ The following items should be available in the lab
 
 Related documents
 =================
-| `lbl08003 - Handling spillage of micro-organisms <lbl08003.rst>`__ 
-| `lbl04007 - Using the Kill Bin <lbl04007.rst>`__ 
+| `LBL08003 - Handling spillage of micro-organisms <lbl08003.rst>`__ 
+| `LBL04007 - Using the Kill Bin <lbl04007.rst>`__ 
 
 Definitions
 ===========
@@ -81,7 +81,7 @@ After Completing work
 
 #. Clear the work surfaces of equipment and consumables. Don't leave things out.
 #. All media and cultures should be labeled.
-#. The Kill bin should be emptied of solid materials such as petri dishes. see `Emptying the kill bin <lbl04007.rst>`__ 
+#. The Kill bin should be emptied of solid materials such as petri dishes. See `LBL04007 <lbl04007.rst>`__ 
 #. Empty the geneal waste bins to the outside non-recyclables bin.
 #. Do the washing up.
 #. Make a record of the procedures and protocols in the lab day book.
@@ -93,7 +93,7 @@ Weekly cleaning and maintenance procedures
 ------------------------------------------
 
 #. Mop the floor with a 10% bleach solution
-#. Refill the Bleach solution in the kill bin. See section `Refuilling the kill bin <lbl04007.rst>`__
+#. Refill the Bleach solution in the kill bin. See `LBL04007 <lbl04007.rst>`__
 #. Stock check the levels of consumables
    - Nitrile gloves
    - The spill kit

@@ -15,7 +15,7 @@ Purpose
 =======
 This describes the operation of the Melag EuroKlav
 29V-S. The autoclave is used for three main procedures with respect to
-equipment and waste that has been GMO exposed and the subsequent deactivation of the GMO by heat/pressure sterilization:
+equipment and waste that has been exposed to GMOs and the subsequent deactivation of the GMOs by heat/pressure sterilization:
 
 i) Sterilization of glassware and equipment for reuse
 ii) Deactivation of small volumes of liquid and solid media
@@ -23,8 +23,7 @@ iii) Deactivation of large loads of  liquid and solid media
 
 Scope
 =====
-This should be observed every time the autoclave is used within the LBL
-BioLab for GMO waste deactivation.
+This should be observed every time the autoclave is used within the London Biohackspace BioLab for GMO waste deactivation.
 
 Responsibilities
 ================
@@ -46,7 +45,7 @@ Related documents
 
 Materials
 =========
-The autoclave requires a supply of **RO water**. If the water supply
+The autoclave requires a supply of reverse osmosis purified water (**RO water**). If the water supply
 level falls below a minimum level, the operator will be required to top
 up the system. The RO water is available from the tank under the
 counter. The autoclave is filled into the tank from the top of the
@@ -116,7 +115,7 @@ The load should be run under the Universal programme
 
 - Transport the waste to the autoclave in a non-drip autoclavable tray
 - Ensure there are no folds in cloth materials
-- Ensure there aer no sealed containers which can trap air and present an explosion risk
+- Ensure there are no sealed containers which can trap air and present an explosion risk
 - Sterilize the load using the Universal Programme (28 psi/134 C/30 mins)
 - once the programme has run, the waste should be transferred to the chemical kill bin, for final deactivation
 

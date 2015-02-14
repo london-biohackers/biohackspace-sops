@@ -23,15 +23,11 @@ All SOPs can be found in the physical copy of the lab manual located in the lab 
 
 .. [#] http://github.com/london-biohackers/biohackspace-sops/blob/master/index.rst
 
-A list of MSDSes is available in `LBL0A002 <lbl0a002.rst>`__.
-
 Chemicals and Storage
 =====================
-The chemicals used and stored in the lab have individual storage requirements, detailed in `LBL0A001 <lbl0a001.rst>`__.
+The chemicals used and stored in the lab have individual storage requirements, the storage requirements will likely be listed on chemical's packaging. The Biological Safety Officer (BSO) should be consulted if the user is unsure of the correct means of storage for a particular chemical.
 
 Before using any chemical, laboratory users must familiarise themselves with the material safety data sheet (MSDS) for that chemical.
-
-A list of MSDSs is available in `LBL0A002 <lbl0a002.rst>`__
 
 Use of PPE
 ==========
@@ -116,7 +112,7 @@ Below are definitions reproduced from `The Genetically Modified Organisms (Conta
 
 If the user is unsure of whether a proposed project requires CL1, the BSO should be sought before any work on the project commences.
 
-A user must have an approved risk assessment for any work involving genetic modification before commencing this work. More information on the process of risk assessment and approval can be found in SOP `LBL06001 <lbl06001.rst>`__. A separate risk assessment must be performed and approved for transporting any GMO outside the laboratory (details in SOP `LBL06002 <lbl06002.rst>`__.
+A user must have an approved risk assessment for any work involving genetic modification before commencing this work. More information on the process of risk assessment and approval can be found in SOP `LBL06001 <lbl06001.rst>`__. A separate risk assessment must be performed and approved for transporting any GMO outside the laboratory (details in SOP `LBL06002 <lbl06002.rst>`__).
 
 CL1 activities must follow the procedures set out in `LBL05001 <lbl05001.rst>`__ and the further procedures set out in the approved risk assessment.
 
@@ -128,13 +124,13 @@ In general this includes:
 
 Refrigerator, Freezer and Sample Storage
 ========================================
-The refrigerator maintains samples and reagents at 4°C. Typically the refrigerator stores bacterial plates and reagents for transformation. Due to the presence of biomaterial in the refrigerator, caution should be exercised to prevent contamination of the user. The freezer contains longer term bacterial stocks and enzymatic reagents, maintaining a temperature of at least -20°C. Similar caution should be taken when using the freezer to avoid personal contamination. Specific details for the handling of the various chemicals and reagents stored in the freezer and refrigerator can be found in `LBL0A001 <lbl0a001.rst>`__ and `LBL0A002 <lbl0a002.rst>`__. Specific SOPs also cover the storage and recovery of frozen bacterial stocks and procedures requiring the usage of frozen and refrigerated reagents.
+The refrigerator maintains samples and reagents at 4°C. Typically the refrigerator stores bacterial plates and reagents for transformation. Due to the presence of biomaterial in the refrigerator, caution should be exercised to prevent contamination of the user. The freezer contains longer term bacterial stocks and enzymatic reagents, maintaining a temperature of at least -20°C. Similar caution should be taken when using the freezer to avoid personal contamination. Where specified by the reagent packaging or MSDS of a reagent, reagents may also be stored in the freezer and refrigerator. Specific SOPs also cover the storage and recovery of frozen bacterial stocks and procedures requiring the usage of frozen and refrigerated reagents.
 
 Microwave
 =========
-The microwave is a familiar device to probably all laboratory users and the standard precautions apply when using it. In particular, the handling of hot liquids and glassware may present the risk of burns and as such thermally resistant gloves are provided.
+The microwave is a familiar device to probably all laboratory users and the standard precautions apply when using it. In particular, the handling of hot liquids and glassware may present the risk of burns and, as such, thermally resistant gloves are provided.
 
-One of the primary uses of the microwave is heating of agarose for the casting of electrophoresis gels. Users should be aware that prior, possibly less careful, microwave operators may have inadvertently contaminated the microwave with biological material and/or hazardous chemicals (as described below), and as such operation of the microwave using gloves and goggles is recommended in any case.
+One of the primary uses of the microwave is heating of agarose for the casting of electrophoresis gels. Users should be aware that prior, possibly less careful, microwave operators may have inadvertently contaminated the microwave with biological material and/or hazardous chemicals, operation of the microwave using gloves and goggles is therefore recommended in any case.
 
 More information on microwave usage is available in `LBL04008 <lbl04008.rst>`__.
 
@@ -142,7 +138,7 @@ Spectrophotometer
 =================
 The spectrophotometer is a device that measure the absorbance of a given liquid sample at various wavelengths of light.
 
-Users should be aware that this system can generate light of harmful intensities in both ultraviolet and infra-red wavelengths. While most of the optical path and the bulbs required to generate this light is contained within the system, it is beamed into the sample measurement compartment of the device. As such the spectrophotometer should be operated only with the sample measurement compartment fully closed.
+Users should be aware that this system can generate light of harmful intensities in both ultraviolet and infra-red wavelengths. While most of the optical path and the bulbs required to generate this light is contained within the system, the light is beamed into the sample measurement compartment of the device. As such the spectrophotometer should be operated only with the sample measurement compartment fully closed.
 
 More information on spectrophotometer usage is available in `LBL04001 <lbl04001.rst>`__.
 
@@ -207,7 +203,7 @@ The autoclave is used to destroy any potential micro-organisms that might contam
 
 The main risks to the user are heat of the metal pressurised unit during sterilisation and any vented steam. It is recommended that the autoclave and contents are allowed to cool for a while before handling.
 
-The correct procedures for using the autoclave/steriliser to prepare media and destroy GM waste are described in the SOPs `LBL04002 <lbl04002.rst>`__, and `LBL04006 <lbl04006.rst>`__.
+The correct procedures for using the autoclave/steriliser to prepare media and destroy GM waste are described in `LBL04002 <lbl04002.rst>`__, and `LBL04006 <lbl04006.rst>`__.
 
 Sink area
 =========
@@ -229,9 +225,9 @@ Centrifuges
 ===========
 The laboratory has a number of centrifuges available for use.
 
-The Jouan is a larger device which can take 50ml tubes and larger containers if fitted with buckets and can spin up to 10,000 rpm (although documentation and instrument panel indicate higher rpm may be possible this particular unit appears to have a limit of 10,000.)
+The Jouan is a larger device which can take 50ml tubes and larger containers if fitted with buckets and can spin up to 10,000 RPM (although documentation and instrument panel indicate higher RPM may be possible this particular unit appears to have a limit of 10,000.)
 
-The Henle and MSE microcentaur can spin up to higher rpm with smaller samples. These centrifuges will not operate in their normal state without a closed lid, preventing the user from coming into contact with the moving parts. Users of these centrifuges must ensure that the lids are closed prior to operation.
+The Henle and MSE microcentaur can spin up to higher RPM with smaller samples. These centrifuges will not operate in their normal state without a closed lid, preventing the user from coming into contact with the moving parts. Users of these centrifuges must ensure that the lids are closed prior to operation.
 
 All centrifuges should be cleaned after use for the purpose of biosafety, containment and equipment maintenance.
 
