@@ -2,13 +2,13 @@
 LBL08003 - Handling spillage of micro-organisms
 ===============================================
 
-+-----------+----------------------------+--------------------+
-| Author:   | Approved by: S. Thompson   | SOP No. LBL08003   |
-+-----------+----------------------------+--------------------+
-| Signed:   | Signed:                    | Effective from:    |
-+-----------+----------------------------+--------------------+
-| Date:     | Date:                      | Last edited:       |
-+-----------+----------------------------+--------------------+
++----------------------------+--------------------+
+| Approved by: S. Thompson   | SOP No. LBL08003   |
++----------------------------+--------------------+
+| Signed:                    | Effective from:    |
++----------------------------+--------------------+
+| Date:                      | Last edited:       |
++----------------------------+--------------------+
 
 Purpose
 =======
@@ -58,7 +58,7 @@ The spill kit contains
 - A bag of absorbent material such as sand
 - Spare gloves, plastic apron, plastic over-shoe protectors
 - 2 autoclave bags
-- A disinfectant agent such as Dettol
+- Virkon powder
 - Household bleach
 - bucket for temporary containment of broken glass, absorbent material
 - Mop
@@ -81,19 +81,17 @@ SOP
 Procedures
 ==========
 
-Dealing with a spill
---------------------
+Dealing with a spill of micro-organisms
+---------------------------------------
 
 #. The operator should be wearing gloves and eye protection and a plastic apron.
-#. In the case of spillage, absorbant material should be placed around the spill to prevent further spread.
-#. The remainder of the spill should be absorbed into blue roll
-#. Once the spill is contained the absorbant material and blue rool should be placed in an autoclave bag and transported to the autoclave.
-#. A strong disinfectant such as dettol from the spill kit should be applied to the area of the spill and left for 10 minutes
-#. The dettol should be absorbed with blue roll and that material collected in autoclave bags.
-#. The waste and sand should then be treated as contaminated waste and processed as per `lbl04006 - Using the Autoclave for Waste Deactivation <lbl04006.rst>`__
-#. By now there should be no visible remaining spilled material. But a second stage of disinfection should be performed with bleach, leaving the bleach in contact with the contaminated area for 10 minutes.
-#. The bleach should be rinsed off with the mop and plenty of tap water the waste can be disposed of down the drain.
-#. The incident should be recorded in the day book
+#. Absorbant material should be placed around the spill to prevent further spread.
+#. Sprinkle Virkon powder liberally over spill.
+#. The remainder of the spill should be absorbed into blue roll.
+#. Once the spill is contained, the absorbant material and blue roll should be placed in an autoclave bag and transported to the autoclave.
+#. The waste and sand should then be treated as contaminated waste and processed as per `LBL04006 - Using the Autoclave for Waste Deactivation <lbl04006.rst>`__ .
+#. By now there should be no visible remaining spilled material. But a second stage of disinfection should be performed with 1% Virkon solution, leaving the Virkon in contact with the contaminated area for 10 minutes before wiping away with blue roll.
+#. The incident should be recorded in the day book.
 
 Restocking the spill kit
 ------------------------
