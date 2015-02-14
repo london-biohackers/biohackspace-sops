@@ -1,30 +1,34 @@
-==========================
-LBL03001 - Role of the BSO
-==========================
+==================================================================
+LBL03001 - Responsibilities of the BSO and Principal Investigators
+==================================================================
 
-+-----------+----------------------------+--------------------+
-| Author:   | Approved by: S. Thompson   | SOP No. LBL03001   |
-+-----------+----------------------------+--------------------+
-| Signed:   | Signed:                    | Effective from:    |
-+-----------+----------------------------+--------------------+
-| Date:     | Date:                      | Last edited:       |
-+-----------+----------------------------+--------------------+
++----------------------------+--------------------+
+| Approved by: S. Thompson   | SOP No. LBL03001   |
++----------------------------+--------------------+
+| Signed:                    | Effective from:    |
++----------------------------+--------------------+
+| Date:                      | Last edited:       |
++----------------------------+--------------------+
 
 Purpose
 =======
 
-The purpose here is to highlight the role that a BSO plays in maintaining and implementing the rules and guidelines laid out in the SOPs and associated documentation, including the government regulations on the use, disposal and containment of chemicals, biological organisms and waste.
+The purpose here is to highlight the role that a Biological Safety Officer (BSO) plays in maintaining and implementing the rules and guidelines laid out in the SOPs and associated documentation, including the government regulations on the use, disposal and containment of chemicals, biological organisms and waste.
+The intention here is also describe where responsibility lies in terms of ensuring that guidelines and regulations are followed in practice. Particularly where responsibility passes from BSO to the Principal Investigator (PI) when undertaking work within the laboratory.
 
 
 Scope
 =====
 
-All users of the London Biohackspace BioLab need to be aware of the BSO's role and be able to locate and communicate with the BSO should any queries regarding safe and correct lab usage arise.
+All users of the London Biohackspace BioLab need to be aware of the BSO's role and be able to locate and communicate with the BSO should any queries regarding safe and correct lab usage arise. 
+The scope also extends to any work carried out in the lab by any lab user and/or PI.
 
 Responsibilities
 ================
 
-It is the BSO's responsibility to carry out the roles outlined in this document and the BioLab user's responsibility to conform to the best practice as described within the SOPs and associated documentation and to follow any advice that the BSO gives where it pertains to safe and correct usage of the laboratory facility.
+It is the BSO's responsibility to carry out the BSO's role outlined in this document and the general BioLab user and/or PI's responsibility to conform to the best practice as described within the SOPs and associated documentation and to follow any advice that the BSO gives where it pertains to safe and correct usage of the laboratory facility.
+It is also the responsibility of the PI to oversee the handling of any GM organisms or material which are used as part of their project. It is also the responsibility of the PI to ensure that any other lab users who might be working on their project are made aware of and comply with the best practice for handling these organisms or material defined as a result of the risk assessment done by the PI before any work commences.
+Any infringement of these practices should be communicated to the BSO.
 
 Related documents
 =================
@@ -36,6 +40,8 @@ Definitions
 
 BSO
   Biological Safety Officer
+PI
+  Principal Investigator
 SOP
   Standard Operating Procedure
 GMO
@@ -46,11 +52,15 @@ PPE
 Requirements
 ============
 
-#. The BSO exists to ensure that the London Biohackspace SOPs are adhered to by users of the BioLab. The SOPs have been defined based on relevant regulations and advice sought from qualified third parties. The SOPs reflect correct and safe lab usage.
+#. The BSO exists to ensure that the London Biohackspace SOPs and therefore the required safety regulations are adhered to by users of the BioLab. The SOPs have been defined based on relevant regulations and advice sought from qualified third parties. The SOPs reflect correct and safe lab usage.
 
-#. It is the BSO's responsibility to induct new users into the laboratory (as per `LBL02001 <lbl02001.rst>`__) so that other Bio Lab users are aware of the risks and correct approach involved in all typical BioLab procedures.
+#. It is the BSO's responsibility to induct new users into the laboratory (as per `LBL02001 <lbl02001.rst>`__) so that other Bio Lab users are aware of the risks and correct approach involved in all typical BioLab procedures or to ensure that qualified trainers perform the induction which is ultimately checked and signed off by the BSO.
+
+#. The BSO will maintain a list of inducted individuals and trainers.
 
 #. It is the BSO's responsibility to maintain the SOP documentation by validating any edits and additions to these procedures for the purposes of clarity and consistency.
+
+#. The BSO will ensure that there is a regular review of all established SOPs to ensure that they stay up to date. This can occur on an ad-hoc basis but not less than annually.
 
 #. Once a BioLab user has been inducted (as per `LBL02001 <lbl02001.rst>`__), he/she becomes responsible for their own health and safety within the lab, and also that of other's who may also be working within the vicinity of his/her experiments/equipment. However, the BSO must ensure that appropriate PPE is available as required and that any request for further information or assistance is reasonably met.
 
@@ -58,7 +68,7 @@ Requirements
 
 #. The BSO should make sure that supply of consumables such as spill kit and first aid kit contents are maintained.
 
-#. Any breach of correct and safe behaviour within the lab should be communicated directly to the BSO.
+#. Any breach of correct and safe behaviour within the lab should be communicated directly to the BSO or via the PI that has done the specific risk assessment in the case of GM containtment and handling issues for that project.
 
 #. Ultimately, the BSO must determine whether a lab user is using the laboratory facility in a correct and safe manner and intervene when further advice or assistance is required. It is the BSO's responsibility to restrict access to the laboratory facility for any potential lab user until that potential lab user can consistently demonstrate knowledge of correct and safe laboratory usage.
 
