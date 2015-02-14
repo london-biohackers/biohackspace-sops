@@ -3,13 +3,13 @@ LBL04008 - Using The Microwave
 ==============================
 
 
-+----------------+----------------------------+--------------------+
-| Author: wzdd   | Approved by: S. Thompson   | SOP No. LBL04008   |
-+----------------+----------------------------+--------------------+
-| Signed:        | Signed:                    | Effective from:    |
-+----------------+----------------------------+--------------------+
-| Date:          | Date:                      | Last edited:       |
-+----------------+----------------------------+--------------------+
++----------------------------+--------------------+
+| Approved by: S. Thompson   | SOP No. LBL04008   |
++----------------------------+--------------------+
+| Signed:                    | Effective from:    |
++----------------------------+--------------------+
+| Date:                      | Last edited:       |
++----------------------------+--------------------+
 
 Purpose
 =======
@@ -46,7 +46,14 @@ Procedures
 General microwave use
 ---------------------
 
-TODO. For a template, see LBL04004.
+Treat the microwave as if it has been contaminated with ethidium bromide or
+another dangerous chemical (but note that you must not microwave ethidium
+bromide; see below). As such, always wear gloves when using the microwave.
+
+Use of goggles is strongly advised when heating liquids in the microwave.
+
+Thermal gloves must be used to remove heated containers from the microwave.
+Wear these gloves over your latex gloves.
 
 Using the microwave to prepare agarose gels
 -------------------------------------------
@@ -58,7 +65,7 @@ handling of containers of molten agarose solution, and goggles are
 strongly advised.
 
 Note that the microwave is not part of the Ethidium Bromide area. As
-such, Ethidium Bromide /must not/ be present in any solutions being
+such, Ethidium Bromide **must not** be present in any solutions being
 microwaved. For the preparation of Ethium Bromide-innoculated agarose
 gels, the molten gel should be moved to the Ethidium Bromide area prior
 to application of Ethidium Bromide.
@@ -66,5 +73,5 @@ to application of Ethidium Bromide.
 Resources
 =========
 
-TODO.
+None.
 
