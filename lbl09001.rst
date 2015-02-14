@@ -1,50 +1,89 @@
-==========================================================
-LBL07005 - Handling and Storage of Ethidium Bromide (EtBr)
-==========================================================
+=====================================================================
+LBL07005 - Handling, Storage, and Disposal of Ethidium Bromide (EtBr)
+=====================================================================
 
-
-+-----------+----------------------------+--------------------+
-| Author:   | Approved by: S. Thompson   | SOP No. LBL07005   |
-+-----------+----------------------------+--------------------+
-| Signed:   | Signed:                    | Effective from:    |
-+-----------+----------------------------+--------------------+
-| Date:     | Date:                      | Last edited:       |
-+-----------+----------------------------+--------------------+
++----------------------------+--------------------+
+| Approved by: S. Thompson   | SOP No. LBL09001   |
++----------------------------+--------------------+
+| Signed:                    | Effective from:    |
++----------------------------+--------------------+
+| Date:                      | Last edited:       |
++----------------------------+--------------------+
 
 Purpose
 =======
--  general description of the SOP purpose
+This SOP deals with storage, handling, and disposal of Ethidium Bromide (EtBr).
+EtBr is used for visualisation of agarose gels. It is a powerful mutagen and
+must be handled with care.
 
 Scope
 =====
-- the extent of the SOP in terms of to what equipment and procedures it applies, also when and where (which will always be at all times in the LBL lab).
+This SOP must be consulted whenever EtBr is used in the lab and its procedures must be followed.
 
 Responsibilities
 ================
-- for who is the procedure relevant, typically the operator and anyone present while it’s carried out, it’s also worth mentioning the risks here and that the operator is responsible for their health and safety and that of anyone else present during the procedure.
+The EtBr user is responsible for his or her own safety as well as the safety of
+others in the lab. In general, the EtBr user should be very careful with any
+solutions of EtBr or solutions containing EtBr.
 
 Materials
 =========
-- Are there any extra materials required, in the case of operating an instrument, peice of equipment or in a molecular biology procedure this might be consumables, reagents, chemicals or other instrumentation, e.g pipets. Any special PPE can be mentioned here.
+None.
 
 Related documents
 =================
-- Are other SOPs (or other documents within our framework) related to this procedure. If so then listing them here can be useful, for example the media prep SOP might be relevant when carrying out the transformation procedures and it saves time to link it here rather than describe the preparation of media in every procedure where it is used (bit like an include/import/use lol).
+None.
 
 Definitions
 ===========
-- Any useful glossary stuff
-
-e.g: SOP = Standard Operating Procedure
+None.
 
 Procedures
 ==========
-- 7.1 The actual steps of the procedure go here …
 
-- - 7.1.1 They can be embeded/indented as much as is reasonably helpful to describe the procedure step by step
+Gloves must be worn prior to any application involving EtBr, including opening
+vessels containing EtBr, innoculating molten agarose with EtBr, and disposal of
+EtBr-contaminated material.
 
-- 7.2 It should be written in such a way that it would help anyone new to the lab to perform the procedure without having prior expertise.
+The lab has a designated Ethidium Bromide area. All work with EtBr must be performed in this area.
+
+The Ethidium Bromide area contains glassware (such as flasks) which may be used
+for EtBr-related procedures. Do not add anything containing EtBr to any other
+glassware.
+
+Storage
+-------
+EtBr solution is stored in a screw-top bottle. The bottle must remain closed
+until EtBr is required, and must be re-closed immediately after use.
+
+Application of EtBr to Molten Agarose
+-------------------------------------
+EtBr may be added to molten agarose to make a gel suitable for visualisation.
+
+- Transfer the EtBr bottle to the EtBr area. Ready a pipette tip.
+- Remove the vessel containing molten agarose from the microwave.
+- Wait until the temperature of the molten agarose is below 60 degrees C.
+- Unscrew the EtBr bottle, pipette the required amount, immerse the pipette tip in the molten agarose, and add the EtBr.
+- Close the EtBr bottle.
+
+Disposal
+--------
+
+Solids -- including pipette tips, gloves, and gels -- contaminated with EtBr must be deactivated with bleach. After deactivation, the solids may be disposed of in regular lab waste.
+
+Liquids containing EtBr must be poured into the kill bin.
+
+Cleaning up
+-----------
+Any surfaces used during the procedure must be wiped with bleach.
+
+EtBr glassware may be cleaned with hot water and detergent and returned to the Ethidium Bromide area.
+
+Spillage procedure
+------------------
+TODO
 
 Resources
 =========
-- This is where eternal useful documention can be linked, much like the references section in any academic paper.
+None.
+
