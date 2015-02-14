@@ -3,19 +3,20 @@ LBL04006 - Using the Autoclave for Waste Deactivation
 =====================================================
 
 
-+----------------------+----------------------------+--------------------+
-| Author: Tom Hodder   | Approved by: S. Thompson   | SOP No. LBL04006   |
-+----------------------+----------------------------+--------------------+
-| Signed:              | Signed:                    | Effective from:    |
-+----------------------+----------------------------+--------------------+
-| Date:                | Date:                      | Last edited:       |
-+----------------------+----------------------------+--------------------+
++----------------------------+--------------------+
+| Approved by: S. Thompson   | SOP No. LBL04006   |
++----------------------------+--------------------+
+| Signed:                    | Effective from:    |
++----------------------------+--------------------+
+| Date:                      | Last edited:       |
++----------------------------+--------------------+
 
 Purpose
 =======
-This describes the operation of the Melag EuroKlav
-29V-S. The autoclave is used for three main procedures with respect to
-equipment and waste that has been exposed to GMOs and the subsequent deactivation of the GMOs by heat/pressure sterilization:
+This describes the operation of the Melag EuroKlav 29V-S. The autoclave is used
+for three main procedures with respect to equipment and waste that has been
+exposed to GMOs and the subsequent deactivation of the GMOs by heat/pressure
+sterilization:
 
 i) Sterilization of glassware and equipment for reuse
 ii) Deactivation of small volumes of liquid and solid media
@@ -61,7 +62,6 @@ Procedures
 
 Daily Test procedure
 --------------------
-
 Before using the autoclave for GMO deactivation, the operator
 should run a test strip through the autoclave to check that it is
 working to specification.

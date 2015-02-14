@@ -3,13 +3,13 @@ LBL04007 - Using the Kill Bin
 =============================
 
 
-+----------------+----------------------------+--------------------+
-| Author: wzdd   | Approved by: S. Thompson   | SOP No. LBL04007   |
-+----------------+----------------------------+--------------------+
-| Signed:        | Signed:                    | Effective from:    |
-+----------------+----------------------------+--------------------+
-| Date:          | Date:                      | Last edited:       |
-+----------------+----------------------------+--------------------+
++-----------------------------+--------------------+
+|  Approved by: S. Thompson   | SOP No. LBL04007   |
++-----------------------------+--------------------+
+|  Signed:                    | Effective from:    |
++-----------------------------+--------------------+
+|  Date:                      | Last edited:       |
++-----------------------------+--------------------+
 
 Purpose
 =======
@@ -26,10 +26,11 @@ Scope
 
 - The kill bin **is not suitable** for inactivation of GMOs, or plastics and
   consumables which may have come into contact with GMOs. The autoclave should
-  be used instead. See `LBL04006 <lbl04006.rst>`__, "Using the autoclave for waste deactivation".
+  be used instead. See `LBL04006 <lbl04006.rst>`__, "Using the autoclave for waste deactivation",
+  and `LBL05001 <lbl05001.rst>`__, "Containment Level One for Biolab Users".
 
 - The bin is also not effective for the deactivation of bacterial spores. Waste
-  that possibly contains spores should be autoclaved.
+  that may contains spores should be autoclaved.
 
 
 Responsibilities
@@ -72,14 +73,14 @@ Disposing of waste in the Kill Bin
 ----------------------------------
 #. While wearing gloves, carefully open the lid of the bin. It is opened by turning the handle anticlockwise and pulling upwards.
 #. Place the items to be disposed of in the bin, and ensure that they are submerged. 
-#. Replace the lid and close it by turning the handle clockwise. Ensure that the lid is properly closed by gently pulling on the lid, which should not open.
+#. Replace the lid and lock it by turning the handle clockwise. Ensure that the lid is locked by gently pulling on it.
 
 Material in the Kill Bin should be fully immersed for at least 30 minutes 
 to ensure full inactivation. Solid waste should then be transferred to the
 general waste disposal.
 
-Emptying the Kill Bin (Solid waste)
------------------------------------
+Emptying the Kill Bin of solid waste
+------------------------------------
 
 The bleach solution decomposes over time at an exponential rate and this 
 process is accelerated if organic waste is left sitting in the kill bin longer 
@@ -91,24 +92,23 @@ left standing overnight** as this reduces the effectiveness of the bleach.
 
 
 
-Emptying the Kill Bin (Bleach)
-------------------------------
+Emptying the Kill Bin of liquid waste
+-------------------------------------
 
-The bleach bin **should not** be emptied into the sink in the biolab as it does
+The bleach bin **must not** be emptied into the sink in the biolab as it does
 not exit directly to the waste pipe, but instead to a storage tank where 
 gases can form.
 
 The bin consists of kill liquid (the water/bleach mix) and solid matter. 
 The solid matter should be disposed of into the general waste before 
-the bleach is removed.
+the bleach is removed (see above).
 
 Bleach is considered a hazardous substance under COSHH and therefore the
 container is marked with a warning label. The warnings should be adhered to for
 all use of household bleach in the biolab.
 
-The bleach bin should be emptied into a toilet or into an external open
-drain. Gloves and eye protection should be worn at all times.
-
+Empty liquid waste into a toilet or into an external open drain. Gloves and eye
+protection should be worn at all times.
 
 Refilling the Kill Bin
 ----------------------

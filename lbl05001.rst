@@ -64,6 +64,8 @@ Inactivation of GMMs
 --------------------
 All waste (e.g. disposable gloves, cultures of GMMs) produced during a CL1 project must be sterilised using the on-site autoclave according to the standard procedure detailed in `LBL04006 <lbl04006.rst>`__. The user should pay special attention to ensure the autoclave has undergone the daily test procedure.
 
+After autoclaving, liquid waste may be disposed of down the drain, and solid waste may be disposed of as standard lab waste.
+
 Safe storage of GMOs
 --------------------
 GMOs should be stored in an appropriate area of the BioLab in such a way as to minimise the risk of contamination. The BioLab is equipped with door access control in order to enable restriction of access to only trained users when appropriate.
