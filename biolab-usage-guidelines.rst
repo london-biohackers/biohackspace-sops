@@ -57,7 +57,7 @@ The `Approved List of Biological Agents <http://www.hse.gov.uk/pubns/misc208.pdf
 
 If the user is unsure of the hazard group of a biological agent, the BSO should be sought before any work with the agent commences.
 
-The kind of biological organisms with which we typically work in the laboratory include i) non-pathogenic strains of E. coli (such as DH5 alpha), ii) cellulose producing gram-negative bacteria such as *Gluconacetobacter*, iii) non-toxic *Dinoflagelate* species, iv) brewer’s yeast (*Saccharomices cereviscae*) and, v) algal micro-organisms from non-toxic environmental samples.
+The kind of biological organisms with which we typically work in the laboratory include i) non-pathogenic strains of Escher. coli (such as DH5 alpha), ii) cellulose producing gram-negative bacteria such as *Gluconacetobacter*, iii) non-toxic *Dinoflagelate* species, iv) brewer’s yeast (*Saccharomices cereviscae*) and, v) algal micro-organisms from non-toxic environmental samples.
 
 These organisms are considered to be hazard group 1 and do not themselves require working containment level 1 (CL1) standards, however, in addition to rules 2 and 3 from the `BioLab Rules <biolab-rules.rst>`__, the following good microbiological practice (GMP) should be employed when working with **any** micro-organisms.
 
@@ -71,7 +71,9 @@ To avoid the risk of ingesting contaminated material do not mouth pipette or app
 
 Procedures should be performed in a manner that minimizes the creation of aerosols.
 
-Clean and decontaminate work surfaces with a suitable disinfectant at the end of the day and after any spill of potentially hazardous materials.
+Clean and decontaminate work surfaces with a suitable disinfectant at the end of the day. Our standard disinfectant is 1% virkon solution.
+
+After any spillage of liquid containing biological agents, the procedures for dealing with spillages, as set out in `LBL08003 <lbl08003.rst>`__, should be followed.
 
 Biohazardous material must be clearly marked with a biohazard symbol.
 
