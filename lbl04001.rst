@@ -67,14 +67,12 @@ Procedures
 
 .. |14853897630_c32b19fbe5_k.jpg| image:: images/14853897630_c32b19fbe5_k.jpg
    :width: 200px
-   :target: /view/File:14853897630_c32b19fbe5_k.jpg
 .. |14848339375_cbdc28a2e6_z.jpg| image:: images/14848339375_cbdc28a2e6_z.jpg
-   :target: /view/File:14848339375_cbdc28a2e6_z.jpg
+   :width: 200px
 .. |14981898526_ba6f7f597e_z.jpg| image:: images/14981898526_ba6f7f597e_z.jpg
    :width: 200px
-   :target: /view/File:14981898526_ba6f7f597e_z.jpg
 .. |14794946891_a616cdbabe_z.jpg| image:: images/14794946891_a616cdbabe_z.jpg
-   :target: /view/File:14794946891 a616cdbabe z.jpg
+   :width: 200px
 
 Resources
 =========
