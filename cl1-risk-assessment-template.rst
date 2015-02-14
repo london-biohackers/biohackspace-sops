@@ -5,7 +5,7 @@ London Biohackspace CL1 Project Risk Assessment Template
 Tick all boxes that describe your project and fill in further details where prompted:
 
 +-----------------------------------------------------------------------------------------------------+
-| This project will use the following organism(s):                                                    |
+|       This project will use the following organism(s):                                              |
 +-----+-----------------------------------------------------------------------------------------------+
 | [ ] | All the organisms being used in this project are not classified as a hazard group 2, 3 or 4   |
 |     | organism according to the                                                                     |
@@ -45,7 +45,7 @@ Tick all boxes that describe your project and fill in further details where prom
 |       Details of any non-standard GMO disposal procedure:                                           |
 |                                                                                                     |
 +-----+-----------------------------------------------------------------------------------------------+
-| [ ] | The organisms used in this project will be stored in BioLab in the refrigerator, freezer or  |
+| [ ] | The organisms used in this project will be stored in BioLab in the refrigerator, freezer or   |
 |     | in an appropriate place at room temperature. The door to the lab will be locked to prevent    |
 |     | unauthorised access to the BioLab during storage.                                             |
 +-----+-----------------------------------------------------------------------------------------------+
