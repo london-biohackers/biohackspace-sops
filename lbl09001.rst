@@ -36,7 +36,7 @@ The lab has a designated Ethidium Bromide area. All work with EtBr must be
 performed in this area.
 
 Gloves must be worn prior to any application involving EtBr, including opening
-vessels containing EtBr, innoculating molten agarose with EtBr, and disposal of
+vessels containing EtBr, adding EtBr to molten agarose, and disposal of
 EtBr-contaminated material.
 
 The Ethidium Bromide area contains glassware (such as flasks) which may be used
@@ -65,7 +65,7 @@ Disposal
 --------
 Solids -- including pipette tips, gloves, and gels -- contaminated with EtBr must be deactivated with bleach. After deactivation, the solids may be disposed of in regular lab waste.
 
-Liquids containing EtBr must be poured into the kill bin.
+Liquids containing EtBr must be poured into the kill bin, which contains a bleach solution. See `LBL04007 <lbl04007.rst>`__, "Using the Kill Bin", for more information.
 
 Cleaning up
 -----------
@@ -89,9 +89,9 @@ EtBr glows orange under UV.
 
 Decontaminate the area by soaking a paper towel in decontamination solution and
 applying it thoroughly to the area. Clean the area using fresh towels. Wash the
-area by soaking a paper towel in water and applying it thoroughly. Repeating
+area by soaking a paper towel in water and applying it thoroughly. Repeat
 this washing procedure five times. Visualise area under UV light again to
-ensure that all EtBr has been removed.
+ensure that all EtBr has been removed, and repeat the procedure if any remains.
 
 Soak all towels in decontamination solution for one hour. Neutralise the
 decontamination solution with sodium bicarbonate. The towels may then be
