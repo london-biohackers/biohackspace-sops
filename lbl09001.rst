@@ -1,5 +1,5 @@
 =====================================================================
-LBL07005 - Handling, Storage, and Disposal of Ethidium Bromide (EtBr)
+LBL09001 - Handling, Storage, and Disposal of Ethidium Bromide (EtBr)
 =====================================================================
 
 +----------------------------+--------------------+
@@ -16,6 +16,10 @@ This SOP deals with storage, handling, and disposal of Ethidium Bromide (EtBr).
 EtBr is used for visualisation of agarose gels. It is a powerful mutagen and
 must be handled with care.
 
+The Biohackspace's EtBr stock is a solution created from 1 gram EtBr combined
+with 100 ml of TBE. The Biohackspace does not stock EtBr at any higher
+concentration, and in particular does not stock granular (powdered) pure EtBr.
+
 Scope
 =====
 This SOP must be consulted whenever EtBr is used in the lab and its procedures must be followed.
@@ -26,26 +30,14 @@ The EtBr user is responsible for his or her own safety as well as the safety of
 others in the lab. In general, the EtBr user should be very careful with any
 solutions of EtBr or solutions containing EtBr.
 
-Materials
-=========
-None.
-
-Related documents
-=================
-None.
-
-Definitions
-===========
-None.
-
 Procedures
 ==========
+The lab has a designated Ethidium Bromide area. All work with EtBr must be
+performed in this area.
 
 Gloves must be worn prior to any application involving EtBr, including opening
 vessels containing EtBr, innoculating molten agarose with EtBr, and disposal of
 EtBr-contaminated material.
-
-The lab has a designated Ethidium Bromide area. All work with EtBr must be performed in this area.
 
 The Ethidium Bromide area contains glassware (such as flasks) which may be used
 for EtBr-related procedures. Do not add anything containing EtBr to any other
@@ -66,9 +58,11 @@ EtBr may be added to molten agarose to make a gel suitable for visualisation.
 - Unscrew the EtBr bottle, pipette the required amount, immerse the pipette tip in the molten agarose, and add the EtBr.
 - Close the EtBr bottle.
 
+Note that the EtBr must be applied after the agarose has been heated. This is
+to prevent contamination of the microwave.
+
 Disposal
 --------
-
 Solids -- including pipette tips, gloves, and gels -- contaminated with EtBr must be deactivated with bleach. After deactivation, the solids may be disposed of in regular lab waste.
 
 Liquids containing EtBr must be poured into the kill bin.
@@ -81,7 +75,34 @@ EtBr glassware may be cleaned with hot water and detergent and returned to the E
 
 Spillage procedure
 ------------------
-TODO
+If EtBr stock or a solution containing EtBr stock is spilled, first absorb the
+spill with paper towels and dispose of the towels in the kill bin. Repeat the
+procedure if necessary to remove all liquid EtBr.
+
+Prepare a decontamination solution consisting of 20ml hypophosphorous acid
+(50%), 4.2g sodium nitrite, and 300ml water. Note that this solution must be
+prepared immediately prior to use and must not be stored. This solution is
+acidic so care must be taken.
+
+Wearing UV-proof googles, visualise the extent of the spill using 300nm UV light.
+EtBr glows orange under UV.
+
+Decontaminate the area by soaking a paper towel in decontamination solution and
+applying it thoroughly to the area. Clean the area using fresh towels. Wash the
+area by soaking a paper towel in water and applying it thoroughly. Repeating
+this washing procedure five times. Visualise area under UV light again to
+ensure that all EtBr has been removed.
+
+Soak all towels in decontamination solution for one hour. Neutralise the
+decontamination solution with sodium bicarbonate. The towels may then be
+disposed of in general waste and the decontamination solution poured down a
+sink along with copious amounts of water.
+
+If the spill covered a large area (for example, it covers multiple bench areas
+or spills onto the floor or equipment), if the spill involves more than 10ml of
+liquid EtBr stock, or if if you are not certain that the spill has been
+entirely decontaminated, you should notify the primary investigator, who should
+notify the BSO.
 
 Resources
 =========
