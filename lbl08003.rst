@@ -67,7 +67,7 @@ The spill kit contains
 Related documents
 =================
 | `London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__
-| `lbl04006 - Using the Autoclave for Waste Deactivation <lbl04006.rst>`__ 
+| `LBL04006 - Using the Autoclave for Waste Deactivation <lbl04006.rst>`__ 
 
 Definitions
 ===========

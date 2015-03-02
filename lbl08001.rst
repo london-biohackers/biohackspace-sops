@@ -2,18 +2,18 @@
 LBL08001 - Maintenance and Cleaning
 ===================================
 
-+----------------------+----------------------------+--------------------+
-| Author: Tom Hodder   | Approved by: S. Thompson   | SOP No. LBL08001   |
-+----------------------+----------------------------+--------------------+
-| Signed:              | Signed:                    | Effective from:    |
-+----------------------+----------------------------+--------------------+
-| Date:                | Date:                      | Last edited:       |
-+----------------------+----------------------------+--------------------+
++----------------------------+--------------------+
+| Approved by: S. Thompson   | SOP No. LBL08001   |
++----------------------------+--------------------+
+| Signed:                    | Effective from:    |
++----------------------------+--------------------+
+| Date:                      | Last edited:       |
++----------------------------+--------------------+
 
 Purpose
 =======
 
-Maintenance and Cleaning are fundemental to the operation of a safe and successful biolab.
+Maintenance and Cleaning are fundamental to the operation of a safe and successful biolab.
 This document provides the daily, weekly and ad-hoc procedures that are in place.
 
 Scope
@@ -25,7 +25,7 @@ Responsibilities
 ================
 
 - All users of the biolab are responsible for ensuring the clean and safe operation of equipment, lab furniture and tools.
-- The Biological Safety Officer has oversight and responsilibity to make final decisions regarding maintenance and cleaning.
+- The Biological Safety Officer has oversight and responsibility to make final decisions regarding maintenance and cleaning.
 
 There are risks associated with certain cleaning products. Bleach is considered a hazardous substance and care must be taken to follow the instructions on the label.
 
@@ -44,7 +44,7 @@ The following items should be available in the lab
 - A Mop and bucket
 - Blue roll
 - Disinfectant
-- Sterilzing Spray
+- Sterilizing Spray
 
 Related documents
 =================
@@ -71,8 +71,8 @@ Before starting work
 
 #. At the beginning of daily sessions the worktops should be cleared and any washing done and cleaned items returned to the shelves.
 #. Bins should be emptied.
-#. Any unlabeled liquid media should be emptied into the kill bin.
-#. Unknown/unlabeled and dirty glassware left out should be autoclaved, washed and returned to shelves.
+#. Any unlabelled liquid media should be emptied into the kill bin.
+#. Unknown/unlabelled and dirty glassware left out should be autoclaved, washed and returned to shelves.
 #. Work areas should be disinfected with Surgical spirit before work commences.
 
 
@@ -80,14 +80,11 @@ After Completing work
 ~~~~~~~~~~~~~~~~~~~~~
 
 #. Clear the work surfaces of equipment and consumables. Don't leave things out.
-#. All media and cultures should be labeled.
-#. The Kill bin should be emptied of solid materials such as petri dishes. See `LBL04007 <lbl04007.rst>`__ 
-#. Empty the geneal waste bins to the outside non-recyclables bin.
+#. All media and cultures should be labelled.
+#. Empty the general waste bins to the outside non-recyclables bin.
 #. Do the washing up.
 #. Make a record of the procedures and protocols in the lab day book.
 #. Ensure that electrical equipment is turned off, such as autoclave and RO pump
-
-
 
 Weekly cleaning and maintenance procedures
 ------------------------------------------
@@ -95,6 +92,7 @@ Weekly cleaning and maintenance procedures
 #. Mop the floor with a 10% bleach solution
 #. Refill the Bleach solution in the kill bin. See `LBL04007 <lbl04007.rst>`__
 #. Stock check the levels of consumables
+
    - Nitrile gloves
    - The spill kit
    - Bleach
@@ -102,20 +100,15 @@ Weekly cleaning and maintenance procedures
    
 
 
-Ah-Hoc cleaning and maintenance procedures
+Ad-Hoc cleaning and maintenance procedures
 ------------------------------------------
 
 Disposal of equipment
 ~~~~~~~~~~~~~~~~~~~~~
 
-Equipment that is disposed of, due to obsoletion or damage etc, will need to be cleaned and decontaminated if it has come into contact with GMO. This procdure must be assessed and carried out on a case by case basis.
+Equipment that is disposed of, due to obsoletion or damage etc, will need to be cleaned and decontaminated if it has come into contact with GMO. This procedure must be assessed and carried out on a case by case basis.
 
-Please contact the BSO if you plan to remove any equipment from the biolab.
-
-
-
-
-
+Please contact the BSO if you plan to remove any equipment from the BioLab.
 
 
 Resources
