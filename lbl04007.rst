@@ -14,9 +14,9 @@ LBL04007 - Using the Kill Bin
 Purpose
 =======
 
-This describes the protocol for use of the Kill Bin, which is a bleach-filled
+This describes the protocol for use of the Kill Bin, which is a Virkon filled
 container, located under or near the sink. This bin used for the chemical
-inactivation of waste media and consumables such as disposable lab plastics.
+inactivation of waste media and contaminated consumables such as disposable lab plastics.
 
 Scope
 =====
@@ -30,7 +30,7 @@ Scope
   and `LBL05001 <lbl05001.rst>`__, "Containment Level One for Biolab Users".
 
 - The bin is also not effective for the deactivation of bacterial spores. Waste
-  that may contains spores should be autoclaved.
+  that may contain spores should be autoclaved.
 
 
 Responsibilities
@@ -44,13 +44,7 @@ the surfaces of the bin may have been contaminated by waste from a
 previous disposal, the bin should used with gloved hands.
 
 Suitable hand and eye protection should be worn, particularly when moving and
-refilling the kill bin with bleach.
-
-Bleach is corrosive to stainless steel, therefore bleach should not be left
-in contact with utensils or sink surfaces.
-
-**WARNING:** Do not mix chemicals such as acids into the kill bin solution as
-they will release chlorine gas.
+refilling the kill bin with Virkon.
 
 Related documents
 =================
@@ -58,71 +52,55 @@ Related documents
 
 Materials
 =========
-The bin requires a mix of tap water/household bleach. See the `Refilling the Kill Bin <#emptying-the-kill-bin>`__ section below for more details.
 
-Definitions
-===========
-COSHH
-	Control of substances haxardous to health
-
+- Virkon Powder
 
 Procedures
 ==========
 
 Disposing of waste in the Kill Bin
 ----------------------------------
+
+Ensure the Kill Bin has been refilled with fresh Virkon solution in the past 7 days and that the colour of the solution is pink.
+
 #. While wearing gloves, carefully open the lid of the bin. It is opened by turning the handle anticlockwise and pulling upwards.
-#. Place the items to be disposed of in the bin, and ensure that they are submerged. 
+#. Place any solid waste to be disposed of in the bin, and ensure it is submerged.
+#. Pour any liquid waste into the bin and add approximately 1g of Virkon powder for every 100ml of liquid waste added.
 #. Replace the lid and lock it by turning the handle clockwise. Ensure that the lid is locked by gently pulling on it.
 
-Material in the Kill Bin should be fully immersed for at least 30 minutes 
-to ensure full inactivation. Solid waste should then be transferred to the
-general waste disposal.
+Material in the Kill Bin should be fully immersed for at least 30 minutes to ensure full inactivation.
 
 Emptying the Kill Bin of solid waste
 ------------------------------------
 
-The bleach solution decomposes over time at an exponential rate and this 
-process is accelerated if organic waste is left sitting in the kill bin longer 
-than is required for microbial inactivation.
+If the kill bin is full of solid waste or the bin requires refilling the solid waste must be removed.
 
-Once waste has been fully immersed in the kill bin for a minimum of 30 mins
-it should be drained and removed to the general waste. Waste should **not be
-left standing overnight** as this reduces the effectiveness of the bleach.
-
-
+Once waste has been fully immersed in the kill bin for a minimum of 30 mins it should be drained and removed to the general waste.
 
 Emptying the Kill Bin of liquid waste
 -------------------------------------
 
-The bleach bin **must not** be emptied into the sink in the biolab as it does
+The solution in  **must not** be emptied into the sink in the biolab as it does
 not exit directly to the waste pipe, but instead to a storage tank where 
 gases can form.
 
-The bin consists of kill liquid (the water/bleach mix) and solid matter. 
+The bin consists of 1% Virkon solution and solid matter. 
 The solid matter should be disposed of into the general waste before 
-the bleach is removed (see above).
+the liquid is removed (see above).
 
-Bleach is considered a hazardous substance under COSHH and therefore the
-container is marked with a warning label. The warnings should be adhered to for
-all use of household bleach in the biolab.
-
-Empty liquid waste into a toilet or into an external open drain. Gloves and eye
+Empty the liquid into a toilet or into an external open drain. Gloves and eye
 protection should be worn at all times.
 
 Refilling the Kill Bin
 ----------------------
 
-The bleach in the Kill Bin should be replaced weekly. This should be logged
-in the biolab day book.
+The 1% Virkon solution in the Kill Bin should be replaced every 7 days or sooner if the solution is no longer pink in colour. This should be logged in the biolab day book.
 
-Typical household bleach contains 5.25% Sodium Hypochlorite. The solution 
-in the bin should be diluted from household bleach at a ratio of 40/60 bleach/water to achieve a bleach concentration of ~2% v/v. 
- 
-Bleach decomposes over time when exposed to air and so fresh bleach solution
-should be added to the kill bin before use each day. The user should check the log to see when
-the kill bin solution was last changed and add 250-500ml depending on how
-fresh the solution is.
+Labcoat, gloves and eyeprotection must be worn during the refilling procedure. Virkon powder can be a severe irritant on contact with skin, eyes or on inhalation (1% Virkon solution is not an irritant).
+
+#. The bin should be emptied of solids and liquids and rinsed clean with tap water prior to refilling. This prevents accelerated loss of potency of newly added solution.
+#. Fill the Kill bin to the desired level with water.
+#. Add 10g of Virkon powder for each litre of water added and stir until dissolved.
 
 
 Resources
@@ -131,7 +109,5 @@ Resources
 | http://www.materials.ox.ac.uk/uploads/file/COSHHRegulations.pdf
 | Working with substances hazardous to health
 | http://www.hse.gov.uk/pubns/indg136.pdf
-| Biohard safety proecures relating to bleach
-| https://extranet.fhcrc.org/EN/sections/ehs/hamm/chap5/section4.html
 | Inactivation (disinfection) processes
 | http://www.who.int/water_sanitation_health/dwq/en/watreatpath3.pdf

@@ -33,11 +33,11 @@ Use of PPE
 ==========
 Personal Protective Equipment (PPE) suitable for working with reagents and low risk micro-organisms is provided. The location of all PPE is indicated during the lab safety induction.
 
-Lab coats should be worn when working with micro-organisms or reagents.
+Lab coats should be worn by everyone in the BioLab when work with micro-organisms or reagents is in process.
 
 Disposable gloves should be worn when indicated by the MSDS of a reagent being worked with and during any work with micro-organisms.
 
-Protective eyewear should be worn when indicated by the MSDS of a reagent being worked with and during any work with micro-organisms.
+Protective eyewear should be worn by everyone in the BioLab when work with micro-organisms is in process or when the MSDS of a reagent being worked with indicates the need for protective eyewear.
 
 If suitable PPE is not available, the BSO should be informed immediately before any practical work is commenced.
 
@@ -177,7 +177,7 @@ Separate pipettes designated for ethidium bromide work and labelled as such shou
 
 A full description of how to set up and run agarose gels for DNA electrophoresis is available in `LBL07003 <lbl07003.rst>`__.
 
-More information on working with ethidium bromide is available in `LBL07005 <lbl07005.rst>`__.
+More information on working with ethidium bromide is available in `LBL09001 <lbl09001.rst>`__.
 
 UV illuminator
 ==============
