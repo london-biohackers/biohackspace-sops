@@ -100,8 +100,6 @@ Items for PIs to consider
    #. Consider, for example, the capacity of a GM plant to survive and become established and disseminate. Including its  ability to compete with or displace other plants.  The PI should consider the hazards associated with inserted genetic  elements, particularly if this codes for any toxic products that might affect the ecosystem or animal health.
    #. The PI should also consider the potential for transfer of genetic material between the GM plant and other organisms.
 
-#. The 
-
 .. [#] http://www.hse.gov.uk/pubns/misc208.pdf
 
 Obtaining advice on the risk assessment
@@ -110,10 +108,9 @@ It is required that the PI carrying out a contained use risk assessment should s
 
 Finalising a contained use risk assessment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Once the SC is happy that the contained use risk assessment is adequate, physical and electronic copies of the written risk assessment should be filed in the appropriate places.
+Once the SC is happy that the contained use risk assessment is adequate, the directors of London Biological Laboratories Ltd. will approve the commencement of work on the project. Physical and electronic copies of the written risk assessment must be filed in the appropriate places.
 
 The BSO is responsible for keeping the written risk assessment for the required 10 year period.
-
 
 Assessing the risks involved in the use of chemicals and reagents
 -----------------------------------------------------------------

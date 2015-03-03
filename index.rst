@@ -29,7 +29,7 @@ Biolab Rules and Guidelines
 +------------------------------+-----------------------------------------------------------------------+
 | `LBL03002 <lbl03002.rst>`__: | Constitution, Roles, and Responsibilities of the Safety Committee     |
 +------------------------------+-----------------------------------------------------------------------+
-| `LBL03003 <lbl03003.rst>`__: | Responsibilities of Principle INvestigators                           |
+| `LBL03003 <lbl03003.rst>`__: | Responsibilities of Principle Investigators                           |
 +------------------------------+-----------------------------------------------------------------------+
 
 4. General BioLab Procedures

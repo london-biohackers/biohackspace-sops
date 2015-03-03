@@ -1,0 +1,74 @@
+============================================================================
+LBL03002 - Composition, Roles, and Responsibilities of the Safety Committee
+============================================================================
+
++----------------------------+--------------------+
+| Approved by: S. Thompson   | SOP No. LBL03002   |
++----------------------------+--------------------+
+| Signed:                    | Effective from:    |
++----------------------------+--------------------+
+| Date:                      | Last edited:       |
++----------------------------+--------------------+
+
+Purpose
+=======
+
+This SOP describes the make-up of the Safety Committee in terms of its members, the roles which the safety committee plays in terms of the operation of the London Biohackspace BioLab and the responsibilities of the Safety Committee.
+
+Scope
+=====
+
+All users of the London Biohackspace BioLab need to be aware of the Safety Committee's roles, especially with regards to work with GMOs. Appointed members of the Safety Committee must be aware of the roles and responsibilities borne by the Safety Committee, as a whole, and thus the roles and responsibilities each individual appointed member of the Safety Committee bears. The directors of London Biological Laboratories Ltd. should also be aware of the roles and responsibilities of the committee in order make informed decisions when appointing new members of the Safety Committee.
+
+Responsibilities
+================
+
+The appointed members of the Safety Committee are required to ensure the Safety Committee fulfils the roles described in the this SOP.
+
+Definitions
+===========
+
+BSO
+  Biological Safety Officer
+PI
+  Principal Investigator
+SOP
+  Standard Operating Procedure
+GMO
+  Genetically Modified Organism
+PPE
+  Personal Protective Equipment
+
+Requirements
+============
+
+Composition of the Safety Committee
+-----------------------------------
+
+The Safety Committee comprises 3 permanent members:
+
+- the Biological Safety Officer (BSO),
+- and two directors of London Biological Laboratories Ltd.
+
+In addition, the three permanent members of the Safety Committee may appoint temporary members who possess expertise relevant to the decision at hand.
+
+Roles of the Safety Committee
+-----------------------------
+
+#. The safety committee will make decisions and give advice relating to environmental and personal safety within the London Biohackspace BioLab. However, the BSO is primarily responsible for ensuring that lab users are capable and enabled to follow the rules and guidelines laid out in the SOPs and associated documentation (including relevant government legislation).
+
+#. The safety Committee must review contained use risk assessments carried out by PIs proposing projects involving GMOs. The committee must work with the PI to ensure the assessment is adequate.
+
+#. In the case where the permanent members of the safety committee believe their collective expertise is not sufficient to ensure a well informed review of a risk assessment, they will appoint at least one temporary member with sufficient expertise relevant to the subject of the risk assessment.
+
+#. The safety committee should advise the directors of London Biological Laboratories Ltd. on whether to approve the commencement of work on a project where approval from the directors is required.
+
+Resources
+=========
+
+| HSE: SACGM Compendium of guidance - Biological Safety Officers
+| http://www.hse.gov.uk/biosafety/gmo/acgm/acgmcomp/part1.pdf
+
+| The Genetically Modified Organisms (Contained Use) Regulations 2014 Guidance on Regulations:
+| http://www.hse.gov.uk/pubns/books/l29.htm
+
