@@ -27,9 +27,9 @@ Biolab Rules and Guidelines
 +------------------------------+-----------------------------------------------------------------------+
 | `LBL03001 <lbl03001.rst>`__: | Roles and Responsibilities of the BSO                                 |
 +------------------------------+-----------------------------------------------------------------------+
-| `LBL03002 <lbl03002.rst>`__: | Constitution, Roles, and Responsibilities of the Safety Committee     |
+| `LBL03002 <lbl03002.rst>`__: | Composition, Roles, and Responsibilities of the Safety Committee      |
 +------------------------------+-----------------------------------------------------------------------+
-| `LBL03003 <lbl03003.rst>`__: | Responsibilities of Principle Investigators                           |
+| `LBL03003 <lbl03003.rst>`__: | Responsibilities of Principle Investigators and Lab Users             |
 +------------------------------+-----------------------------------------------------------------------+
 
 4. General BioLab Procedures
