@@ -37,7 +37,7 @@ GMO
 
 Responsibilities
 ================
- A BioLab user is responsible for following the best practices described in the London Biohackspace SOPs and associated documentation in order to carry out their work safely.
+A BioLab user is responsible for following the best practices described in the London Biohackspace SOPs and associated documentation in order to carry out their work safely.
 
 A PI is responsible for the best practices set out in the SOPs and associated documentation being followed by themselves and others during the course of work on a project. Where a risk assessment has been carried out (e.g. for a project involving GMOs) the PI is also responsible for the following of the best practices defined in that risk assessment during work by themselves, or others, on that project.
 
