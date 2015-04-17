@@ -90,15 +90,14 @@ Weekly cleaning and maintenance procedures
 ------------------------------------------
 
 #. Mop the floor with a 10% bleach solution
-#. Refill the Bleach solution in the kill bin. See `LBL04007 <lbl04007.rst>`__
+#. Empty the Kill bin of waste and refill with Virkon solution. See `LBL04007 <lbl04007.rst>`__
+#. Empty the EtBr waste bin if it is full. See
 #. Stock check the levels of consumables
 
    - Nitrile gloves
    - The spill kit
    - Bleach
    - Sterilizing Spray
-   
-
 
 Ad-Hoc cleaning and maintenance procedures
 ------------------------------------------

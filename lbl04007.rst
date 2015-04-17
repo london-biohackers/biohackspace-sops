@@ -36,12 +36,7 @@ Scope
 Responsibilities
 ================
 The operator of the Kill Bin is responsible for his or her own safety,
-and the safety of others, while disposing of waste. The major danger to
-health is the large quantity of bleach contained in the bin. Spilled
-bleach can cause severe damage to eyes and skin, and it is harmful if
-swallowed, or if its vapours are inhaled. For these reasons, and because
-the surfaces of the bin may have been contaminated by waste from a
-previous disposal, the bin should used with gloved hands.
+and the safety of others, while disposing of waste.
 
 Suitable hand and eye protection should be worn, particularly when moving and
 refilling the kill bin with Virkon.
@@ -70,26 +65,18 @@ Ensure the Kill Bin has been refilled with fresh Virkon solution in the past 7 d
 
 Material in the Kill Bin should be fully immersed for at least 30 minutes to ensure full inactivation.
 
-Emptying the Kill Bin of solid waste
-------------------------------------
+Emptying the Kill Bin
+---------------------
 
-If the kill bin is full of solid waste or the bin requires refilling the solid waste must be removed.
+If the kill bin is full of solid waste or the bin requires refilling with fresh 1% Virkon solution the bin must first be emptied. When the kill bin requires emptying it will likely contain a mixture of 1% Virkon solution, deactivated liquid waste and solid matter.
 
-Once waste has been fully immersed in the kill bin for a minimum of 30 mins it should be drained and removed to the general waste.
+Gloves, labcoat and eye protection should be worn as a precaution during this procedure.
 
-Emptying the Kill Bin of liquid waste
--------------------------------------
+#. Ensure that all waste has been immersed in the 1% Virkon solution for at least 30 minutes.
+#. Decant the liquid into the BioLab sink.
+#. Empty the solid matter into the general waste.
+#. Thoroughly rinse the bin with tap water to remove any remaining virkon-waste mixture.
 
-The solution in  **must not** be emptied into the sink in the biolab as it does
-not exit directly to the waste pipe, but instead to a storage tank where 
-gases can form.
-
-The bin consists of 1% Virkon solution and solid matter. 
-The solid matter should be disposed of into the general waste before 
-the liquid is removed (see above).
-
-Empty the liquid into a toilet or into an external open drain. Gloves and eye
-protection should be worn at all times.
 
 Refilling the Kill Bin
 ----------------------
@@ -98,10 +85,9 @@ The 1% Virkon solution in the Kill Bin should be replaced every 7 days or sooner
 
 Labcoat, gloves and eyeprotection must be worn during the refilling procedure. Virkon powder can be a severe irritant on contact with skin, eyes or on inhalation (1% Virkon solution is not an irritant).
 
-#. The bin should be emptied of solids and liquids and rinsed clean with tap water prior to refilling. This prevents accelerated loss of potency of newly added solution.
-#. Fill the Kill bin to the desired level with water.
+#. The bin should be emptied of solids and liquids and rinsed clean with tap water prior to refilling (see above). This prevents accelerated loss of potency of newly added solution.
+#. Fill the Kill bin to the desired level with water, 8L is a suggested quantity.
 #. Add 10g of Virkon powder for each litre of water added and stir until dissolved.
-
 
 Resources
 =========
