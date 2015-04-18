@@ -6,6 +6,12 @@ As specified in the `BioLab Rules <biolab-rules.rst>`__ the following advice mus
 
 General Safety
 ==============
+The Biological Safety Officer (BSO) is responsible for ensuring that users of the BioLab adhere to the rules, guidelines and Standard Operating Procedures (SOPs). The BSO also acts as the primary contact for any lab user with regards to any safety issues.
+
+| The current BSO is Samantha Thompson.
+| Email: bioscisam@gmail.com
+| Tel.: 07720677678.
+
 Worktops should be left as clear as possible after work has been completed.
 
 All containers should be labelled with contents, date and initials of the lab user. Unlabelled containers are a safety concern.

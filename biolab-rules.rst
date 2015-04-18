@@ -19,3 +19,7 @@ London Biohackspace BioLab Rules
 8. It is the duty of all individuals who have undergone safety training to report any breaches of rules 1-7 to the BSO.
 
 **Individuals caught contravening the above rules or behaving recklessly in the laboratory will be cautioned. If a second incident of rule contravention or reckless behaviour from the same individual is reported, the individual will be barred from accessing the laboratory. The decisions on this matter will be from the BSO and will be final.**
+
+| The current BSO is Samantha Thompson.
+| Email: bioscisam@gmail.com
+| Tel.: 07720677678.
