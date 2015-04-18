@@ -97,6 +97,8 @@ The importance of GMP during all work with micro-organisms will be explained to 
 
 A demonstration of the basic techniques for GMP will be given.
 
+The procedure for dealing with spillages of micro-organisms will be given and the location of the spill kit will be pointed out.
+
 Special GMO considerations
 --------------------------
 An explanation will be given of what is considered to be a GMO and what sort of projects are classed as containment level 1 (CL1) projects. 
