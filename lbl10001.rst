@@ -22,11 +22,11 @@ This SOP must be consulted whenever a lab user is injured by, or witnesses an ac
 
 An incident is an unplanned event that results in OR could have resulted in, any of the following outcomes:
 
-=> An injury
-=> Loss of containment of GMO
-=> Damage to equipment OR property
-=> Harm to the environment
-=> Actions that contravene any relevant rule or regulation
+- An injury
+- Loss of containment of GMO
+- Damage to equipment OR property
+- Harm to the environment
+- Actions that contravene any relevant rule or regulation
 
 Responsibilities
 ================
