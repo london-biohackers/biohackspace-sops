@@ -1,0 +1,54 @@
+=====================================================================
+LBL10001 - Reporting of Accidents and Incidents
+=====================================================================
+
++----------------------------+--------------------+
+| Approved by: S. Thompson   | SOP No. LBL10001   |
++----------------------------+--------------------+
+| Signed:                    | Effective from:    |
++----------------------------+--------------------+
+| Date:                      | Last edited:       |
++----------------------------+--------------------+
+
+Purpose
+=======
+
+This SOP deals with reporting of accidents and incidents. The purpose of this procedure is to improve the safety of lab users, and to ensure GMO containment.
+
+Scope
+=====
+
+This SOP must be consulted whenever a lab user is injured by, or witnesses an accident or injury.
+
+An incident is an unplanned event that results in OR could have resulted in, any of the following outcomes:
+
+=> An injury
+=> Loss of containment of GMO
+=> Damage to equipment OR property
+=> Harm to the environment
+=> Actions that contravene any relevant rule or regulation
+
+Responsibilities
+================
+
+Anyone can complete an accident/incident report form.
+
+
+Procedures
+==========
+
+Incidents can be reported by email or by filing the webform. Links are provided below.
+
+Please provide as much detail as you can to enable members to understand and respond to the incident. If you are reporting circumstances that involved the laboratory left in a poor state, items left out, damaged equipment etc, it would be useful if you can send photographic evidence via email to bso@biohackspace.org.
+
+Please provide your email if you wish to receive a response to your submission. Please be assured that the information you provide will be treated in accordance with relevant data protection and appropriate discretion.
+
+You can alternatively make incident reports directly to the Biological Safety Officer via email at bso@biohackspace.org
+
+
+
+Resources
+=========
+
+https://docs.google.com/a/limepepper.co.uk/forms/d/14okBFoQ-SOFa-5Z-Ufm7uULumgRAx85ZyUkGhJh4bvs/viewform
+
