@@ -23,6 +23,8 @@ Responsibilities
 ================
 Ultimately, the laboratory user who initiates and undertakes the lab work (i.e. the principal investigator) is responsible for the health and safety considerations and containment requirements involved with their project. It is a requirement that they be aware of the risks involved in the project and the exposure to these risks by themselves, other lab users, the wider community and the environment. Before commencing any work the risks involved in the project must be assessed by the the principal investigator, they must seek advice from an experienced third party and the satisfactory results of this process must be signed off by the Biological Safety Officer.
 
+The Principal investigator should begin by making a copy of the template risk asessment that is available here: - `GMO Activity Risk Assessment Template <https://goo.gl/C91Jpu>`__. It is important to fully consider each of the section requirements before submitting the Risk assessment for evaluation by the BSO/GMSC.
+
 Materials
 =========
 List of materials and methods for project work.
@@ -32,7 +34,7 @@ Related documents
 
 - `London Biohackspace BioLab Usage Guidelines <biolab-usage-guidelines.rst>`__
 - SOPs relating to procedures used within the proposed project
-- `London Biohackspace CL1 Project Risk Assessment Template <cl1-risk-assessment-template.rst>`__
+- `London Biohackspace CL1 Project Risk Assessment Template <https://goo.gl/C91Jpu>`__
 
 Definitions
 ===========
