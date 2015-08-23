@@ -129,8 +129,8 @@ Resources
 | http://www.frankshospitalworkshop.com/equipment/documents/autoclaves/service_manuals/Melag_EuroV-S_-_Fault_diagnosis.pdf
 
 .. |Screenshot-quick-programme.png| image:: images/Screenshot-quick-programme.png
-   :target: /view/File:Screenshot-quick-programme.png
+   :target: /images/Screenshot-quick-programme.png
 .. |Screenshot-universal-programme.png| image:: images/Screenshot-universal-programme.png
-   :target: /view/File:Screenshot-universal-programme.png
+   :target: /images/Screenshot-universal-programme.png
 .. |Screenshot-preheat.png| image:: images/Screenshot-preheat.png
-   :target: /view/File:Screenshot-preheat.png
+   :target: /images/Screenshot-preheat.png
