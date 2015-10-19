@@ -13,9 +13,9 @@ LBL08004 - Decontaminating Equipment for removal from  Biolab
 Context
 =======
 
-The biolab contains equipment that is used for molecular biology and work with GMO. Equipment that has been used for GMO should be considered superficially contaminated (for GMO containment purposes), and should not be removed from the lab without following this SOP.
+The biolab contains equipment that is used for molecular biology and work with GMO. Equipment that has been used for GMO should be considered superficially contaminated (for GMO containment purposes), and should not be removed from the lab.
 
-There are several circumstances under which it will be necessary to remove items of equipment. Examples are disposal or offsite repair. 
+There are several circumstances under which it will be necessary to remove items of equipment. Examples are disposal or offsite repair. This SOP describes the steps required to prepare equipment for removal.
 
 This SOP provides the procedure to ensure full and effective decontamination, or how to proceed if further assessment is required to obtain a certificate.
 
@@ -25,13 +25,14 @@ Scope
 This procedure is relevant for all users and their guests of the biolab.
 This procedure is applicable to both non-GMO and GMO scenarios.
 
+The certificate of decontamination is valid for immediate use, and the Equipment should be immediately removed from the lab. If it is used, then this SOP must be repeated.
+
 Responsibilities
 ================
 
 - All lab users should ensure that this SOP is followed by anyone moving equipment.
 - The person moving the equipment should ensure they have a cerificate of decontamination in hand before moving the equipment.
 - When this process is completed the certificate should be signed off by the BSO.
-
 
 
 Safety
@@ -41,18 +42,16 @@ The microbes that are in use in the biolab are categorized as Biological Agents,
 cause human disease (hazard group 1). In the GMO context, the microbes are considered 
 to be of no or negligible risk to human health and the environment.
 
-However disinfectant and antimicrobial chemicals must be used to ensure that equipment is free of these microbes before the equipment is moved.
+However disinfectant and antimicrobial chemicals must be used to ensure that equipment is free of these microbes before the equipment is moved. This is to ensure the safety of anyone coming into contact with the Equipment, and to ensure containment of GMO, in additional to primary GMP practices.
 
-The lab user is responsible for their own safety and that of others in the 
-vicinity during any protocol or procecure they are carrying out.
+The lab user is responsible for their own safety and that of others in the vicinity during any protocol or procecure they are carrying out. Cleaning chemicals can be hazardous, as can broken glass and electrical supplies.
 
 Materials
 =========
 
 Disinfectant for decontamination is available in the lab. When performing these steps, the lab user should wear appropriate PPE including disposable gloves and eyewear.
 
-
-
+1% ClearSurf is recommended for surface disinfectant.
 
 
 Related documents
@@ -72,21 +71,40 @@ SOP
 Procedures
 ==========
 
-Establishing 
----------------------------------------
+Initial inspection of the Equipment
+-----------------------------------
 
-#. Initially, the operator should obtain the user manual, or the service manual for the equipment and determine whether it specifies any procedures for decontamination.
+#. The operator should obtain the user manual, or the service manual for the equipment and determine whether it specifies any procedures for decontamination.
 #. The operator should then prepare for handling the item by wearing gloves and eye protection and if necessary a plastic apron.
-#. A visual inspection of the equipment should be performed
-#. Note any components that are damaged, or missing.
-#. The operator should make safe any damaged parts, such as broken glass, electrical parts, or other hazards.
-#. Note any componets of the equipment that can be autoclaved. These parts should be removed and autoclaved.
+#. A visual inspection of the equipment should be performed and notes on each point taken.
+#. Note the make/model, serial number, any accessories, and any components that are damaged, or missing.
+#. Note any components of the equipment that can be autoclaved. These parts should be removed and autoclaved.
 #. The operator should establish whether the equipment has any removable external containers, crucibles, carriers etc which would be a reservoir for microbial organisms.
-#. These items should be removed, and each assessed seperately, as if each were a single piece of equipment.
-#. The operator should perform external cleaning of the equipment with a Surface Cleaning disinfectant. (1% ClearSurf is recommended)
 #. The operator should establish whether there are any means of ingress, by which GMO can access the internal cavities.
+#. The operator should summarise these observations on the decontamination report.
+
+Decision Point
+--------------
+
+#. The operator must decide whether to proceed to the next stage, or seek a full GMO risk assessment.
+#. Equipment that is primarily used for storage of containers and enclosed vessels, and has no ports, holes, easily accessible internal cavities, such as incubators and refrigeration, can usually be decontaminated by surface cleaning. (Unless the surfaces and/or seals are damaged)
+#. Equipment that has had direct contact with microbes, or has accessible ports and cavities, will need to be individually assessed.
+
+
+Physical cleaning process
+-------------------------
+
+#. If appropirate, the operator should then proceed to the physical decontamination process.
+#. The operator should make safe any damaged parts, such as broken glass, electrical parts, or other hazards.
+#. For any remaviable items, these items should be removed/dissembled, and each assessed seperately, as if each were a single piece of equipment.
+#. The operator should perform external cleaning of the equipment with a Surface Cleaning disinfectant. (1% ClearSurf is recommended)
 #. If deeemd necessary, the equipment must be disassemsbled to enable disinfection of the internals of the equipment.
+
+Certificate of decontamination
+------------------------------
+
 #. The steps taken for decontamination should be recorded in the lab log book.
+#. The report should be filed with the BSO, or their delegate, who will assess the report and if applicable provide a certificate of decontamination.
 
 Restocking any cleaning materials used
 --------------------------------------
