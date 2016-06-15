@@ -96,6 +96,7 @@ The Armour method for EtBr deactivation is followed for deactivating the content
 
 A labcoat, eye-protection and gloves must be worn during the following procedure.
 
+#. Move the bin upstairs and take it outside, so that any volatile substances produced during the bleaching portion of deactivation may disperse.
 #. Add household bleach to the bin until the total volume of liquid has doubled.
 #. Let sit for 2-3 days.
 #. Use sodium hydroxide to adjust pH to 4-9. Test using universal indicator strips.
