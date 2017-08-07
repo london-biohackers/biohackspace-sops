@@ -1,7 +1,17 @@
 #
 #LBL02001 
 
-DOCS := index lbl01001 lbl02001 lbl03001 lbl04001 lbl04002 lbl04003 lbl04004 lbl04005 lbl04006 lbl04007 lbl04008 lbl05001 lbl06001 lbl06002 lbl07001 lbl07002 lbl07003 lbl07004 lbl08001 lbl08002 lbl08003 lbl09001 lbl10001 biolab-rules biolab-usage-guidelines cl1-risk-assessment-template
+DOCS := index biolab-rules biolab-usage-guidelines cl1-risk-assessment-template \
+	lbl01001 \
+	lbl02001 \
+	lbl03001 \
+	lbl04001 lbl04002 lbl04003 lbl04004 lbl04005 lbl04006 lbl04007 lbl04008 lbl04009 \
+	lbl05001 \
+	lbl06001 lbl06002 \
+	lbl07001 lbl07002 lbl07003 lbl07004 \
+	lbl08001 lbl08002 lbl08003 \
+	lbl09001 \
+	lbl10001
 
 PANDOC_OPTS := --number-sections --latex-engine=xelatex 
 
@@ -23,3 +33,7 @@ index.pdf: index.rst
 
 dirs:
 	mkdir -p mwiki
+
+.PHONY: clean
+clean:
+	rm -f *.pdf

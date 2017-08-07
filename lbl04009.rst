@@ -1,0 +1,117 @@
+==================================
+LBL04009 - Cold storage procedures
+==================================
+
+**DRAFT: This SOP is open for consultation and is not yet active.**
+
++----------------------------+--------------------+
+| Approved by: TBD           | SOP No. LBL04009   |
++----------------------------+--------------------+
+| Signed:                    | Effective from:    |
++----------------------------+--------------------+
+| Date:                      | Last edited:       |
++----------------------------+--------------------+
+
+Purpose
+=======
+
+This describes the usage of the Biolab freezers and refrigerator (collectively, the *cold storage*).
+
+Scope
+=====
+
+This SOP describes the usage of cold storage and should be consulted by anyone making use of these facilities for the storage of samples, reagents, etc.
+
+Responsibilities
+================
+
+This applies to anyone making use of cold storage.
+
+Cold storage is a limited, shared resource, and all users a responsible for maintaining the cleanliness and hygiene standards outlined in this SOP. Users should also take care not to use an excessive amount of cold storage space.
+
+To facilitate both hygiene and space management, samples must be clearly labelled and dated.
+
+Purpose of cold storage
+=======================
+The lab's fridge is for:
+
+- Short-term storage of living microorganism
+- Medium-term storage of oligos
+- Storage of pre-prepared chemical formulations, such as TBE buffer solution.
+
+The lab's freezers are for:
+
+- Long-term storage of cryoprotected microorganisms
+- Long-term storage of oligos and reagents (such as Taq polymerase)
+
+The lab cold storage is not for personal storage of material unrelated to work being performed in the lab.
+
+Procedures
+==========
+
+We are particularly concerned with storage of living organisms ("samples"), such as growth plates containing bacteria. Biological samples have a limited lifetime in which they can be safely (or feasibly) stored.
+
+Sample labelling
+----------------
+Samples of living microorganisms (Petri dishes, slant cultures, etc) must be clearly dated and labelled with the experimenter's name prior to storage. Include the year in the date, and use permanent marker. The name should consistute a unique identifier. Slack handle or email address is OK, first name might be alright, initials probably aren't.
+
+Example good label:
+
+| @wzdd, 07/10/17
+
+Example bad label:
+
+| aug 7
+
+Another example bad label:
+
+| n  
+
+Please label everything, even if it is not for personal use.
+
+Disposal of unlabelled or out-of-date samples
+---------------------------------------------
+Any unlabelled sample or sample which is out of date (see table below) should be disposed of. To dispose of a sample, open it (if sealed, e.g. with parafilm) and place the sample, its container, and any wrapping in the kill bin.
+
++----------------+--------------------+------------------+
+|Type of storage | Thing being stored | Maximum lifetime |
++----------------+--------------------+------------------+
+|Refrigerator    | Microorganisms     | One month        |
++----------------+--------------------+------------------+
+|Freezer         | Microorganisms     | One year         |
++----------------+--------------------+------------------+
+|Any             | Everything else    | No limit         |
++----------------+--------------------+------------------+
+
+When you dispose of out-of-date or unlabelled samples it is friendly, but not required, to let lab members know, for example by posting in Slack.
+
+Sealing live samples
+--------------------
+All live samples should be sealed prior to storage. This is particularly important for refrigerated samples, which quickly become smelly. 
+
+If your sample is in a tube, put a lid on the tube and close it tightly.
+
+If your sample is on a petri dish, seal it with parafilm.
+
+Long-term glycerol storage of microorganisms
+--------------------------------------------
+If you want to store living samples for longer than one month, consider treating them with cryoprotectants and freezing them. Typically glycerol is used for cryoprotection. Addgene_ and Thermofisher_ have informative articles on cryoprotection.
+
+Don't contaminate the cold storage, but assume it is contaminated
+-----------------------------------------------------------------
+You should take care not to contaminate cold storage areas, particularly with microorganisms. However, the safest assumption when working with cold storage is to assume that such contamination has occurred. Decontaminate appropriately after using cold storage.
+
+Maintenance and expected temperatures
+-------------------------------------
+The refrigerator should maintain a temperature of at most 4 degrees C. The freezers should be no warmer than -20 degrees C. 
+
+If you suspect that a cold storage unit is malfunctioning (for example, it is making an unusual noise, or it is not maintaining the expected temperature), turn it off and notify the BSO.
+
+Resources
+=========
+
+None.
+
+.. _Addgene: https://www.addgene.org/protocols/create-glycerol-stock/
+.. _Thermofisher: https://www.thermofisher.com/us/en/home/industrial/microbiology/microbiology-learning-center/storing-bacterial-samples-optimal-viability.html
+
