@@ -22,4 +22,4 @@ London Biohackspace BioLab Rules
 
 | The current BSO is Samantha Thompson.
 | Email: bioscisam@gmail.com
-| Tel.: 07720677678.
+| Tel.: 07720677578.
