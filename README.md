@@ -19,7 +19,7 @@ to build.
 Phrasing Styleguide
 -------------------
 
-"containment level 1" abreviated to "CL1".
+"containment level 1" abbreviated to "CL1".
 
 The lab is referred to always as the "London Biohackspace Biolab" or "BioLab".
 
