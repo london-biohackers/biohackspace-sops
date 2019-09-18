@@ -54,7 +54,7 @@ Worksite
 --------
 All work with GMOs as part of a CL1 project must take place within the BioLab. The BioLab is equipped with door access control in order to enable restriction of access to only trained users when appropriate. An observation window is also present.
 
-All work with GMMs as part of a CL1 project must be carried out on the wet work workbench (white surface, on the left as one enters the lab). This bench is impervious to water, resistant to acids, alkalis, solvents, disinfectants and decontamination agents and easy to clean.
+All work with GMMs as part of a CL1 project must be carried out on the wet work workbench (white surface). This bench is impervious to water, resistant to acids, alkalis, solvents, disinfectants and decontamination agents and easy to clean.
 
 Protective clothing
 -------------------
